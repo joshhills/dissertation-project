@@ -6,13 +6,15 @@ microservice architecture.
 """
 
 import flask
-import shared.messaging
-import shared.database
+from shared import database
+from shared import messaging
+from shared.model import JobState
 
 # Global fields
 app = flask.Flask(__name__)
-messaging = shared.messaging.RabbitMQMessaging()
-database = shared.database.Couchbase()
+msg = messaging.RabbitMQMessaging()
+db = database.Couchbase()
+
 
 # API
 @app.route("/scrape/product/<product_id>")
@@ -27,18 +29,31 @@ def scrape_product(product_id):
 
     :return:
     200 if request succeeds.
+    202 if the job is already processing.
     500 if request fails.
     """
 
-    # Add to queue for review microservice.
-    messaging.publish_message("review_queue", product_id)
+    # Check if job has already been queued
+    job_state = db.get_job_state(product_id)
 
-    # Add to queue for store microservice.
+    if job_state is not None:
+        response_str = "Product {0} already processing.".format(product_id)
+        return flask.Response(
+            response=response_str, status=202, mimetype="text/html"
+        )
 
+    # Add to queue for review microservice
+    msg.publish_message("review_queue", product_id)
 
-    # Add to queue for update microservice.
+    # Add to queue for store microservice
+    # msg.publish_message("store_queue", product_id)
 
-    # Store in database.
+    # Add to queue for update microservice
+    # msg.publish_message("update_queue", product_id)
+
+    # Store in database
+    job_state = JobState(product_id=product_id, finished=False)
+    db.store_job_state(job_state)
 
     # Return response
     response_str = "Product {0} added to work queue for scraping".format(product_id)

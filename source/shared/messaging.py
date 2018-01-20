@@ -26,6 +26,7 @@ class Messaging:
         raise NotImplementedError("Class %s doesn't implement from_json()" % self.__class__.__name__)
 
 
+
 class RabbitMQMessaging(Messaging):
     def __init__(self):
         # Define connection parameters.
