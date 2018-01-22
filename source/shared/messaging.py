@@ -6,11 +6,6 @@ Encapsulate interactions with a message queue.
 
 import pika
 
-# Connection parameters
-connection = pika.BlockingConnection(pika.ConnectionParameters('localhost'))
-channel = connection.channel()
-
-
 # Define an interface
 class Messaging:
     def publish_message(self, queue, body):
@@ -26,21 +21,20 @@ class Messaging:
         raise NotImplementedError("Class %s doesn't implement from_json()" % self.__class__.__name__)
 
 
-
 class RabbitMQMessaging(Messaging):
-    def __init__(self):
+    def __init__(self, host='localhost'):
         # Define connection parameters.
-        self.connection = pika.BlockingConnection(pika.ConnectionParameters('localhost'))
-        self.channel = connection.channel()
+        self.connection = pika.BlockingConnection(pika.ConnectionParameters(host))
+        self.channel = self.connection.channel()
 
     def publish_message(self, queue, body):
         # Assert the queue's existence
         self.channel.queue_declare(queue=queue, durable=True)
 
         # Publish the message
-        channel.basic_publish(
+        self.channel.basic_publish(
             exchange="",
-            routing_key="review_queue",
+            routing_key=queue,
             body=body,
             properties=pika.BasicProperties(
                 delivery_mode=2

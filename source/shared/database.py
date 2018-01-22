@@ -9,6 +9,7 @@ from couchbase.cluster import PasswordAuthenticator
 from couchbase.exceptions import NotFoundError
 from model import JobState
 
+
 class Database:
     def store_job_state(self, job_state):
         """
@@ -36,11 +37,11 @@ class Database:
 
 
 class Couchbase(Database):
-    def __init__(self):
+    def __init__(self, username='root', password='administrator', host='couchbase://localhost'):
         # Define connection parameters.
-        authenticator = PasswordAuthenticator('root', 'administrator')
+        authenticator = PasswordAuthenticator(username, password)
 
-        self.cluster = Cluster('couchbase://localhost')
+        self.cluster = Cluster(host)
         self.cluster.authenticate(authenticator=authenticator)
 
     def store_job_state(self, job_state):
