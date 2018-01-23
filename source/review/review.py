@@ -5,19 +5,46 @@ Microservice to scrape reviews from Steam API.
 Uses 'competing consumers' design pattern.
 """
 
-import pika
+import config
+from shared import messaging
 
-connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
-channel = connection.channel()
+msg = messaging.RabbitMQMessaging()
 
-channel.queue_declare(queue='reviews')
 
-def callback(ch, method, properties, body):
-    print(" [x] Received %r" % body)
+def begin_scraping(channel, method, properties, body):
+    """
+    Begin scraping a product in response to an object
+    being added to the work queue for this microservice.
 
-channel.basic_consume(callback,
-                      queue='hello',
-                      no_ack=True)
+    :param channel:
+    :param method:
+    :param properties:
+    :param body:
+    """
 
-print(' [*] Waiting for messages. To exit press CTRL+C')
-channel.start_consuming()
+    # Convert body into object in memory for ease-of-use.
+    print "Received message {0}".format(body);
+
+
+def register_subscribers():
+    """
+    Listen to the message queue.
+    """
+
+    msg.add_subscriber(
+        config.message_queue['queues']['work_review'],
+        begin_scraping
+    )
+
+
+def main():
+    """
+    Run the microservice.
+    """
+    try:
+        msg.start_consuming()
+    except KeyboardInterrupt:
+        msg.stop_consuming()
+
+if __name__ == '__main__':
+    main()

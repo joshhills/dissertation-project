@@ -5,6 +5,7 @@ Define the public entryway to the
 microservice architecture.
 """
 
+import config
 import flask
 from shared import database
 from shared import messaging
