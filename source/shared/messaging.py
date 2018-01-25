@@ -49,14 +49,14 @@ class Messaging:
 class RabbitMQMessaging(Messaging):
     def __init__(self, host='localhost'):
         # Define connection parameters.
-        self.connection = pika.SelectConnection(pika.ConnectionParameters(host))
+        self.connection = pika.BlockingConnection(pika.ConnectionParameters(host=host))
         self.channel = self.connection.channel()
 
     def start_consuming(self):
-        self.connection.ioloop.start()
+        self.channel.start_consuming()
 
     def stop_consuming(self):
-        self.connection.ioloop.stop()
+        self.channel.stop_consuming()
 
     def publish_message(self, queue, body):
         # Assert the queue's existence
@@ -73,6 +73,9 @@ class RabbitMQMessaging(Messaging):
         )
 
     def add_subscriber(self, queue, callback):
+        # Assert the queue's existence
+        self.channel.queue_declare(queue=queue, durable=True)
+
         self.channel.basic_consume(
             callback,
             queue=queue,
