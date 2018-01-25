@@ -42,7 +42,7 @@ class JSONAPIResource:
     def to_json(self):
         """Convert object to JSON encoded string."""
         return json.dumps(self, default=lambda o: o.__dict__,
-                          sort_keys=True, indent=4)
+                          sort_keys=True, indent=4, ensure_ascii=False)
 
     def __str__(self):
         return self.to_json()

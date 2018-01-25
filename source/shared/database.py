@@ -7,6 +7,7 @@ Encapsulate interactions with a database.
 from couchbase.cluster import Cluster
 from couchbase.cluster import PasswordAuthenticator
 from couchbase.exceptions import NotFoundError
+from couchbase import FMT_UTF8
 from model import JobState
 
 
@@ -17,10 +18,8 @@ class Database:
 
         :param job_state:
         A JobState object representative of the work.
-
-        :param finished:
-        Boolean dictating whether the job has been finished.
         """
+
         raise NotImplementedError("Class %s doesn't implement store_job_state()" % self.__class__.__name__)
 
     def get_job_state(self, product_id):
@@ -58,7 +57,8 @@ class Couchbase(Database):
 
         cluster.upsert(
             key=job_state.product_id,
-            value=job_state.to_json()
+            value=job_state.to_json(),
+            format=FMT_UTF8
         )
 
     def get_job_state(self, product_id):
@@ -79,5 +79,6 @@ class Couchbase(Database):
 
         cluster.upsert(
             key=application_review.recommendation_id,
-            value=application_review.to_json()
+            value=application_review.to_json(),
+            format=FMT_UTF8
         )

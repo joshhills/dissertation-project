@@ -38,13 +38,13 @@ def begin_scraping(channel, method, properties, body):
     product_id = body
 
     # Control iteration over API.
-    REVIEWS_PER_PAGE = 20
-    i = 0
+    reviews_per_page = 20
+    page_offset = 0
 
     # Get the number of items present in response data.
     while True:
         # Make a request for the necessary information.
-        request_url = config.api_url.format(product_id, REVIEWS_PER_PAGE * i)
+        request_url = config.api_url.format(product_id, reviews_per_page * page_offset)
         data = json.loads(urllib.urlopen(request_url).read())
 
         num_reviews = int(data[shared.model.FIELD_QUERY_SUMMARY][shared.model.FIELD_NUM_REVIEWS])
@@ -63,7 +63,8 @@ def begin_scraping(channel, method, properties, body):
                 # Store it in the database.
                 db.store_application_review(application_review)
 
-        i += 1
+        page_offset += 1
+
 
 def register_subscribers():
     """
