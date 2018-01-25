@@ -57,6 +57,9 @@ class JobState(JSONAPIResource):
             self.from_json(blob)
 
     def from_json(self, blob):
+        # Convert JSON encoded string into dictionary.
+        blob = json.loads(blob)
+
         self.product_id = blob[FIELD_PRODUCT_ID]
         self.finished = blob[FIELD_FINISHED]
 

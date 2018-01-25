@@ -16,8 +16,10 @@ import shared.model
 msg = messaging.RabbitMQMessaging()
 db = database.Couchbase()
 
+
 def is_desired_application_review():
     return True
+
 
 def begin_scraping(channel, method, properties, body):
     """
@@ -37,12 +39,12 @@ def begin_scraping(channel, method, properties, body):
 
     # Control iteration over API.
     REVIEWS_PER_PAGE = 20
-    i = 1
+    i = 0
 
     # Get the number of items present in response data.
     while True:
         # Make a request for the necessary information.
-        request_url = config.api_url.format(product_id, 0)
+        request_url = config.api_url.format(product_id, REVIEWS_PER_PAGE * i)
         data = json.loads(urllib.urlopen(request_url).read())
 
         num_reviews = int(data[shared.model.FIELD_QUERY_SUMMARY][shared.model.FIELD_NUM_REVIEWS])
