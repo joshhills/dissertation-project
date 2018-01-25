@@ -8,7 +8,9 @@ import json
 
 # Define custom fields.
 FIELD_PRODUCT_ID = "product_id"
-FIELD_FINISHED = "finished"
+FIELD_REVIEW_FINISHED = "review_finished"
+FIELD_STORE_FINISHED = "store_finished"
+FIELD_UPDATE_FINISHED = "update_finished"
 
 # Define the constant field strings used to manipulate REST API JSON.
 FIELD_QUERY_SUMMARY = 'query_summary'
@@ -49,10 +51,12 @@ class JSONAPIResource:
 
 
 class JobState(JSONAPIResource):
-    def __init__(self, blob=None, product_id=-1, finished=False):
+    def __init__(self, blob=None, product_id=-1, review_finished=False, store_finished=False, update_finished=False):
         if blob is None:
             self.product_id = product_id
-            self.finished = finished
+            self.reviews_finished = review_finished
+            self.store_finished = store_finished
+            self.updates_finished = update_finished
         else:
             self.from_json(blob)
 
@@ -61,7 +65,9 @@ class JobState(JSONAPIResource):
         blob = json.loads(blob)
 
         self.product_id = blob[FIELD_PRODUCT_ID]
-        self.finished = blob[FIELD_FINISHED]
+        self.reviews_finished = blob[FIELD_REVIEW_FINISHED]
+        self.store_finished = blob[FIELD_STORE_FINISHED]
+        self.updates_finished = blob[FIELD_UPDATE_FINISHED]
 
         return self
 

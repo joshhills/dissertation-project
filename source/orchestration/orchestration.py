@@ -44,17 +44,17 @@ def scrape_product(product_id):
         )
 
     # Store in database
-    job_state = JobState(product_id=product_id, finished=False)
+    job_state = JobState(product_id=product_id)
     db.store_job_state(job_state)
 
     # Add to queue for review microservice
     msg.publish_message(config.message_queue['queues']['work_review'], product_id)
 
     # Add to queue for store microservice
-    # msg.publish_message("store_queue", product_id)
+    # msg.publish_message(config.message_queue['queues']['work_store'], product_id)
 
     # Add to queue for update microservice
-    # msg.publish_message("update_queue", product_id)
+    # msg.publish_message(config.message_queue['queues']['work_update'], product_id)
 
     # Return response
     response_str = "Product {0} added to work queue for scraping".format(product_id)
