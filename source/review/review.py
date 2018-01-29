@@ -65,6 +65,11 @@ def begin_scraping(channel, method, properties, body):
 
         page_offset += 1
 
+    # Log that work has finished.
+    js = db.get_job_state(product_id)
+    js.review_finished = True
+    db.store_job_state(js)
+
 
 def register_subscribers():
     """
@@ -74,7 +79,7 @@ def register_subscribers():
     print "Registering subscribers"
 
     msg.add_subscriber(
-        config.message_queue['queues']['work_review'],
+        config.messaging['queues']['work_review'],
         begin_scraping
     )
 

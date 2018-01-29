@@ -1,2 +1,4 @@
 .idea
 dissertation.egg-info
+.ipynb_checkpoints
+venv

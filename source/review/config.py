@@ -1,4 +1,4 @@
-message_queue = {
+messaging = {
     'host': 'localhost',
     'queues': {
         'work_review': 'work_review_queue',

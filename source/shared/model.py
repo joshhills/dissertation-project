@@ -54,9 +54,9 @@ class JobState(JSONAPIResource):
     def __init__(self, blob=None, product_id=-1, review_finished=False, store_finished=False, update_finished=False):
         if blob is None:
             self.product_id = product_id
-            self.reviews_finished = review_finished
+            self.review_finished = review_finished
             self.store_finished = store_finished
-            self.updates_finished = update_finished
+            self.update_finished = update_finished
         else:
             self.from_json(blob)
 
@@ -65,9 +65,9 @@ class JobState(JSONAPIResource):
         blob = json.loads(blob)
 
         self.product_id = blob[FIELD_PRODUCT_ID]
-        self.reviews_finished = blob[FIELD_REVIEW_FINISHED]
+        self.review_finished = blob[FIELD_REVIEW_FINISHED]
         self.store_finished = blob[FIELD_STORE_FINISHED]
-        self.updates_finished = blob[FIELD_UPDATE_FINISHED]
+        self.update_finished = blob[FIELD_UPDATE_FINISHED]
 
         return self
 

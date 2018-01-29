@@ -1,4 +1,15 @@
-message_queue = {
+# App settings
+app = {
+    'port': 8888,
+    'debug': True,
+    'version': 0.2,
+    'title': 'Dissertation Project API',
+    'description': 'Data-mining service architecture.',
+    'documentation_url': '/doc/'
+}
+
+# Messaging settings
+messaging = {
     'host': 'localhost',
     'queues': {
         'work_review': 'work_review_queue',
@@ -8,6 +19,7 @@ message_queue = {
     }
 }
 
+# Database settings
 database = {
     'host': 'couchbase://localhost',
     'username': 'root',
