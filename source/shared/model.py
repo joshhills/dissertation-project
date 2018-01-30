@@ -61,8 +61,9 @@ class JobState(JSONAPIResource):
             self.from_json(blob)
 
     def from_json(self, blob):
-        # Convert JSON encoded string into dictionary.
-        blob = json.loads(blob)
+        # Convert JSON encoded string into a dictionary.
+        if isinstance(blob, basestring):
+            blob = json.loads(blob)
 
         self.product_id = blob[FIELD_PRODUCT_ID]
         self.review_finished = blob[FIELD_REVIEW_FINISHED]
@@ -101,6 +102,10 @@ class ApplicationReview(JSONAPIResource):
             self.from_json(blob)
 
     def from_json(self, blob):
+        # Convert JSON encoded string into a dictionary.
+        if isinstance(blob, basestring):
+            blob = json.loads(blob)
+
         # Review meta.
         self.recommendation_id = blob[FIELD_RECOMMENDATION_ID]
         self.language = blob[FIELD_LANGUAGE]

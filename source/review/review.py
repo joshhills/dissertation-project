@@ -17,7 +17,19 @@ msg = messaging.RabbitMQMessaging()
 db = database.Couchbase()
 
 
-def is_desired_application_review():
+def is_desired_application_review(application_review):
+    """
+    Some reviews may be irrelevant based
+    on aspects of the context of their decision.
+
+    Make a decision as to whether or not
+    a review should be kept.
+
+    :param ApplicationReview application_review: The review in question.
+
+    :return:
+    True if the review should be stored.
+    """
     return True
 
 
@@ -26,10 +38,7 @@ def begin_scraping(channel, method, properties, body):
     Begin scraping a product in response to an object
     being added to the work queue for this microservice.
 
-    :param channel:
-    :param method:
-    :param properties:
-    :param body:
+    :param body: The contents of the message.
     """
 
     print "Received message {0}".format(body)
@@ -59,7 +68,7 @@ def begin_scraping(channel, method, properties, body):
             application_review = ApplicationReview(data[shared.model.FIELD_REVIEWS][i])
 
             # Make a decision as to whether to keep it.
-            if is_desired_application_review():
+            if is_desired_application_review(application_review):
                 # Store it in the database.
                 db.store_application_review(application_review)
 

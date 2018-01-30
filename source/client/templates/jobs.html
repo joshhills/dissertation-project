@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block title %}Home{% endblock %}
+{% block contents %}
+    <h2>
+        Jobs
+    </h2>
+    <table>
+        <tr>
+            <th>
+                Product ID
+            </th>
+            <th>
+                Review Finished
+            </th>
+            <th>
+                Store Finished
+            </th>
+            <th>
+                Store Finished
+            </th>
+        </tr>
+        {% for job_state in job_states %}
+        <tr>
+            <td>
+                {{ job_state.product_id }}
+            </td>
+            <td>
+                {{ job_state.review_finished }}
+            </td>
+            <td>
+                {{ job_state.store_finished }}
+            </td>
+            <td>
+                {{ job_state.update_finished }}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

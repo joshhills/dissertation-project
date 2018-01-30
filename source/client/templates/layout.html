@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <title>Dissertation Project - {% block title %}{% endblock %}</title>
+    {% endblock %}
+</head>
+<body>
+    {% block navigation %}
+    <div>
+        <h1>
+            Dissertation Project
+        </h1>
+        <ul>
+            <li>
+                <a href="/">Home</a>
+            </li>
+            <li>
+                <a href="/jobs">Jobs</a>
+            </li>
+        </ul>
+    </div>
+    {% endblock %}
+    <div>
+        {% block contents %}
+        {% endblock %}
+    </div>
+    {% block footer %}
+    <div>
+        <p>
+            Footer
+        </p>
+    </div>
+    {% endblock %}
+</body>
+</html>

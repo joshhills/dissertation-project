@@ -7,6 +7,7 @@ Encapsulate interactions with a database.
 from couchbase.cluster import Cluster
 from couchbase.cluster import PasswordAuthenticator
 from couchbase.exceptions import NotFoundError
+from couchbase.n1ql import N1QLQuery
 from couchbase import FMT_UTF8
 from model import JobState
 
@@ -38,9 +39,24 @@ class Database:
         """
         Store a review for an application.
 
-        :param application_review:
-        The ApplicationReview that has been parsed and tested.
+        :param shared.model.ApplicationReview application_review:
+        The review that has been parsed and tested.
         """
+        raise NotImplementedError("Class %s doesn't implement store_application_review()" % self.__class__.__name__)
+
+    def run_query(self, query, name):
+        """
+        Run a generic query without interfacing
+        with specific library methods as a catch-all.
+
+        :param query: The query string to execute.
+        :param name: The name of the database table/cluster to perform the query on.
+
+        :return:
+        The response from the database.
+        """
+        raise NotImplementedError("Class %s doesn't implement run_query()" % self.__class__.__name__)
+
 
 class Couchbase(Database):
     def __init__(self, username='root', password='administrator', host='couchbase://localhost'):
@@ -82,3 +98,9 @@ class Couchbase(Database):
             value=application_review.to_json(),
             format=FMT_UTF8
         )
+
+    def run_query(self, query, name):
+        bucket = self.cluster.open_bucket(name)
+        q = N1QLQuery(query)
+        results = bucket.n1ql_query(q)
+        return results
