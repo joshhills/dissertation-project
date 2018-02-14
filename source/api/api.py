@@ -9,7 +9,8 @@ No need for CRUD, simple RESTful tasks.
 """
 
 import config
-from flask import Flask
+import json
+from flask import Flask, request
 from flask_restplus import Api, Resource
 from shared import database
 from shared import messaging
@@ -39,6 +40,7 @@ ons = api.namespace(
 
 @ons.route('/scrape/<string:product_id>', endpoint='scrape')
 @api.param('product_id', 'The unique id of the product on Steam.')
+@api.param('update_feedname', 'Optional feed_name to filter news items as product updates.')
 class ScrapeProduct(Resource):
 
     @api.response(200, 'Added to work queue.')
@@ -47,6 +49,11 @@ class ScrapeProduct(Resource):
         """
         Add product to work queues to scrape its information.
         """
+
+        # Get extra arguments.
+        update_feedname = request.args.get('update_feedname')
+        if update_feedname is None:
+            update_feedname = -1
 
         # Check if job has already been queued
         job_state = db.get_job_state(product_id)
@@ -60,13 +67,18 @@ class ScrapeProduct(Resource):
         db.store_job_state(job_state)
 
         # Add to queue for review microservice
-        msg.publish_message(config.messaging['queues']['work_review'], product_id)
+        # msg.publish_message(config.messaging['queues']['work_review'], product_id)
 
         # Add to queue for store microservice
         # msg.publish_message(config.messaging['queues']['work_store'], product_id)
 
         # Add to queue for update microservice
-        # msg.publish_message(config.messaging['queues']['work_update'], product_id)
+        msg.publish_message(config.messaging['queues']['work_update'], json.dumps(
+            {
+                'product_id': product_id,
+                'update_feedname': update_feedname
+            }
+        ))
 
         # Return response
         response_str = "Product {0} added to work queue for scraping".format(product_id)

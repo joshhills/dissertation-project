@@ -34,6 +34,9 @@ FIELD_AUTHOR_NUM_REVIEWS = 'num_reviews'
 FIELD_AUTHOR_TOTAL_PLAYTIME = 'playtime_forever'
 FIELD_AUTHOR_LAST_PLAYED = 'last_played'
 
+FIELD_UPDATE_ID = 'gid'
+FIELD_FEED_NAME = 'feedname'
+FIELD_DATE = 'date'
 
 # Define a loose interface for objects consumed RESTfully.
 class JSONAPIResource:
@@ -123,5 +126,33 @@ class ApplicationReview(JSONAPIResource):
         self.author_num_reviews = blob[FIELD_AUTHOR][FIELD_AUTHOR_NUM_REVIEWS]
         self.author_total_playtime = blob[FIELD_AUTHOR][FIELD_AUTHOR_TOTAL_PLAYTIME]
         self.author_last_played = blob[FIELD_AUTHOR][FIELD_AUTHOR_LAST_PLAYED]
+
+        return self
+
+
+# Class to store update information in memory.
+class ApplicationUpdate(JSONAPIResource):
+    # Constructor equivalent.
+    def __init__(self, blob=None):
+        # Store the decoded JSON dictionary internally for posterity.
+        # self.blob = blob
+
+        if blob is None:
+            # Review meta.
+            self.update_id = None
+            self.feed_name = None
+            self.date_created = None
+        else:
+            self.from_json(blob)
+
+    def from_json(self, blob):
+        # Convert JSON encoded string into a dictionary.
+        if isinstance(blob, basestring):
+            blob = json.loads(blob)
+
+        # Update meta.
+        self.update_id = blob[FIELD_UPDATE_ID]
+        self.feed_name = blob[FIELD_FEED_NAME]
+        self.date_created = blob[FIELD_DATE]
 
         return self

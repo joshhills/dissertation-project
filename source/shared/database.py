@@ -99,6 +99,17 @@ class Couchbase(Database):
             format=FMT_UTF8
         )
 
+    def store_application_update(self, application_update):
+        # Access the correct cluster.
+        # TODO: Create cluster if not created.
+        cluster = self.cluster.open_bucket('update')
+
+        cluster.upsert(
+            key=application_update.update_id,
+            value=application_update.to_json(),
+            format=FMT_UTF8
+        )
+
     def run_query(self, query, name):
         bucket = self.cluster.open_bucket(name)
         q = N1QLQuery(query)

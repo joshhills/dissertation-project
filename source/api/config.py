@@ -15,6 +15,7 @@ messaging = {
         'work_review': 'work_review_queue',
         'work_results': 'work_results_queue',
         'work_store': 'work_store_queue',
+        'work_update': 'work_update_queue',
         'global_error': 'global_error'
     }
 }
