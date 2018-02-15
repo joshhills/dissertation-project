@@ -20,6 +20,7 @@ from shared.model import JobState
 app = Flask(__name__)
 msg = messaging.RabbitMQMessaging()
 db = database.Couchbase()
+job_bucket = db.get_connection('job')
 
 # Define API
 api = Api(
@@ -64,26 +65,28 @@ class ScrapeProduct(Resource):
 
         # Store in database
         job_state = JobState(product_id=product_id)
-        db.store_job_state(job_state)
+        db.store_job_state(job_state, job_bucket)
 
         # Add to queue for review microservice
         # msg.publish_message(config.messaging['queues']['work_review'], product_id)
 
         # Add to queue for store microservice
-        # msg.publish_message(config.messaging['queues']['work_store'], product_id)
+        msg.publish_message(config.messaging['queues']['work_store'], product_id)
 
         # Add to queue for update microservice
-        msg.publish_message(config.messaging['queues']['work_update'], json.dumps(
-            {
-                'product_id': product_id,
-                'update_feedname': update_feedname
-            }
-        ))
+        # msg.publish_message(config.messaging['queues']['work_update'], json.dumps(
+        #     {
+        #         'product_id': product_id,
+        #         'update_feedname': update_feedname
+        #     }
+        # ))
 
         # Return response
         response_str = "Product {0} added to work queue for scraping".format(product_id)
         return response_str, 200
 
+
+# TODO: Provoke individual jobs.
 
 # Run the service
 if __name__ == '__main__':

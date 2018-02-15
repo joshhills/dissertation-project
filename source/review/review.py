@@ -15,7 +15,8 @@ import shared.model
 
 msg = messaging.RabbitMQMessaging()
 db = database.Couchbase()
-
+job_bucket = db.get_connection('job')
+review_bucket = db.get_connection('review')
 
 def is_desired_application_review(application_review):
     """
@@ -70,14 +71,14 @@ def begin_scraping(channel, method, properties, body):
             # Make a decision as to whether to keep it.
             if is_desired_application_review(application_review):
                 # Store it in the database.
-                db.store_application_review(application_review)
+                db.store_application_review(application_review, review_bucket)
 
         page_offset += 1
 
     # Log that work has finished.
     js = db.get_job_state(product_id)
     js.review_finished = True
-    db.store_job_state(js)
+    db.store_job_state(js, job_bucket)
 
 
 def register_subscribers():

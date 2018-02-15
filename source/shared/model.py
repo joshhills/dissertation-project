@@ -38,6 +38,15 @@ FIELD_UPDATE_ID = 'gid'
 FIELD_FEED_NAME = 'feedname'
 FIELD_DATE = 'date'
 
+FIELD_APP_ID = 'steam_appid'
+FIELD_NAME = 'name'
+FIELD_IS_FREE = 'is_free'
+FIELD_METACRITIC_SCORE = 'metacritic_score'
+FIELD_SCORE = 'score'
+FIELD_GENRES = 'genres'
+FIELD_DESCRIPTION = 'description'
+FIELD_RELEASE_DATE = 'release_date'
+
 # Define a loose interface for objects consumed RESTfully.
 class JSONAPIResource:
     def from_json(self, blob):
@@ -138,7 +147,6 @@ class ApplicationUpdate(JSONAPIResource):
         # self.blob = blob
 
         if blob is None:
-            # Review meta.
             self.update_id = None
             self.feed_name = None
             self.date_created = None
@@ -154,5 +162,42 @@ class ApplicationUpdate(JSONAPIResource):
         self.update_id = blob[FIELD_UPDATE_ID]
         self.feed_name = blob[FIELD_FEED_NAME]
         self.date_created = blob[FIELD_DATE]
+
+        return self
+
+
+# Class to store store information in memory.
+class ApplicationStore(JSONAPIResource):
+    # Constructor equivalent.
+    def __init__(self, blob=None):
+        # Store the decoded JSON dictionary internally for posterity.
+        # self.blob = blob
+
+        if blob is None:
+            self.product_id = None
+            self.name = None
+            self.is_free = None
+            self.metacritic_score = None
+            self.genres = []
+            self.date_released = None
+        else:
+            self.from_json(blob)
+
+    def from_json(self, blob):
+        # Convert JSON encoded string into a dictionary.
+        if isinstance(blob, basestring):
+            blob = json.loads(blob)
+
+        # Update meta.
+        self.product_id = str(blob[FIELD_APP_ID])
+        self.name = blob[FIELD_NAME]
+        self.is_free = blob[FIELD_IS_FREE]
+        self.metacritic_score = blob[FIELD_METACRITIC_SCORE][FIELD_SCORE]
+
+        self.genres = []
+        for genre in blob[FIELD_GENRES]:
+            self.genres.append(genre[FIELD_DESCRIPTION])
+
+        self.date_released = blob[FIELD_RELEASE_DATE][FIELD_DATE]
 
         return self

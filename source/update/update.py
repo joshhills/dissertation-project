@@ -11,12 +11,11 @@ import json
 from shared import messaging
 from shared import database
 from shared.model import ApplicationUpdate
-from couchbase import FMT_UTF8
-import shared.model
 
 msg = messaging.RabbitMQMessaging()
 db = database.Couchbase()
-
+update_bucket = db.get_connection('update')
+job_bucket = db.get_connection('job')
 
 def is_desired_application_update(application_update, update_feedname):
     """
@@ -62,26 +61,18 @@ def begin_scraping(channel, method, properties, body):
     request_url = config.api_url.format(product_id, update_count)
     data = json.loads(urllib.urlopen(request_url).read())
 
-    cluster = db.cluster.open_bucket('update')
-
     for i in range(update_count):
         update = ApplicationUpdate(data['appnews']['newsitems']['newsitem'][i])
 
         # Make a decision as to whether to keep it.
         if is_desired_application_update(update, update_feedname):
             # Store it in the database.
-            # TODO: Sort this out in the database class and review microservice.
-            # db.store_application_update(update)
-            cluster.upsert(
-                key=update.update_id,
-                value=update.to_json(),
-                format=FMT_UTF8
-            )
+            db.store_application_update(update, update_bucket)
 
     # Log that work has finished.
     js = db.get_job_state(product_id)
     js.update_finished = True
-    db.store_job_state(js)
+    db.store_job_state(js, job_bucket)
 
 
 def register_subscribers():
