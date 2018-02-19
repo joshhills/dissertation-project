@@ -1,28 +1,32 @@
 version: '3'
 services:
-#  api:
-#    build: ./api
-#    ports:
-#      - "8888:8888"
-#    # depends_on:
+  api:
+    build:
+      dockerfile: api
+    ports:
+      - "8888:8888"
+    depends_on:
+      - messaging
+      - database
 #  review:
 #    build: ./review
-#  messaging:
-#    image: "rabbitmq:3-management"
-#    hostname: messaging
-#    ports:
-#      - 8080:15672
-#      - 5672:5672
-#      - 5671:5671
-#    environment:
-#      RABBITMQ_DEFAULT_PASS: pass
-#      RABBITMQ_DEFAULT_USER: user
-#      RABBITMQ_DEFAULT_VHOST: vhost
+  messaging:
+    image: "rabbitmq:3-management"
+    hostname: messaging
+    ports:
+      - 8080:15672
+      - 5672:5672
+      - 5671:5671
+    environment:
+      RABBITMQ_DEFAULT_PASS: pass
+      RABBITMQ_DEFAULT_USER: user
+      RABBITMQ_DEFAULT_VHOST: vhost
   database:
     build:
-      context: .
       dockerfile: database
     tty: true
+    volumes:
+     - ~/couchbase:/opt/couchbase/var
     ports:
      - 8091:8091
      - 8092:8092
