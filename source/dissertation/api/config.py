@@ -1,5 +1,6 @@
 # App settings
 app = {
+    'host': '0.0.0.0',
     'port': 8888,
     'debug': True,
     'version': 0.2,
@@ -22,7 +23,7 @@ messaging = {
 
 # Database settings
 database = {
-    'host': 'couchbase://localhost',
+    'host': 'couchbase://database',
     'username': 'root',
     'password': 'administrator'
 }

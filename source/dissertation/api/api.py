@@ -9,7 +9,6 @@ No need for CRUD, simple RESTful tasks.
 """
 
 import config
-import json
 from flask import Flask, request
 from flask_restplus import Api, Resource
 from shared import database
@@ -18,8 +17,8 @@ from shared.model import JobState
 
 # Global fields
 app = Flask(__name__)
-msg = messaging.RabbitMQMessaging()
-db = database.Couchbase()
+msg = messaging.RabbitMQMessaging(host='messaging')
+db = database.Couchbase(host=config.database['host'])
 job_bucket = db.get_connection('job')
 
 # Define API
@@ -91,6 +90,7 @@ class ScrapeProduct(Resource):
 # Run the service
 if __name__ == '__main__':
     app.run(
+        host=config.app['host'],
         debug=config.app['debug'],
         port=int(config.app['port'])
     )

@@ -12,7 +12,7 @@ from shared.model import JobState
 
 # Global fields
 app = Flask(__name__)
-db = database.Couchbase()
+db = database.Couchbase(host=config.database['host'])
 
 
 @app.route('/')
@@ -42,6 +42,7 @@ def jobs():
 # Run the service
 if __name__ == '__main__':
     app.run(
+        host=config.app['host'],
         debug=config.app['debug'],
         port=int(config.app['port'])
     )

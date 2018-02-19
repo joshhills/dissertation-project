@@ -47,9 +47,11 @@ class Messaging:
 
 
 class RabbitMQMessaging(Messaging):
-    def __init__(self, host='localhost'):
+    def __init__(self, host='localhost', username='josh', password='buyinggf', port=5672, vhost='/'):
         # Define connection parameters.
-        self.connection = pika.BlockingConnection(pika.ConnectionParameters(host=host))
+        self.credentials = pika.PlainCredentials(username, password)
+        parameters = pika.ConnectionParameters(host=host, port=port, virtual_host=vhost, credentials=self.credentials)
+        self.connection = pika.BlockingConnection(parameters)
         self.channel = self.connection.channel()
 
     def start_consuming(self):

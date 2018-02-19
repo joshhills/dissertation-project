@@ -12,8 +12,8 @@ from shared import messaging
 from shared import database
 from shared.model import ApplicationStore
 
-msg = messaging.RabbitMQMessaging()
-db = database.Couchbase()
+msg = messaging.RabbitMQMessaging(host='messaging')
+db = database.Couchbase(host=config.database['host'])
 store_bucket = db.get_connection('store')
 job_bucket = db.get_connection('job')
 
