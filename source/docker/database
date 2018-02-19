@@ -1,0 +1,6 @@
+FROM couchbase:community
+
+COPY wait-for-it.sh /opt/couchbase
+COPY migrate-database.sh /opt/couchbase
+
+CMD ["/opt/couchbase/migrate-database.sh"]
