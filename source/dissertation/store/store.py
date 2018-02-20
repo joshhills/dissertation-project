@@ -42,12 +42,10 @@ def begin_scraping(channel, method, properties, body):
 
     db.store_application_store(application_store, store_bucket)
 
-    print application_store
-
     # Log that work has finished.
-    # js = db.get_job_state(product_id)
-    # js.store_finished = True
-    # db.store_job_state(js, job_bucket)
+    js = db.get_job_state(product_id)
+    js.store_finished = True
+    db.store_job_state(js, job_bucket)
 
 
 def register_subscribers():

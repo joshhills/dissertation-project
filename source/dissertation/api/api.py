@@ -9,6 +9,7 @@ No need for CRUD, simple RESTful tasks.
 """
 
 import config
+import json
 from flask import Flask, request
 from flask_restplus import Api, Resource
 from shared import database
@@ -67,18 +68,18 @@ class ScrapeProduct(Resource):
         db.store_job_state(job_state, job_bucket)
 
         # Add to queue for review microservice
-        # msg.publish_message(config.messaging['queues']['work_review'], product_id)
+        msg.publish_message(config.messaging['queues']['work_review'], product_id)
 
         # Add to queue for store microservice
         msg.publish_message(config.messaging['queues']['work_store'], product_id)
 
         # Add to queue for update microservice
-        # msg.publish_message(config.messaging['queues']['work_update'], json.dumps(
-        #     {
-        #         'product_id': product_id,
-        #         'update_feedname': update_feedname
-        #     }
-        # ))
+        msg.publish_message(config.messaging['queues']['work_update'], json.dumps(
+            {
+                'product_id': product_id,
+                'update_feedname': update_feedname
+            }
+        ))
 
         # Return response
         response_str = "Product {0} added to work queue for scraping".format(product_id)

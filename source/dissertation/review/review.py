@@ -13,8 +13,8 @@ from shared import database
 from shared.model import ApplicationReview
 import shared.model
 
-msg = messaging.RabbitMQMessaging()
-db = database.Couchbase()
+msg = messaging.RabbitMQMessaging(host='messaging')
+db = database.Couchbase(host=config.database['host'])
 job_bucket = db.get_connection('job')
 review_bucket = db.get_connection('review')
 

@@ -6,7 +6,7 @@ set -m
 /entrypoint.sh couchbase-server &
 
 if [ ! -d "/opt/couchbase/var/lib/couchbase/data" ]; then
-    /opt/couchbase/wait-for-it.sh -t 0 localhost:8091 --strict
+    /opt/couchbase/wait-for-it.sh localhost:8091 -t 0 --strict
 
     echo "Setting up database..."
 
@@ -47,7 +47,7 @@ if [ ! -d "/opt/couchbase/var/lib/couchbase/data" ]; then
     http://localhost:8091/settings/indexes \
     -d 'indexerThreads=0&logLevel=info&maxRollbackPoints=5&memorySnapshotInterval=200&stableSnapshotInterval=5000&storageMode=forestdb'
 
-    /opt/couchbase/wait-for-it.sh -t 0 localhost:8093 --strict
+    /opt/couchbase/wait-for-it.sh  localhost:8093 -t 0 --strict
 
     sleep 10
 
