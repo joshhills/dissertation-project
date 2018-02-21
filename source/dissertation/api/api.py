@@ -18,7 +18,6 @@ from shared.model import JobState
 
 # Global fields
 app = Flask(__name__)
-msg = messaging.RabbitMQMessaging(host='messaging')
 db = database.Couchbase(host=config.database['host'])
 job_bucket = db.get_connection('job')
 
@@ -50,6 +49,9 @@ class ScrapeProduct(Resource):
         """
         Add product to work queues to scrape its information.
         """
+
+        # Create a connection to messaging.
+        msg = messaging.RabbitMQMessaging(host='messaging')
 
         # Get extra arguments.
         update_feedname = request.args.get('update_feedname')

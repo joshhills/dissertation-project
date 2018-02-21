@@ -33,12 +33,16 @@ def begin_scraping(channel, method, properties, body):
     product_id = body
 
     # Make request for information.
-    request_url = config.api_url.format(product_id)
-    data = json.loads(urllib.urlopen(request_url).read())
+    request_url = config.api_url_1.format(product_id)
+    data1 = json.loads(urllib.urlopen(request_url).read())
 
-    data = data[product_id]["data"]
+    request_url = config.api_url_2.format(product_id)
+    data2 = json.loads(urllib.urlopen(request_url).read())
 
-    application_store = ApplicationStore(data)
+    # TODO: Clean up
+    data1 = data1[product_id]["data"]
+
+    application_store = ApplicationStore(data1, data2)
 
     db.store_application_store(application_store, store_bucket)
 

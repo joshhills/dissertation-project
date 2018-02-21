@@ -66,7 +66,7 @@ def begin_scraping(channel, method, properties, body):
         # Iterate over reviews.
         for i in range(num_reviews):
             # Create object representation.
-            application_review = ApplicationReview(data[shared.model.FIELD_REVIEWS][i])
+            application_review = ApplicationReview(product_id, data[shared.model.FIELD_REVIEWS][i])
 
             # Make a decision as to whether to keep it.
             if is_desired_application_review(application_review):
