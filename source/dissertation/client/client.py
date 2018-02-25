@@ -18,7 +18,7 @@ db = database.Couchbase(host=config.database['host'])
 @app.route('/')
 def index():
     """
-
+    Serve the base template.
     """
     return render_template('index.html')
 
@@ -26,14 +26,13 @@ def index():
 @app.route('/jobs')
 def jobs():
     """
-
+    Display a list of the jobs catalogued by the system.
     """
     results = db.run_query('SELECT * FROM job', 'job')
 
     job_states = []
 
     for row in results:
-        print row
         job_states.append(JobState(row['job']))
 
     return render_template('jobs.html', job_states=job_states)

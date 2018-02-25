@@ -75,6 +75,9 @@ class ScrapeProduct(Resource):
         # Add to queue for store microservice
         msg.publish_message(config.messaging['queues']['work_store'], product_id)
 
+        # Add to queue for usage microservice
+        msg.publish_message(config.messaging['queues']['work_usage'], product_id)
+
         # Add to queue for update microservice
         msg.publish_message(config.messaging['queues']['work_update'], json.dumps(
             {
@@ -89,6 +92,36 @@ class ScrapeProduct(Resource):
 
 
 # TODO: Provoke individual jobs.
+
+@ons.route('/scrape/usage/<string:product_id>', endpoint='scrape usage')
+@api.param('product_id', 'The unique id of the product on Steam.')
+class ScrapeProductUsage(Resource):
+
+    @api.response(200, 'Added to work queue.')
+    @api.response(202, 'Already completed.')
+    def get(self, product_id):
+        """
+        Add product to usage work queue to scrape its information.
+        """
+
+        # Create a connection to messaging.
+        msg = messaging.RabbitMQMessaging(host='messaging')
+
+        # Check if job has already been queued
+        job_state = db.get_job_state(product_id)
+
+        if job_state is not None:
+            if job_state.usage_finished is True:
+                response_str = "Product {0} usage already completed.".format(product_id)
+                return response_str, 202
+
+        # Add to queue for usage microservice
+        msg.publish_message(config.messaging['queues']['work_usage'], product_id)
+
+        # Return response
+        response_str = "Product {0} added to work queue for scraping".format(product_id)
+        return response_str, 200
+
 
 # Run the service
 if __name__ == '__main__':

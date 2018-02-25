@@ -50,6 +50,15 @@ class Database:
         """
         raise NotImplementedError("Class %s doesn't implement store_application_store()" % self.__class__.__name__)
 
+    def store_application_usage(self, application_usage, where):
+        """
+        Store forever-daily CCU for an application.
+
+        :param shared.model.ApplicationUsage application_usage:
+        The update that has been parsed and tested.
+        """
+        raise NotImplementedError("Class %s doesn't implement store_application_usage()" % self.__class__.__name__)
+
     def get_job_state(self, product_id):
         """
         Get the state of a job for a specific product.
@@ -134,6 +143,14 @@ class Couchbase(Database):
         where.upsert(
             key=application_store.product_id,
             value=application_store.to_json(),
+            format=FMT_UTF8
+        )
+
+    def store_application_usage(self, application_usage, where):
+        # Access the correct cluster.
+        where.upsert(
+            key=application_usage.product_id,
+            value=application_usage.to_json(),
             format=FMT_UTF8
         )
 

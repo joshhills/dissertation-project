@@ -11,6 +11,7 @@ FIELD_PRODUCT_ID = "product_id"
 FIELD_REVIEW_FINISHED = "review_finished"
 FIELD_STORE_FINISHED = "store_finished"
 FIELD_UPDATE_FINISHED = "update_finished"
+FIELD_USAGE_FINISHED = "usage_finished"
 
 # Define the constant field strings used to manipulate REST API JSON.
 FIELD_QUERY_SUMMARY = 'query_summary'
@@ -56,6 +57,9 @@ FIELD_PLAYERS_MEDIAN_FOREVER = 'median_forever'
 FIELD_SCORE_RANK = 'score_rank'
 FIELD_PRICE = 'price'
 
+FIELD_START = 'start'
+FIELD_STEP = 'step'
+FIELD_VALUES = 'values'
 
 # Define a loose interface for objects consumed RESTfully.
 class JSONAPIResource:
@@ -73,12 +77,13 @@ class JSONAPIResource:
 
 
 class JobState(JSONAPIResource):
-    def __init__(self, blob=None, product_id=-1, review_finished=False, store_finished=False, update_finished=False):
+    def __init__(self, blob=None, product_id=-1, review_finished=False, store_finished=False, update_finished=False, usage_finished=False):
         if blob is None:
             self.product_id = product_id
             self.review_finished = review_finished
             self.store_finished = store_finished
             self.update_finished = update_finished
+            self.usage_finished = usage_finished
         else:
             self.from_json(blob)
 
@@ -91,6 +96,7 @@ class JobState(JSONAPIResource):
         self.review_finished = blob.get(FIELD_REVIEW_FINISHED, "-1")
         self.store_finished = blob.get(FIELD_STORE_FINISHED, "-1")
         self.update_finished = blob.get(FIELD_UPDATE_FINISHED, "-1")
+        self.usage_finished = blob.get(FIELD_USAGE_FINISHED, "-1")
 
         return self
 
@@ -98,7 +104,7 @@ class JobState(JSONAPIResource):
 # Class to store review information in-memory.
 class ApplicationReview(JSONAPIResource):
     # Constructor equivalent.
-    def __init__(self, product_id = -1, blob=None):
+    def __init__(self, product_id=-1, blob=None):
         # Store the decoded JSON dictionary internally for posterity.
         # self.blob = blob
         self.product_id = product_id
@@ -230,5 +236,33 @@ class ApplicationStore(JSONAPIResource):
         self.players_median_forever = blob_2.get(FIELD_PLAYERS_MEDIAN_FOREVER, "-1")
         self.score_rank = blob_2.get(FIELD_SCORE_RANK, "-1")
         self.price = blob_2.get(FIELD_PRICE, "-1")
+
+        return self
+
+
+# Class to store store information in memory.
+class ApplicationUsage(JSONAPIResource):
+    # Constructor equivalent.
+    def __init__(self, product_id="-1", blob=None):
+        # Store the decoded JSON dictionary internally for posterity.
+        # self.blob = blob
+
+        self.product_id = product_id
+
+        if blob is None:
+            self.start = None
+            self.step = None
+            self.values = None
+        else:
+            self.from_json(blob)
+
+    def from_json(self, blob):
+        # Convert JSON encoded string into a dictionary.
+        if isinstance(blob, basestring):
+            blob = json.loads(blob)
+
+        self.start = str(blob.get(FIELD_START, "-1"))
+        self.step = str(blob.get(FIELD_STEP, "-1"))
+        self.values = str(blob.get(FIELD_VALUES, "-1"))
 
         return self

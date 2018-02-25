@@ -42,6 +42,10 @@ if [ ! -d "/opt/couchbase/var/lib/couchbase/data" ]; then
     http://localhost:8091/pools/default/buckets \
     -d 'flushEnabled=1&threadsNumber=3&replicaIndex=0&replicaNumber=0&ramQuotaMB=100&bucketType=membase&name=store&authType=sasl&saslPassword='
 
+    curl -u root:administrator -X POST \
+    http://localhost:8091/pools/default/buckets \
+    -d 'flushEnabled=1&threadsNumber=3&replicaIndex=0&replicaNumber=0&ramQuotaMB=250&bucketType=membase&name=usage&authType=sasl&saslPassword='
+
     # Set up indexes
     curl -u root:administrator -X POST \
     http://localhost:8091/settings/indexes \
@@ -66,6 +70,10 @@ if [ ! -d "/opt/couchbase/var/lib/couchbase/data" ]; then
     curl -u root:administrator \
     http://localhost:8093/query/service \
     -d 'statement=CREATE PRIMARY INDEX ON `store`'
+
+    curl -u root:administrator \
+    http://localhost:8093/query/service \
+    -d 'statement=CREATE PRIMARY INDEX ON `usage`'
 
     echo "Buckets completed"
 fi

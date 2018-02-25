@@ -51,34 +51,37 @@ def begin_scraping(channel, method, properties, body):
     reviews_per_page = 20
     page_offset = 0
 
-    # Get the number of items present in response data.
-    while True:
-        # Make a request for the necessary information.
-        request_url = config.api_url.format(product_id, reviews_per_page * page_offset)
-        data = json.loads(urllib.urlopen(request_url).read())
+    try:
+        # Get the number of items present in response data.
+        while True:
+            # Make a request for the necessary information.
+            request_url = config.api_url.format(product_id, reviews_per_page * page_offset)
+            data = json.loads(urllib.urlopen(request_url).read())
 
-        num_reviews = int(data[shared.model.FIELD_QUERY_SUMMARY][shared.model.FIELD_NUM_REVIEWS])
+            num_reviews = int(data[shared.model.FIELD_QUERY_SUMMARY][shared.model.FIELD_NUM_REVIEWS])
 
-        # Check for end of reviews.
-        if num_reviews == 0:
-            break
+            # Check for end of reviews.
+            if num_reviews == 0:
+                break
 
-        # Iterate over reviews.
-        for i in range(num_reviews):
-            # Create object representation.
-            application_review = ApplicationReview(product_id, data[shared.model.FIELD_REVIEWS][i])
+            # Iterate over reviews.
+            for i in range(num_reviews):
+                # Create object representation.
+                application_review = ApplicationReview(product_id, data[shared.model.FIELD_REVIEWS][i])
 
-            # Make a decision as to whether to keep it.
-            if is_desired_application_review(application_review):
-                # Store it in the database.
-                db.store_application_review(application_review, review_bucket)
+                # Make a decision as to whether to keep it.
+                if is_desired_application_review(application_review):
+                    # Store it in the database.
+                    db.store_application_review(application_review, review_bucket)
 
-        page_offset += 1
+            page_offset += 1
 
-    # Log that work has finished.
-    js = db.get_job_state(product_id)
-    js.review_finished = True
-    db.store_job_state(js, job_bucket)
+        # Log that work has finished.
+        js = db.get_job_state(product_id)
+        js.review_finished = True
+        db.store_job_state(js, job_bucket)
+    except Exception, e:
+        print "Failed to retrieve review information for product {0}".format(product_id)
 
 
 def register_subscribers():

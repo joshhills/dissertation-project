@@ -1,20 +1,21 @@
 """
 :author: Josh Hills
 
-Microservice to scrape store page information from Steam API.
+Microservice to scrape forever-daily CCU information from
+SteamDB API.
 Uses 'competing consumers' design pattern.
 """
 
 import config
-import urllib
+import cfscrape
 import json
 from shared import messaging
 from shared import database
-from shared.model import ApplicationStore
+from shared.model import ApplicationUsage
 
-msg = messaging.RabbitMQMessaging(host='messaging')
+msg = messaging.RabbitMQMessaging(host=config.messaging['host'])
 db = database.Couchbase(host=config.database['host'])
-store_bucket = db.get_connection('store')
+usage_bucket = db.get_connection('usage')
 job_bucket = db.get_connection('job')
 
 
@@ -34,25 +35,19 @@ def begin_scraping(channel, method, properties, body):
 
     try:
         # Make request for information.
-        request_url = config.api_url_1.format(product_id)
-        data1 = json.loads(urllib.urlopen(request_url).read())
+        scraper = cfscrape.create_scraper()
+        data = json.loads(scraper.get(config.api_url.format(product_id)).content)['data']
 
-        request_url = config.api_url_2.format(product_id)
-        data2 = json.loads(urllib.urlopen(request_url).read())
+        application_usage = ApplicationUsage(product_id, data)
 
-        # TODO: Clean up
-        data1 = data1[product_id]["data"]
-
-        application_store = ApplicationStore(data1, data2)
-
-        db.store_application_store(application_store, store_bucket)
+        db.store_application_usage(application_usage, usage_bucket)
 
         # Log that work has finished.
         js = db.get_job_state(product_id)
-        js.store_finished = True
+        js.usage_finished = True
         db.store_job_state(js, job_bucket)
     except Exception, e:
-        print "Failed to retrieve store information for product {0}".format(product_id)
+        print "Failed to retrieve usage information for product {0}".format(product_id)
 
 
 def register_subscribers():
@@ -63,7 +58,7 @@ def register_subscribers():
     print "Registering subscribers"
 
     msg.add_subscriber(
-        config.messaging['queues']['work_store'],
+        config.messaging['queues']['work_usage'],
         begin_scraping
     )
 

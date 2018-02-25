@@ -30,6 +30,15 @@ services:
     depends_on:
       - messaging
       - database
+  usage:
+    hostname: usage
+    build:
+      context: ..
+      dockerfile: dissertation/usage/Dockerfile
+    image: usage
+    depends_on:
+      - messaging
+      - database
   review:
     hostname: review
     build:

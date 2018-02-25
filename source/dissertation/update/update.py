@@ -52,27 +52,30 @@ def begin_scraping(channel, method, properties, body):
     product_id = body['product_id']
     update_feedname = body['update_feedname']
 
-    # Make initial request to get the number of updates posted.
-    request_url = config.api_url.format(product_id, -1)
-    data = json.loads(urllib.urlopen(request_url).read())
-    update_count = int(data['appnews']['count'])
+    try:
+        # Make initial request to get the number of updates posted.
+        request_url = config.api_url.format(product_id, -1)
+        data = json.loads(urllib.urlopen(request_url).read())
+        update_count = int(data['appnews']['count'])
 
-    # Make request for information.
-    request_url = config.api_url.format(product_id, update_count)
-    data = json.loads(urllib.urlopen(request_url).read())
+        # Make request for information.
+        request_url = config.api_url.format(product_id, update_count)
+        data = json.loads(urllib.urlopen(request_url).read())
 
-    for i in range(update_count):
-        update = ApplicationUpdate(data['appnews']['newsitems']['newsitem'][i])
+        for i in range(update_count):
+            update = ApplicationUpdate(data['appnews']['newsitems']['newsitem'][i])
 
-        # Make a decision as to whether to keep it.
-        if is_desired_application_update(update, update_feedname):
-            # Store it in the database.
-            db.store_application_update(update, update_bucket)
+            # Make a decision as to whether to keep it.
+            if is_desired_application_update(update, update_feedname):
+                # Store it in the database.
+                db.store_application_update(update, update_bucket)
 
-    # Log that work has finished.
-    js = db.get_job_state(product_id)
-    js.update_finished = True
-    db.store_job_state(js, job_bucket)
+        # Log that work has finished.
+        js = db.get_job_state(product_id)
+        js.update_finished = True
+        db.store_job_state(js, job_bucket)
+    except Exception, e:
+        print "Failed to retrieve update information for product {0}".format(product_id)
 
 
 def register_subscribers():
