@@ -1,0 +1,98 @@
+[
+  {
+    "genre": "Accounting",
+    "count": 1
+  },
+  {
+    "genre": "Action",
+    "count": 936
+  },
+  {
+    "genre": "Adventure",
+    "count": 520
+  },
+  {
+    "genre": "Animation & Modeling",
+    "count": 19
+  },
+  {
+    "genre": "Audio Production",
+    "count": 6
+  },
+  {
+    "genre": "Casual",
+    "count": 368
+  },
+  {
+    "genre": "Design & Illustration",
+    "count": 23
+  },
+  {
+    "genre": "Education",
+    "count": 12
+  },
+  {
+    "genre": "Free to Play",
+    "count": 140
+  },
+  {
+    "genre": "Gore",
+    "count": 93
+  },
+  {
+    "genre": "Indie",
+    "count": 1262
+  },
+  {
+    "genre": "Massively Multiplayer",
+    "count": 129
+  },
+  {
+    "genre": "Nudity",
+    "count": 23
+  },
+  {
+    "genre": "RPG",
+    "count": 364
+  },
+  {
+    "genre": "Racing",
+    "count": 85
+  },
+  {
+    "genre": "Sexual Content",
+    "count": 10
+  },
+  {
+    "genre": "Simulation",
+    "count": 467
+  },
+  {
+    "genre": "Software Training",
+    "count": 5
+  },
+  {
+    "genre": "Sports",
+    "count": 111
+  },
+  {
+    "genre": "Strategy",
+    "count": 383
+  },
+  {
+    "genre": "Utilities",
+    "count": 25
+  },
+  {
+    "genre": "Video Production",
+    "count": 7
+  },
+  {
+    "genre": "Violent",
+    "count": 141
+  },
+  {
+    "genre": "Web Publishing",
+    "count": 2
+  }
+]
