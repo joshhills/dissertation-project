@@ -1,5 +1,5 @@
 messaging = {
-    'host': 'localhost',
+    'host': 'messaging',
     'queues': {
         'work_update': 'work_update_queue',
         'global_error': 'global_error'

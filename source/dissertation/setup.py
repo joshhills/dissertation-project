@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='dissertation',
-      version='0.2.72',
+      version='0.2.75',
       description='Third-year dissertation project in predictive analytics for new product development',
       # url='https://github.com/joshhills/dissertation-project/',
       author='Josh Hills',

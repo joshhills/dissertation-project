@@ -15,4 +15,4 @@ RUN pip install --no-cache-dir /dissertation
 RUN pip install --upgrade -r /dissertation/update/requirements.txt
 
 # Run microservice (wait for services to become available).
-CMD ["./wait-for-it.sh", "messaging:5672", "database:8093", "-t", "0", "--strict", "--", "python", "/dissertation/update/update.py"]
+CMD ["python", "/dissertation/update/update.py"]

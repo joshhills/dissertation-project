@@ -56,7 +56,7 @@ class ScrapeProduct(Resource):
         # Get extra arguments.
         update_feedname = request.args.get('update_feedname')
         if update_feedname is None:
-            update_feedname = -1
+            update_feedname = "steam_community_announcements"
 
         # Check if job has already been queued
         job_state = db.get_job_state(product_id)
@@ -117,6 +117,47 @@ class ScrapeProductUsage(Resource):
 
         # Add to queue for usage microservice
         msg.publish_message(config.messaging['queues']['work_usage'], product_id)
+
+        # Return response
+        response_str = "Product {0} added to work queue for scraping".format(product_id)
+        return response_str, 200
+
+
+@ons.route('/scrape/updates/<string:product_id>', endpoint='scrape updates')
+@api.param('product_id', 'The unique id of the product on Steam.')
+@api.param('update_feedname', 'Optional feed_name to filter news items as product updates.')
+class ScrapeProductUpdates(Resource):
+
+    @api.response(200, 'Added to work queue.')
+    @api.response(202, 'Already completed.')
+    def get(self, product_id):
+        """
+        Add product to updates work queue to scrape its information.
+        """
+
+        # Get extra arguments.
+        update_feedname = request.args.get('update_feedname')
+        if update_feedname is None:
+            update_feedname = "steam_community_announcements"
+
+        # Create a connection to messaging.
+        msg = messaging.RabbitMQMessaging(host='messaging')
+
+        # Check if job has already been queued
+        job_state = db.get_job_state(product_id)
+
+        if job_state is not None:
+            if job_state.update_finished is True:
+                response_str = "Product {0} update already completed.".format(product_id)
+                return response_str, 202
+
+        # Add to queue for update microservice
+        msg.publish_message(config.messaging['queues']['work_update'], json.dumps(
+            {
+                'product_id': product_id,
+                'update_feedname': update_feedname
+            }
+        ))
 
         # Return response
         response_str = "Product {0} added to work queue for scraping".format(product_id)

@@ -104,7 +104,7 @@ class JobState(JSONAPIResource):
 # Class to store review information in-memory.
 class ApplicationReview(JSONAPIResource):
     # Constructor equivalent.
-    def __init__(self, product_id=-1, blob=None):
+    def __init__(self, product_id="-1", blob=None):
         # Store the decoded JSON dictionary internally for posterity.
         # self.blob = blob
         self.product_id = product_id
@@ -159,12 +159,13 @@ class ApplicationReview(JSONAPIResource):
 # Class to store update information in memory.
 class ApplicationUpdate(JSONAPIResource):
     # Constructor equivalent.
-    def __init__(self, blob=None):
+    def __init__(self, product_id=-1, blob=None):
         # Store the decoded JSON dictionary internally for posterity.
         # self.blob = blob
 
+        self.product_id = product_id
+
         if blob is None:
-            self.product_id = None
             self.update_id = None
             self.feed_name = None
             self.date_created = None
@@ -177,7 +178,6 @@ class ApplicationUpdate(JSONAPIResource):
             blob = json.loads(blob)
 
         # Update meta.
-        self.product_id = blob.get(FIELD_APP_ID, "-1")
         self.update_id = blob.get(FIELD_UPDATE_ID, "-1")
         self.feed_name = blob.get(FIELD_FEED_NAME, "-1")
         self.date_created = blob.get(FIELD_DATE, "-1")

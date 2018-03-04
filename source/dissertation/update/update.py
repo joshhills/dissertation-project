@@ -12,10 +12,11 @@ from shared import messaging
 from shared import database
 from shared.model import ApplicationUpdate
 
-msg = messaging.RabbitMQMessaging(host='messaging')
+msg = messaging.RabbitMQMessaging(host=config.messaging['host'])
 db = database.Couchbase(host=config.database['host'])
 update_bucket = db.get_connection('update')
 job_bucket = db.get_connection('job')
+
 
 def is_desired_application_update(application_update, update_feedname):
     """
@@ -63,7 +64,7 @@ def begin_scraping(channel, method, properties, body):
         data = json.loads(urllib.urlopen(request_url).read())
 
         for i in range(update_count):
-            update = ApplicationUpdate(data['appnews']['newsitems']['newsitem'][i])
+            update = ApplicationUpdate(product_id, data['appnews']['newsitems']['newsitem'][i])
 
             # Make a decision as to whether to keep it.
             if is_desired_application_update(update, update_feedname):
