@@ -1,98 +1,94 @@
 [
   {
-    "genre": "Accounting",
-    "count": 1
-  },
-  {
     "genre": "Action",
-    "count": 936
+    "count": 588
   },
   {
     "genre": "Adventure",
-    "count": 520
+    "count": 327
   },
   {
     "genre": "Animation & Modeling",
-    "count": 19
-  },
-  {
-    "genre": "Audio Production",
-    "count": 6
-  },
-  {
-    "genre": "Casual",
-    "count": 368
-  },
-  {
-    "genre": "Design & Illustration",
-    "count": 23
-  },
-  {
-    "genre": "Education",
-    "count": 12
-  },
-  {
-    "genre": "Free to Play",
-    "count": 140
-  },
-  {
-    "genre": "Gore",
-    "count": 93
-  },
-  {
-    "genre": "Indie",
-    "count": 1262
-  },
-  {
-    "genre": "Massively Multiplayer",
-    "count": 129
-  },
-  {
-    "genre": "Nudity",
-    "count": 23
-  },
-  {
-    "genre": "RPG",
-    "count": 364
-  },
-  {
-    "genre": "Racing",
-    "count": 85
-  },
-  {
-    "genre": "Sexual Content",
-    "count": 10
-  },
-  {
-    "genre": "Simulation",
-    "count": 467
-  },
-  {
-    "genre": "Software Training",
-    "count": 5
-  },
-  {
-    "genre": "Sports",
-    "count": 111
-  },
-  {
-    "genre": "Strategy",
-    "count": 383
-  },
-  {
-    "genre": "Utilities",
-    "count": 25
-  },
-  {
-    "genre": "Video Production",
     "count": 7
   },
   {
+    "genre": "Audio Production",
+    "count": 4
+  },
+  {
+    "genre": "Casual",
+    "count": 197
+  },
+  {
+    "genre": "Design & Illustration",
+    "count": 8
+  },
+  {
+    "genre": "Education",
+    "count": 3
+  },
+  {
+    "genre": "Free to Play",
+    "count": 88
+  },
+  {
+    "genre": "Gore",
+    "count": 56
+  },
+  {
+    "genre": "Indie",
+    "count": 805
+  },
+  {
+    "genre": "Massively Multiplayer",
+    "count": 101
+  },
+  {
+    "genre": "Nudity",
+    "count": 12
+  },
+  {
+    "genre": "RPG",
+    "count": 273
+  },
+  {
+    "genre": "Racing",
+    "count": 50
+  },
+  {
+    "genre": "Sexual Content",
+    "count": 6
+  },
+  {
+    "genre": "Simulation",
+    "count": 333
+  },
+  {
+    "genre": "Software Training",
+    "count": 1
+  },
+  {
+    "genre": "Sports",
+    "count": 67
+  },
+  {
+    "genre": "Strategy",
+    "count": 274
+  },
+  {
+    "genre": "Utilities",
+    "count": 11
+  },
+  {
+    "genre": "Video Production",
+    "count": 3
+  },
+  {
     "genre": "Violent",
-    "count": 141
+    "count": 84
   },
   {
     "genre": "Web Publishing",
-    "count": 2
+    "count": 1
   }
 ]
