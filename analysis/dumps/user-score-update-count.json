@@ -1,0 +1,6841 @@
+[
+  {
+    "product_id": "108600",
+    "user_score": 86,
+    "update_count": 202,
+    "review_count": 15486,
+    "score_rank": 65
+  },
+  {
+    "product_id": "15540",
+    "user_score": 30,
+    "update_count": 10,
+    "review_count": 457,
+    "score_rank": 2
+  },
+  {
+    "product_id": "206500",
+    "user_score": 85,
+    "update_count": 94,
+    "review_count": 8056,
+    "score_rank": 59
+  },
+  {
+    "product_id": "217120",
+    "user_score": 92,
+    "update_count": 24,
+    "review_count": 55,
+    "score_rank": 82
+  },
+  {
+    "product_id": "221100",
+    "user_score": 62,
+    "update_count": 154,
+    "review_count": 139867,
+    "score_rank": 18
+  },
+  {
+    "product_id": "223490",
+    "user_score": 37,
+    "update_count": 54,
+    "review_count": 789,
+    "score_rank": 5
+  },
+  {
+    "product_id": "224440",
+    "user_score": 58,
+    "update_count": 121,
+    "review_count": 2007,
+    "score_rank": 14
+  },
+  {
+    "product_id": "227780",
+    "user_score": 90,
+    "update_count": 29,
+    "review_count": 1390,
+    "score_rank": 74
+  },
+  {
+    "product_id": "228380",
+    "user_score": 65,
+    "update_count": 78,
+    "review_count": 7534,
+    "score_rank": 24
+  },
+  {
+    "product_id": "230290",
+    "user_score": 93,
+    "update_count": 44,
+    "review_count": 4699,
+    "score_rank": 89
+  },
+  {
+    "product_id": "232810",
+    "user_score": 28,
+    "update_count": 61,
+    "review_count": 6470,
+    "score_rank": 1
+  },
+  {
+    "product_id": "233610",
+    "user_score": 94,
+    "update_count": 70,
+    "review_count": 3299,
+    "score_rank": 89
+  },
+  {
+    "product_id": "233860",
+    "user_score": 87,
+    "update_count": 142,
+    "review_count": 3919,
+    "score_rank": 65
+  },
+  {
+    "product_id": "236370",
+    "user_score": 64,
+    "update_count": 45,
+    "review_count": 7362,
+    "score_rank": 18
+  },
+  {
+    "product_id": "242610",
+    "user_score": 100,
+    "update_count": 5,
+    "review_count": 20,
+    "score_rank": 92
+  },
+  {
+    "product_id": "242760",
+    "user_score": 92,
+    "update_count": 214,
+    "review_count": 68963,
+    "score_rank": 82
+  },
+  {
+    "product_id": "244770",
+    "user_score": 71,
+    "update_count": 98,
+    "review_count": 2451,
+    "score_rank": 32
+  },
+  {
+    "product_id": "244850",
+    "user_score": 87,
+    "update_count": 246,
+    "review_count": 49917,
+    "score_rank": 62
+  },
+  {
+    "product_id": "244930",
+    "user_score": 69,
+    "update_count": 76,
+    "review_count": 9876,
+    "score_rank": 27
+  },
+  {
+    "product_id": "246300",
+    "user_score": 68,
+    "update_count": 12,
+    "review_count": 428,
+    "score_rank": 23
+  },
+  {
+    "product_id": "246880",
+    "user_score": 25,
+    "update_count": 4,
+    "review_count": 83,
+    "score_rank": 2
+  },
+  {
+    "product_id": "247310",
+    "user_score": 53,
+    "update_count": 6,
+    "review_count": 84,
+    "score_rank": 4
+  },
+  {
+    "product_id": "248630",
+    "user_score": 47,
+    "update_count": 11,
+    "review_count": 1061,
+    "score_rank": 7
+  },
+  {
+    "product_id": "250540",
+    "user_score": 66,
+    "update_count": 101,
+    "review_count": 82,
+    "score_rank": 13
+  },
+  {
+    "product_id": "251570",
+    "user_score": 81,
+    "update_count": 115,
+    "review_count": 53955,
+    "score_rank": 49
+  },
+  {
+    "product_id": "251890",
+    "user_score": 59,
+    "update_count": 54,
+    "review_count": 527,
+    "score_rank": 17
+  },
+  {
+    "product_id": "251950",
+    "user_score": 77,
+    "update_count": 51,
+    "review_count": 1570,
+    "score_rank": 5
+  },
+  {
+    "product_id": "252090",
+    "user_score": 74,
+    "update_count": 7,
+    "review_count": 63,
+    "score_rank": 56
+  },
+  {
+    "product_id": "252250",
+    "user_score": 45,
+    "update_count": 33,
+    "review_count": 774,
+    "score_rank": 8
+  },
+  {
+    "product_id": "252390",
+    "user_score": 68,
+    "update_count": 28,
+    "review_count": 75,
+    "score_rank": 22
+  },
+  {
+    "product_id": "252770",
+    "user_score": 25,
+    "update_count": 9,
+    "review_count": 377,
+    "score_rank": 1
+  },
+  {
+    "product_id": "252850",
+    "user_score": 59,
+    "update_count": 24,
+    "review_count": 2051,
+    "score_rank": 33
+  },
+  {
+    "product_id": "252870",
+    "user_score": 90,
+    "update_count": 81,
+    "review_count": 1841,
+    "score_rank": 78
+  },
+  {
+    "product_id": "253250",
+    "user_score": 84,
+    "update_count": 207,
+    "review_count": 4964,
+    "score_rank": 59
+  },
+  {
+    "product_id": "257930",
+    "user_score": 10,
+    "update_count": 50,
+    "review_count": 229,
+    "score_rank": 0
+  },
+  {
+    "product_id": "259450",
+    "user_score": 67,
+    "update_count": 28,
+    "review_count": 161,
+    "score_rank": 22
+  },
+  {
+    "product_id": "259570",
+    "user_score": 78,
+    "update_count": 175,
+    "review_count": 777,
+    "score_rank": 45
+  },
+  {
+    "product_id": "261350",
+    "user_score": 63,
+    "update_count": 18,
+    "review_count": 60,
+    "score_rank": 16
+  },
+  {
+    "product_id": "263040",
+    "user_score": 54,
+    "update_count": 20,
+    "review_count": 88,
+    "score_rank": 27
+  },
+  {
+    "product_id": "263200",
+    "user_score": 78,
+    "update_count": 22,
+    "review_count": 580,
+    "score_rank": 43
+  },
+  {
+    "product_id": "263720",
+    "user_score": 69,
+    "update_count": 22,
+    "review_count": 309,
+    "score_rank": 32
+  },
+  {
+    "product_id": "263920",
+    "user_score": 73,
+    "update_count": 4,
+    "review_count": 294,
+    "score_rank": 35
+  },
+  {
+    "product_id": "266190",
+    "user_score": 37,
+    "update_count": 40,
+    "review_count": 134,
+    "score_rank": 13
+  },
+  {
+    "product_id": "266370",
+    "user_score": 50,
+    "update_count": 5,
+    "review_count": 100,
+    "score_rank": 7
+  },
+  {
+    "product_id": "266470",
+    "user_score": 68,
+    "update_count": 50,
+    "review_count": 54,
+    "score_rank": 28
+  },
+  {
+    "product_id": "268650",
+    "user_score": 88,
+    "update_count": 37,
+    "review_count": 3752,
+    "score_rank": 68
+  },
+  {
+    "product_id": "268670",
+    "user_score": 45,
+    "update_count": 23,
+    "review_count": 197,
+    "score_rank": 11
+  },
+  {
+    "product_id": "268930",
+    "user_score": 57,
+    "update_count": 113,
+    "review_count": 76,
+    "score_rank": 30
+  },
+  {
+    "product_id": "269350",
+    "user_score": 46,
+    "update_count": 11,
+    "review_count": 144,
+    "score_rank": 9
+  },
+  {
+    "product_id": "269530",
+    "user_score": 55,
+    "update_count": 9,
+    "review_count": 80,
+    "score_rank": 5
+  },
+  {
+    "product_id": "269590",
+    "user_score": 44,
+    "update_count": 15,
+    "review_count": 170,
+    "score_rank": 9
+  },
+  {
+    "product_id": "269610",
+    "user_score": 62,
+    "update_count": 27,
+    "review_count": 192,
+    "score_rank": 12
+  },
+  {
+    "product_id": "269770",
+    "user_score": 94,
+    "update_count": 25,
+    "review_count": 3098,
+    "score_rank": 89
+  },
+  {
+    "product_id": "272230",
+    "user_score": 75,
+    "update_count": 3,
+    "review_count": 396,
+    "score_rank": 39
+  },
+  {
+    "product_id": "274620",
+    "user_score": 61,
+    "update_count": 46,
+    "review_count": 639,
+    "score_rank": 17
+  },
+  {
+    "product_id": "276870",
+    "user_score": 69,
+    "update_count": 47,
+    "review_count": 197,
+    "score_rank": 32
+  },
+  {
+    "product_id": "277930",
+    "user_score": 49,
+    "update_count": 43,
+    "review_count": 850,
+    "score_rank": 8
+  },
+  {
+    "product_id": "280010",
+    "user_score": 75,
+    "update_count": 3,
+    "review_count": 921,
+    "score_rank": 47
+  },
+  {
+    "product_id": "280720",
+    "user_score": 80,
+    "update_count": 77,
+    "review_count": 202,
+    "score_rank": 51
+  },
+  {
+    "product_id": "282740",
+    "user_score": 77,
+    "update_count": 27,
+    "review_count": 24,
+    "score_rank": 9
+  },
+  {
+    "product_id": "282880",
+    "user_score": 68,
+    "update_count": 20,
+    "review_count": 284,
+    "score_rank": 26
+  },
+  {
+    "product_id": "283100",
+    "user_score": 30,
+    "update_count": 24,
+    "review_count": 247,
+    "score_rank": 2
+  },
+  {
+    "product_id": "284160",
+    "user_score": 88,
+    "update_count": 69,
+    "review_count": 9772,
+    "score_rank": 74
+  },
+  {
+    "product_id": "285110",
+    "user_score": 81,
+    "update_count": 166,
+    "review_count": 509,
+    "score_rank": 49
+  },
+  {
+    "product_id": "285380",
+    "user_score": 58,
+    "update_count": 18,
+    "review_count": 220,
+    "score_rank": 15
+  },
+  {
+    "product_id": "285580",
+    "user_score": 67,
+    "update_count": 48,
+    "review_count": 1101,
+    "score_rank": 24
+  },
+  {
+    "product_id": "285920",
+    "user_score": 82,
+    "update_count": 223,
+    "review_count": 3475,
+    "score_rank": 51
+  },
+  {
+    "product_id": "290810",
+    "user_score": 55,
+    "update_count": 22,
+    "review_count": 89,
+    "score_rank": 5
+  },
+  {
+    "product_id": "291370",
+    "user_score": 28,
+    "update_count": 7,
+    "review_count": 178,
+    "score_rank": 1
+  },
+  {
+    "product_id": "291860",
+    "user_score": 96,
+    "update_count": 81,
+    "review_count": 3930,
+    "score_rank": 92
+  },
+  {
+    "product_id": "292330",
+    "user_score": 57,
+    "update_count": 36,
+    "review_count": 252,
+    "score_rank": 14
+  },
+  {
+    "product_id": "293220",
+    "user_score": 65,
+    "update_count": 200,
+    "review_count": 821,
+    "score_rank": 13
+  },
+  {
+    "product_id": "293480",
+    "user_score": 56,
+    "update_count": 26,
+    "review_count": 202,
+    "score_rank": 4
+  },
+  {
+    "product_id": "293760",
+    "user_score": 80,
+    "update_count": 136,
+    "review_count": 1080,
+    "score_rank": 51
+  },
+  {
+    "product_id": "294100",
+    "user_score": 97,
+    "update_count": 26,
+    "review_count": 17269,
+    "score_rank": 97
+  },
+  {
+    "product_id": "295110",
+    "user_score": 60,
+    "update_count": 179,
+    "review_count": 67341,
+    "score_rank": 16
+  },
+  {
+    "product_id": "297310",
+    "user_score": 62,
+    "update_count": 28,
+    "review_count": 144,
+    "score_rank": 22
+  },
+  {
+    "product_id": "297470",
+    "user_score": 69,
+    "update_count": 40,
+    "review_count": 236,
+    "score_rank": 33
+  },
+  {
+    "product_id": "298280",
+    "user_score": 89,
+    "update_count": 36,
+    "review_count": 120,
+    "score_rank": 74
+  },
+  {
+    "product_id": "298610",
+    "user_score": 74,
+    "update_count": 26,
+    "review_count": 1937,
+    "score_rank": 37
+  },
+  {
+    "product_id": "299420",
+    "user_score": 65,
+    "update_count": 111,
+    "review_count": 293,
+    "score_rank": 22
+  },
+  {
+    "product_id": "299580",
+    "user_score": 84,
+    "update_count": 75,
+    "review_count": 50,
+    "score_rank": 23
+  },
+  {
+    "product_id": "299740",
+    "user_score": 69,
+    "update_count": 137,
+    "review_count": 21738,
+    "score_rank": 27
+  },
+  {
+    "product_id": "300760",
+    "user_score": 66,
+    "update_count": 12,
+    "review_count": 104,
+    "score_rank": 22
+  },
+  {
+    "product_id": "302590",
+    "user_score": 83,
+    "update_count": 38,
+    "review_count": 1828,
+    "score_rank": 54
+  },
+  {
+    "product_id": "302670",
+    "user_score": 67,
+    "update_count": 89,
+    "review_count": 4056,
+    "score_rank": 24
+  },
+  {
+    "product_id": "302810",
+    "user_score": 100,
+    "update_count": 12,
+    "review_count": 34,
+    "score_rank": 74
+  },
+  {
+    "product_id": "302830",
+    "user_score": 58,
+    "update_count": 26,
+    "review_count": 24286,
+    "score_rank": 14
+  },
+  {
+    "product_id": "305460",
+    "user_score": 50,
+    "update_count": 20,
+    "review_count": 22,
+    "score_rank": 28
+  },
+  {
+    "product_id": "305510",
+    "user_score": 50,
+    "update_count": 5,
+    "review_count": 104,
+    "score_rank": 7
+  },
+  {
+    "product_id": "305660",
+    "user_score": 25,
+    "update_count": 15,
+    "review_count": 48,
+    "score_rank": 5
+  },
+  {
+    "product_id": "305840",
+    "user_score": 31,
+    "update_count": 85,
+    "review_count": 165,
+    "score_rank": 3
+  },
+  {
+    "product_id": "305940",
+    "user_score": 70,
+    "update_count": 25,
+    "review_count": 412,
+    "score_rank": 30
+  },
+  {
+    "product_id": "305960",
+    "user_score": 49,
+    "update_count": 55,
+    "review_count": 633,
+    "score_rank": 9
+  },
+  {
+    "product_id": "307090",
+    "user_score": 75,
+    "update_count": 7,
+    "review_count": 263,
+    "score_rank": 39
+  },
+  {
+    "product_id": "307110",
+    "user_score": 82,
+    "update_count": 59,
+    "review_count": 1044,
+    "score_rank": 51
+  },
+  {
+    "product_id": "307880",
+    "user_score": 55,
+    "update_count": 103,
+    "review_count": 5496,
+    "score_rank": 11
+  },
+  {
+    "product_id": "308080",
+    "user_score": 71,
+    "update_count": 38,
+    "review_count": 109,
+    "score_rank": 35
+  },
+  {
+    "product_id": "308520",
+    "user_score": 45,
+    "update_count": 39,
+    "review_count": 73,
+    "score_rank": 11
+  },
+  {
+    "product_id": "308600",
+    "user_score": 98,
+    "update_count": 18,
+    "review_count": 89,
+    "score_rank": 99
+  },
+  {
+    "product_id": "311260",
+    "user_score": 48,
+    "update_count": 31,
+    "review_count": 1932,
+    "score_rank": 8
+  },
+  {
+    "product_id": "311310",
+    "user_score": 65,
+    "update_count": 69,
+    "review_count": 4180,
+    "score_rank": 24
+  },
+  {
+    "product_id": "311800",
+    "user_score": 95,
+    "update_count": 17,
+    "review_count": 307,
+    "score_rank": 92
+  },
+  {
+    "product_id": "311980",
+    "user_score": 18,
+    "update_count": 2,
+    "review_count": 71,
+    "score_rank": 0
+  },
+  {
+    "product_id": "312150",
+    "user_score": 70,
+    "update_count": 8,
+    "review_count": 1007,
+    "score_rank": 28
+  },
+  {
+    "product_id": "312210",
+    "user_score": 45,
+    "update_count": 33,
+    "review_count": 849,
+    "score_rank": 7
+  },
+  {
+    "product_id": "313120",
+    "user_score": 76,
+    "update_count": 98,
+    "review_count": 18183,
+    "score_rank": 39
+  },
+  {
+    "product_id": "314230",
+    "user_score": 93,
+    "update_count": 81,
+    "review_count": 1048,
+    "score_rank": 86
+  },
+  {
+    "product_id": "314300",
+    "user_score": 28,
+    "update_count": 2,
+    "review_count": 45,
+    "score_rank": 3
+  },
+  {
+    "product_id": "315070",
+    "user_score": 28,
+    "update_count": 24,
+    "review_count": 116,
+    "score_rank": 0
+  },
+  {
+    "product_id": "315330",
+    "user_score": 20,
+    "update_count": 12,
+    "review_count": 247,
+    "score_rank": 5
+  },
+  {
+    "product_id": "315460",
+    "user_score": 91,
+    "update_count": 43,
+    "review_count": 2520,
+    "score_rank": 82
+  },
+  {
+    "product_id": "315540",
+    "user_score": 57,
+    "update_count": 15,
+    "review_count": 105,
+    "score_rank": 16
+  },
+  {
+    "product_id": "315840",
+    "user_score": 91,
+    "update_count": 33,
+    "review_count": 379,
+    "score_rank": 82
+  },
+  {
+    "product_id": "317730",
+    "user_score": 38,
+    "update_count": 8,
+    "review_count": 93,
+    "score_rank": 4
+  },
+  {
+    "product_id": "318100",
+    "user_score": 53,
+    "update_count": 30,
+    "review_count": 1879,
+    "score_rank": 10
+  },
+  {
+    "product_id": "320240",
+    "user_score": 72,
+    "update_count": 145,
+    "review_count": 2836,
+    "score_rank": 32
+  },
+  {
+    "product_id": "321400",
+    "user_score": 77,
+    "update_count": 92,
+    "review_count": 1566,
+    "score_rank": 41
+  },
+  {
+    "product_id": "321830",
+    "user_score": 71,
+    "update_count": 20,
+    "review_count": 199,
+    "score_rank": 37
+  },
+  {
+    "product_id": "321980",
+    "user_score": 79,
+    "update_count": 35,
+    "review_count": 304,
+    "score_rank": 47
+  },
+  {
+    "product_id": "322300",
+    "user_score": 58,
+    "update_count": 34,
+    "review_count": 1019,
+    "score_rank": 17
+  },
+  {
+    "product_id": "322770",
+    "user_score": 95,
+    "update_count": 5,
+    "review_count": 2133,
+    "score_rank": 92
+  },
+  {
+    "product_id": "322780",
+    "user_score": 71,
+    "update_count": 147,
+    "review_count": 1314,
+    "score_rank": 32
+  },
+  {
+    "product_id": "323670",
+    "user_score": 86,
+    "update_count": 23,
+    "review_count": 158,
+    "score_rank": 62
+  },
+  {
+    "product_id": "324080",
+    "user_score": 80,
+    "update_count": 48,
+    "review_count": 2582,
+    "score_rank": 47
+  },
+  {
+    "product_id": "324190",
+    "user_score": 63,
+    "update_count": 23,
+    "review_count": 144,
+    "score_rank": 22
+  },
+  {
+    "product_id": "324470",
+    "user_score": 78,
+    "update_count": 12,
+    "review_count": 167,
+    "score_rank": 47
+  },
+  {
+    "product_id": "324510",
+    "user_score": 73,
+    "update_count": 158,
+    "review_count": 694,
+    "score_rank": 37
+  },
+  {
+    "product_id": "325210",
+    "user_score": 76,
+    "update_count": 103,
+    "review_count": 392,
+    "score_rank": 39
+  },
+  {
+    "product_id": "325420",
+    "user_score": 75,
+    "update_count": 121,
+    "review_count": 599,
+    "score_rank": 41
+  },
+  {
+    "product_id": "325430",
+    "user_score": 45,
+    "update_count": 36,
+    "review_count": 79,
+    "score_rank": 9
+  },
+  {
+    "product_id": "326160",
+    "user_score": 52,
+    "update_count": 439,
+    "review_count": 1340,
+    "score_rank": 11
+  },
+  {
+    "product_id": "326460",
+    "user_score": 89,
+    "update_count": 122,
+    "review_count": 8695,
+    "score_rank": 71
+  },
+  {
+    "product_id": "327070",
+    "user_score": 64,
+    "update_count": 145,
+    "review_count": 2287,
+    "score_rank": 24
+  },
+  {
+    "product_id": "327090",
+    "user_score": 64,
+    "update_count": 62,
+    "review_count": 2084,
+    "score_rank": 23
+  },
+  {
+    "product_id": "327640",
+    "user_score": 63,
+    "update_count": 53,
+    "review_count": 1155,
+    "score_rank": 20
+  },
+  {
+    "product_id": "327960",
+    "user_score": 23,
+    "update_count": 11,
+    "review_count": 22,
+    "score_rank": 1
+  },
+  {
+    "product_id": "328080",
+    "user_score": 93,
+    "update_count": 208,
+    "review_count": 1135,
+    "score_rank": 86
+  },
+  {
+    "product_id": "328510",
+    "user_score": 77,
+    "update_count": 19,
+    "review_count": 97,
+    "score_rank": 56
+  },
+  {
+    "product_id": "328710",
+    "user_score": 68,
+    "update_count": 69,
+    "review_count": 107,
+    "score_rank": 32
+  },
+  {
+    "product_id": "328740",
+    "user_score": 47,
+    "update_count": 23,
+    "review_count": 38,
+    "score_rank": 13
+  },
+  {
+    "product_id": "329040",
+    "user_score": 79,
+    "update_count": 21,
+    "review_count": 83,
+    "score_rank": 59
+  },
+  {
+    "product_id": "329190",
+    "user_score": 62,
+    "update_count": 37,
+    "review_count": 155,
+    "score_rank": 26
+  },
+  {
+    "product_id": "329310",
+    "user_score": 53,
+    "update_count": 24,
+    "review_count": 45,
+    "score_rank": 12
+  },
+  {
+    "product_id": "329970",
+    "user_score": 86,
+    "update_count": 106,
+    "review_count": 340,
+    "score_rank": 65
+  },
+  {
+    "product_id": "330460",
+    "user_score": 78,
+    "update_count": 142,
+    "review_count": 259,
+    "score_rank": 45
+  },
+  {
+    "product_id": "330570",
+    "user_score": 67,
+    "update_count": 30,
+    "review_count": 456,
+    "score_rank": 23
+  },
+  {
+    "product_id": "330580",
+    "user_score": 78,
+    "update_count": 32,
+    "review_count": 1256,
+    "score_rank": 45
+  },
+  {
+    "product_id": "331360",
+    "user_score": 73,
+    "update_count": 121,
+    "review_count": 1669,
+    "score_rank": 33
+  },
+  {
+    "product_id": "332500",
+    "user_score": 63,
+    "update_count": 172,
+    "review_count": 5930,
+    "score_rank": 14
+  },
+  {
+    "product_id": "332570",
+    "user_score": 87,
+    "update_count": 46,
+    "review_count": 1270,
+    "score_rank": 65
+  },
+  {
+    "product_id": "332650",
+    "user_score": 48,
+    "update_count": 16,
+    "review_count": 403,
+    "score_rank": 8
+  },
+  {
+    "product_id": "333340",
+    "user_score": 38,
+    "update_count": 104,
+    "review_count": 137,
+    "score_rank": 9
+  },
+  {
+    "product_id": "333640",
+    "user_score": 97,
+    "update_count": 125,
+    "review_count": 1045,
+    "score_rank": 97
+  },
+  {
+    "product_id": "333950",
+    "user_score": 70,
+    "update_count": 164,
+    "review_count": 4035,
+    "score_rank": 32
+  },
+  {
+    "product_id": "335210",
+    "user_score": 9,
+    "update_count": 16,
+    "review_count": 25,
+    "score_rank": 6
+  },
+  {
+    "product_id": "335620",
+    "user_score": 93,
+    "update_count": 46,
+    "review_count": 439,
+    "score_rank": 86
+  },
+  {
+    "product_id": "335850",
+    "user_score": 40,
+    "update_count": 10,
+    "review_count": 96,
+    "score_rank": 5
+  },
+  {
+    "product_id": "335940",
+    "user_score": 40,
+    "update_count": 6,
+    "review_count": 27,
+    "score_rank": 12
+  },
+  {
+    "product_id": "336220",
+    "user_score": 75,
+    "update_count": 4,
+    "review_count": 27,
+    "score_rank": 35
+  },
+  {
+    "product_id": "336440",
+    "user_score": 94,
+    "update_count": 26,
+    "review_count": 191,
+    "score_rank": 92
+  },
+  {
+    "product_id": "337320",
+    "user_score": 91,
+    "update_count": 37,
+    "review_count": 4550,
+    "score_rank": 82
+  },
+  {
+    "product_id": "337950",
+    "user_score": 46,
+    "update_count": 85,
+    "review_count": 3435,
+    "score_rank": 7
+  },
+  {
+    "product_id": "338330",
+    "user_score": 66,
+    "update_count": 8,
+    "review_count": 31,
+    "score_rank": 54
+  },
+  {
+    "product_id": "338640",
+    "user_score": 58,
+    "update_count": 11,
+    "review_count": 79,
+    "score_rank": 27
+  },
+  {
+    "product_id": "339440",
+    "user_score": 93,
+    "update_count": 30,
+    "review_count": 190,
+    "score_rank": 89
+  },
+  {
+    "product_id": "339820",
+    "user_score": 0,
+    "update_count": 11,
+    "review_count": 29,
+    "score_rank": ""
+  },
+  {
+    "product_id": "339910",
+    "user_score": 84,
+    "update_count": 9,
+    "review_count": 390,
+    "score_rank": 59
+  },
+  {
+    "product_id": "340150",
+    "user_score": 82,
+    "update_count": 29,
+    "review_count": 1192,
+    "score_rank": 51
+  },
+  {
+    "product_id": "340210",
+    "user_score": 66,
+    "update_count": 32,
+    "review_count": 47,
+    "score_rank": 28
+  },
+  {
+    "product_id": "340440",
+    "user_score": 70,
+    "update_count": 27,
+    "review_count": 35,
+    "score_rank": 47
+  },
+  {
+    "product_id": "340810",
+    "user_score": 59,
+    "update_count": 15,
+    "review_count": 665,
+    "score_rank": 15
+  },
+  {
+    "product_id": "340960",
+    "user_score": 82,
+    "update_count": 3,
+    "review_count": 43,
+    "score_rank": 68
+  },
+  {
+    "product_id": "341270",
+    "user_score": 57,
+    "update_count": 53,
+    "review_count": 24,
+    "score_rank": 14
+  },
+  {
+    "product_id": "341710",
+    "user_score": 69,
+    "update_count": 185,
+    "review_count": 136,
+    "score_rank": 39
+  },
+  {
+    "product_id": "342310",
+    "user_score": 71,
+    "update_count": 77,
+    "review_count": 549,
+    "score_rank": 30
+  },
+  {
+    "product_id": "342530",
+    "user_score": 85,
+    "update_count": 15,
+    "review_count": 70,
+    "score_rank": 68
+  },
+  {
+    "product_id": "342560",
+    "user_score": 96,
+    "update_count": 134,
+    "review_count": 1159,
+    "score_rank": 95
+  },
+  {
+    "product_id": "342870",
+    "user_score": 38,
+    "update_count": 68,
+    "review_count": 60,
+    "score_rank": 4
+  },
+  {
+    "product_id": "344040",
+    "user_score": 34,
+    "update_count": 41,
+    "review_count": 3626,
+    "score_rank": 2
+  },
+  {
+    "product_id": "344180",
+    "user_score": 69,
+    "update_count": 12,
+    "review_count": 48,
+    "score_rank": 26
+  },
+  {
+    "product_id": "344820",
+    "user_score": 34,
+    "update_count": 5,
+    "review_count": 175,
+    "score_rank": 5
+  },
+  {
+    "product_id": "344890",
+    "user_score": 37,
+    "update_count": 36,
+    "review_count": 46,
+    "score_rank": 13
+  },
+  {
+    "product_id": "345430",
+    "user_score": 90,
+    "update_count": 34,
+    "review_count": 182,
+    "score_rank": 78
+  },
+  {
+    "product_id": "346010",
+    "user_score": 95,
+    "update_count": 38,
+    "review_count": 21650,
+    "score_rank": 92
+  },
+  {
+    "product_id": "346330",
+    "user_score": 67,
+    "update_count": 93,
+    "review_count": 3033,
+    "score_rank": 24
+  },
+  {
+    "product_id": "346610",
+    "user_score": 73,
+    "update_count": 100,
+    "review_count": 71,
+    "score_rank": 27
+  },
+  {
+    "product_id": "346800",
+    "user_score": 50,
+    "update_count": 28,
+    "review_count": 69,
+    "score_rank": 2
+  },
+  {
+    "product_id": "346970",
+    "user_score": 85,
+    "update_count": 30,
+    "review_count": 266,
+    "score_rank": 71
+  },
+  {
+    "product_id": "347170",
+    "user_score": 57,
+    "update_count": 38,
+    "review_count": 150,
+    "score_rank": 13
+  },
+  {
+    "product_id": "347560",
+    "user_score": 72,
+    "update_count": 15,
+    "review_count": 990,
+    "score_rank": 27
+  },
+  {
+    "product_id": "347600",
+    "user_score": 95,
+    "update_count": 7,
+    "review_count": 223,
+    "score_rank": 92
+  },
+  {
+    "product_id": "347660",
+    "user_score": 86,
+    "update_count": 82,
+    "review_count": 36,
+    "score_rank": 68
+  },
+  {
+    "product_id": "347940",
+    "user_score": 70,
+    "update_count": 10,
+    "review_count": 276,
+    "score_rank": 32
+  },
+  {
+    "product_id": "349190",
+    "user_score": 66,
+    "update_count": 17,
+    "review_count": 34,
+    "score_rank": 39
+  },
+  {
+    "product_id": "349250",
+    "user_score": 98,
+    "update_count": 2,
+    "review_count": 72,
+    "score_rank": 97
+  },
+  {
+    "product_id": "349450",
+    "user_score": 62,
+    "update_count": 40,
+    "review_count": 58,
+    "score_rank": 20
+  },
+  {
+    "product_id": "349510",
+    "user_score": 81,
+    "update_count": 16,
+    "review_count": 56,
+    "score_rank": 71
+  },
+  {
+    "product_id": "350150",
+    "user_score": 70,
+    "update_count": 61,
+    "review_count": 128,
+    "score_rank": 37
+  },
+  {
+    "product_id": "350220",
+    "user_score": 32,
+    "update_count": 29,
+    "review_count": 274,
+    "score_rank": 2
+  },
+  {
+    "product_id": "351100",
+    "user_score": 82,
+    "update_count": 58,
+    "review_count": 512,
+    "score_rank": 56
+  },
+  {
+    "product_id": "351290",
+    "user_score": 52,
+    "update_count": 61,
+    "review_count": 7214,
+    "score_rank": 10
+  },
+  {
+    "product_id": "351630",
+    "user_score": 50,
+    "update_count": 10,
+    "review_count": 197,
+    "score_rank": 9
+  },
+  {
+    "product_id": "352360",
+    "user_score": 77,
+    "update_count": 32,
+    "review_count": 60,
+    "score_rank": 30
+  },
+  {
+    "product_id": "352430",
+    "user_score": 65,
+    "update_count": 38,
+    "review_count": 157,
+    "score_rank": 23
+  },
+  {
+    "product_id": "355400",
+    "user_score": 89,
+    "update_count": 14,
+    "review_count": 78,
+    "score_rank": 71
+  },
+  {
+    "product_id": "355420",
+    "user_score": 97,
+    "update_count": 7,
+    "review_count": 59,
+    "score_rank": 95
+  },
+  {
+    "product_id": "355490",
+    "user_score": 86,
+    "update_count": 27,
+    "review_count": 22,
+    "score_rank": 74
+  },
+  {
+    "product_id": "355840",
+    "user_score": 51,
+    "update_count": 430,
+    "review_count": 16326,
+    "score_rank": 9
+  },
+  {
+    "product_id": "356510",
+    "user_score": 43,
+    "update_count": 9,
+    "review_count": 698,
+    "score_rank": 59
+  },
+  {
+    "product_id": "357320",
+    "user_score": 58,
+    "update_count": 29,
+    "review_count": 48,
+    "score_rank": 18
+  },
+  {
+    "product_id": "357330",
+    "user_score": 93,
+    "update_count": 38,
+    "review_count": 553,
+    "score_rank": 89
+  },
+  {
+    "product_id": "357770",
+    "user_score": 21,
+    "update_count": 30,
+    "review_count": 1312,
+    "score_rank": 1
+  },
+  {
+    "product_id": "358080",
+    "user_score": 50,
+    "update_count": 20,
+    "review_count": 191,
+    "score_rank": 27
+  },
+  {
+    "product_id": "360620",
+    "user_score": 83,
+    "update_count": 80,
+    "review_count": 171,
+    "score_rank": 62
+  },
+  {
+    "product_id": "361420",
+    "user_score": 86,
+    "update_count": 76,
+    "review_count": 18724,
+    "score_rank": 59
+  },
+  {
+    "product_id": "362310",
+    "user_score": 85,
+    "update_count": 11,
+    "review_count": 35,
+    "score_rank": 68
+  },
+  {
+    "product_id": "362490",
+    "user_score": 79,
+    "update_count": 14,
+    "review_count": 2841,
+    "score_rank": 47
+  },
+  {
+    "product_id": "362620",
+    "user_score": 92,
+    "update_count": 127,
+    "review_count": 2164,
+    "score_rank": 82
+  },
+  {
+    "product_id": "362890",
+    "user_score": 93,
+    "update_count": 26,
+    "review_count": 9696,
+    "score_rank": 86
+  },
+  {
+    "product_id": "362940",
+    "user_score": 100,
+    "update_count": 33,
+    "review_count": 24,
+    "score_rank": 100
+  },
+  {
+    "product_id": "363360",
+    "user_score": 76,
+    "update_count": 255,
+    "review_count": 632,
+    "score_rank": 41
+  },
+  {
+    "product_id": "363490",
+    "user_score": 43,
+    "update_count": 4,
+    "review_count": 626,
+    "score_rank": 5
+  },
+  {
+    "product_id": "363950",
+    "user_score": 92,
+    "update_count": 16,
+    "review_count": 136,
+    "score_rank": 92
+  },
+  {
+    "product_id": "364670",
+    "user_score": 42,
+    "update_count": 2,
+    "review_count": 37,
+    "score_rank": 23
+  },
+  {
+    "product_id": "366000",
+    "user_score": 88,
+    "update_count": 18,
+    "review_count": 152,
+    "score_rank": 82
+  },
+  {
+    "product_id": "366060",
+    "user_score": 88,
+    "update_count": 7,
+    "review_count": 39,
+    "score_rank": 71
+  },
+  {
+    "product_id": "366090",
+    "user_score": 84,
+    "update_count": 41,
+    "review_count": 1373,
+    "score_rank": 56
+  },
+  {
+    "product_id": "366290",
+    "user_score": 58,
+    "update_count": 17,
+    "review_count": 138,
+    "score_rank": 16
+  },
+  {
+    "product_id": "366860",
+    "user_score": 60,
+    "update_count": 10,
+    "review_count": 33,
+    "score_rank": 32
+  },
+  {
+    "product_id": "367030",
+    "user_score": 64,
+    "update_count": 64,
+    "review_count": 52,
+    "score_rank": 30
+  },
+  {
+    "product_id": "367240",
+    "user_score": 45,
+    "update_count": 11,
+    "review_count": 50,
+    "score_rank": 3
+  },
+  {
+    "product_id": "367270",
+    "user_score": 82,
+    "update_count": 40,
+    "review_count": 1473,
+    "score_rank": 51
+  },
+  {
+    "product_id": "368340",
+    "user_score": 96,
+    "update_count": 61,
+    "review_count": 2697,
+    "score_rank": 95
+  },
+  {
+    "product_id": "368720",
+    "user_score": 73,
+    "update_count": 99,
+    "review_count": 175,
+    "score_rank": 18
+  },
+  {
+    "product_id": "368860",
+    "user_score": 39,
+    "update_count": 7,
+    "review_count": 578,
+    "score_rank": 4
+  },
+  {
+    "product_id": "368980",
+    "user_score": 54,
+    "update_count": 10,
+    "review_count": 82,
+    "score_rank": 11
+  },
+  {
+    "product_id": "369080",
+    "user_score": 17,
+    "update_count": 92,
+    "review_count": 198,
+    "score_rank": 0
+  },
+  {
+    "product_id": "369270",
+    "user_score": 95,
+    "update_count": 13,
+    "review_count": 30,
+    "score_rank": 86
+  },
+  {
+    "product_id": "369530",
+    "user_score": 92,
+    "update_count": 31,
+    "review_count": 153,
+    "score_rank": 82
+  },
+  {
+    "product_id": "369560",
+    "user_score": 86,
+    "update_count": 8,
+    "review_count": 96,
+    "score_rank": 65
+  },
+  {
+    "product_id": "369700",
+    "user_score": 0,
+    "update_count": 21,
+    "review_count": 21,
+    "score_rank": ""
+  },
+  {
+    "product_id": "370060",
+    "user_score": 84,
+    "update_count": 42,
+    "review_count": 207,
+    "score_rank": 56
+  },
+  {
+    "product_id": "370770",
+    "user_score": 83,
+    "update_count": 58,
+    "review_count": 786,
+    "score_rank": 54
+  },
+  {
+    "product_id": "372380",
+    "user_score": 78,
+    "update_count": 17,
+    "review_count": 65,
+    "score_rank": 47
+  },
+  {
+    "product_id": "372740",
+    "user_score": 27,
+    "update_count": 6,
+    "review_count": 42,
+    "score_rank": 4
+  },
+  {
+    "product_id": "372750",
+    "user_score": 41,
+    "update_count": 4,
+    "review_count": 121,
+    "score_rank": 6
+  },
+  {
+    "product_id": "372800",
+    "user_score": 79,
+    "update_count": 58,
+    "review_count": 1983,
+    "score_rank": 45
+  },
+  {
+    "product_id": "372820",
+    "user_score": 48,
+    "update_count": 4,
+    "review_count": 156,
+    "score_rank": 8
+  },
+  {
+    "product_id": "372970",
+    "user_score": 78,
+    "update_count": 62,
+    "review_count": 40,
+    "score_rank": 41
+  },
+  {
+    "product_id": "373120",
+    "user_score": 100,
+    "update_count": 6,
+    "review_count": 21,
+    "score_rank": 17
+  },
+  {
+    "product_id": "373470",
+    "user_score": 81,
+    "update_count": 26,
+    "review_count": 52,
+    "score_rank": 56
+  },
+  {
+    "product_id": "373750",
+    "user_score": 89,
+    "update_count": 42,
+    "review_count": 157,
+    "score_rank": 65
+  },
+  {
+    "product_id": "374170",
+    "user_score": 46,
+    "update_count": 4,
+    "review_count": 30,
+    "score_rank": 9
+  },
+  {
+    "product_id": "374280",
+    "user_score": 55,
+    "update_count": 54,
+    "review_count": 1971,
+    "score_rank": 12
+  },
+  {
+    "product_id": "374670",
+    "user_score": 86,
+    "update_count": 47,
+    "review_count": 965,
+    "score_rank": 62
+  },
+  {
+    "product_id": "375480",
+    "user_score": 95,
+    "update_count": 93,
+    "review_count": 910,
+    "score_rank": 92
+  },
+  {
+    "product_id": "375510",
+    "user_score": 41,
+    "update_count": 2,
+    "review_count": 1452,
+    "score_rank": 5
+  },
+  {
+    "product_id": "375530",
+    "user_score": 91,
+    "update_count": 101,
+    "review_count": 1139,
+    "score_rank": 78
+  },
+  {
+    "product_id": "375550",
+    "user_score": 100,
+    "update_count": 8,
+    "review_count": 35,
+    "score_rank": 95
+  },
+  {
+    "product_id": "376150",
+    "user_score": 35,
+    "update_count": 30,
+    "review_count": 42,
+    "score_rank": 2
+  },
+  {
+    "product_id": "376210",
+    "user_score": 67,
+    "update_count": 490,
+    "review_count": 6422,
+    "score_rank": 24
+  },
+  {
+    "product_id": "376880",
+    "user_score": 72,
+    "update_count": 50,
+    "review_count": 54,
+    "score_rank": 45
+  },
+  {
+    "product_id": "377060",
+    "user_score": 74,
+    "update_count": 11,
+    "review_count": 221,
+    "score_rank": 39
+  },
+  {
+    "product_id": "377140",
+    "user_score": 57,
+    "update_count": 32,
+    "review_count": 606,
+    "score_rank": 15
+  },
+  {
+    "product_id": "378280",
+    "user_score": 52,
+    "update_count": 17,
+    "review_count": 39,
+    "score_rank": 11
+  },
+  {
+    "product_id": "378370",
+    "user_score": 60,
+    "update_count": 131,
+    "review_count": 2962,
+    "score_rank": 16
+  },
+  {
+    "product_id": "378530",
+    "user_score": 88,
+    "update_count": 13,
+    "review_count": 32,
+    "score_rank": 86
+  },
+  {
+    "product_id": "378850",
+    "user_score": 72,
+    "update_count": 52,
+    "review_count": 71,
+    "score_rank": 68
+  },
+  {
+    "product_id": "379210",
+    "user_score": 82,
+    "update_count": 38,
+    "review_count": 363,
+    "score_rank": 56
+  },
+  {
+    "product_id": "379420",
+    "user_score": 88,
+    "update_count": 10,
+    "review_count": 108,
+    "score_rank": 71
+  },
+  {
+    "product_id": "381180",
+    "user_score": 61,
+    "update_count": 54,
+    "review_count": 453,
+    "score_rank": 18
+  },
+  {
+    "product_id": "381750",
+    "user_score": 63,
+    "update_count": 35,
+    "review_count": 180,
+    "score_rank": 22
+  },
+  {
+    "product_id": "381800",
+    "user_score": 37,
+    "update_count": 2,
+    "review_count": 38,
+    "score_rank": 9
+  },
+  {
+    "product_id": "382000",
+    "user_score": 98,
+    "update_count": 68,
+    "review_count": 267,
+    "score_rank": 99
+  },
+  {
+    "product_id": "382310",
+    "user_score": 73,
+    "update_count": 15,
+    "review_count": 676,
+    "score_rank": 43
+  },
+  {
+    "product_id": "382480",
+    "user_score": 68,
+    "update_count": 16,
+    "review_count": 119,
+    "score_rank": 24
+  },
+  {
+    "product_id": "383120",
+    "user_score": 84,
+    "update_count": 231,
+    "review_count": 9748,
+    "score_rank": 54
+  },
+  {
+    "product_id": "384090",
+    "user_score": 70,
+    "update_count": 47,
+    "review_count": 136,
+    "score_rank": 33
+  },
+  {
+    "product_id": "384960",
+    "user_score": 83,
+    "update_count": 60,
+    "review_count": 106,
+    "score_rank": 56
+  },
+  {
+    "product_id": "385270",
+    "user_score": 78,
+    "update_count": 19,
+    "review_count": 1186,
+    "score_rank": 27
+  },
+  {
+    "product_id": "385380",
+    "user_score": 82,
+    "update_count": 60,
+    "review_count": 840,
+    "score_rank": 54
+  },
+  {
+    "product_id": "385890",
+    "user_score": 44,
+    "update_count": 47,
+    "review_count": 492,
+    "score_rank": 6
+  },
+  {
+    "product_id": "386340",
+    "user_score": 70,
+    "update_count": 22,
+    "review_count": 79,
+    "score_rank": 41
+  },
+  {
+    "product_id": "386600",
+    "user_score": 79,
+    "update_count": 11,
+    "review_count": 86,
+    "score_rank": 45
+  },
+  {
+    "product_id": "386650",
+    "user_score": 58,
+    "update_count": 19,
+    "review_count": 121,
+    "score_rank": 20
+  },
+  {
+    "product_id": "387990",
+    "user_score": 83,
+    "update_count": 71,
+    "review_count": 13445,
+    "score_rank": 54
+  },
+  {
+    "product_id": "388910",
+    "user_score": 100,
+    "update_count": 48,
+    "review_count": 25,
+    "score_rank": 82
+  },
+  {
+    "product_id": "389040",
+    "user_score": 64,
+    "update_count": 89,
+    "review_count": 1414,
+    "score_rank": 24
+  },
+  {
+    "product_id": "389050",
+    "user_score": 75,
+    "update_count": 17,
+    "review_count": 147,
+    "score_rank": 49
+  },
+  {
+    "product_id": "389260",
+    "user_score": 86,
+    "update_count": 2,
+    "review_count": 64,
+    "score_rank": 65
+  },
+  {
+    "product_id": "390540",
+    "user_score": 66,
+    "update_count": 42,
+    "review_count": 73,
+    "score_rank": 23
+  },
+  {
+    "product_id": "390560",
+    "user_score": 87,
+    "update_count": 16,
+    "review_count": 161,
+    "score_rank": 74
+  },
+  {
+    "product_id": "391460",
+    "user_score": 59,
+    "update_count": 7,
+    "review_count": 13912,
+    "score_rank": 15
+  },
+  {
+    "product_id": "391520",
+    "user_score": 30,
+    "update_count": 2,
+    "review_count": 125,
+    "score_rank": 18
+  },
+  {
+    "product_id": "391530",
+    "user_score": 58,
+    "update_count": 9,
+    "review_count": 44,
+    "score_rank": 37
+  },
+  {
+    "product_id": "392080",
+    "user_score": 78,
+    "update_count": 62,
+    "review_count": 168,
+    "score_rank": 47
+  },
+  {
+    "product_id": "393170",
+    "user_score": 100,
+    "update_count": 20,
+    "review_count": 26,
+    "score_rank": 100
+  },
+  {
+    "product_id": "393380",
+    "user_score": 84,
+    "update_count": 104,
+    "review_count": 17833,
+    "score_rank": 47
+  },
+  {
+    "product_id": "393390",
+    "user_score": 38,
+    "update_count": 10,
+    "review_count": 94,
+    "score_rank": 7
+  },
+  {
+    "product_id": "393420",
+    "user_score": 76,
+    "update_count": 176,
+    "review_count": 16797,
+    "score_rank": 39
+  },
+  {
+    "product_id": "393790",
+    "user_score": 77,
+    "update_count": 24,
+    "review_count": 92,
+    "score_rank": 41
+  },
+  {
+    "product_id": "393820",
+    "user_score": 25,
+    "update_count": 25,
+    "review_count": 50,
+    "score_rank": 7
+  },
+  {
+    "product_id": "393930",
+    "user_score": 64,
+    "update_count": 3,
+    "review_count": 432,
+    "score_rank": 21
+  },
+  {
+    "product_id": "394490",
+    "user_score": 46,
+    "update_count": 14,
+    "review_count": 42,
+    "score_rank": 4
+  },
+  {
+    "product_id": "394690",
+    "user_score": 85,
+    "update_count": 80,
+    "review_count": 4176,
+    "score_rank": 59
+  },
+  {
+    "product_id": "395150",
+    "user_score": 46,
+    "update_count": 42,
+    "review_count": 25,
+    "score_rank": 16
+  },
+  {
+    "product_id": "396900",
+    "user_score": 91,
+    "update_count": 34,
+    "review_count": 1060,
+    "score_rank": 82
+  },
+  {
+    "product_id": "397100",
+    "user_score": 75,
+    "update_count": 102,
+    "review_count": 799,
+    "score_rank": 37
+  },
+  {
+    "product_id": "397150",
+    "user_score": 79,
+    "update_count": 82,
+    "review_count": 469,
+    "score_rank": 54
+  },
+  {
+    "product_id": "397160",
+    "user_score": 85,
+    "update_count": 19,
+    "review_count": 94,
+    "score_rank": 62
+  },
+  {
+    "product_id": "397730",
+    "user_score": 0,
+    "update_count": 2,
+    "review_count": 41,
+    "score_rank": ""
+  },
+  {
+    "product_id": "397750",
+    "user_score": 81,
+    "update_count": 2,
+    "review_count": 48,
+    "score_rank": 49
+  },
+  {
+    "product_id": "398120",
+    "user_score": 45,
+    "update_count": 12,
+    "review_count": 31,
+    "score_rank": 6
+  },
+  {
+    "product_id": "402160",
+    "user_score": 61,
+    "update_count": 64,
+    "review_count": 279,
+    "score_rank": 16
+  },
+  {
+    "product_id": "402710",
+    "user_score": 70,
+    "update_count": 57,
+    "review_count": 7705,
+    "score_rank": 28
+  },
+  {
+    "product_id": "402800",
+    "user_score": 59,
+    "update_count": 15,
+    "review_count": 41,
+    "score_rank": 13
+  },
+  {
+    "product_id": "403590",
+    "user_score": 48,
+    "update_count": 33,
+    "review_count": 164,
+    "score_rank": 8
+  },
+  {
+    "product_id": "404070",
+    "user_score": 53,
+    "update_count": 5,
+    "review_count": 25,
+    "score_rank": 21
+  },
+  {
+    "product_id": "404550",
+    "user_score": 83,
+    "update_count": 23,
+    "review_count": 109,
+    "score_rank": 49
+  },
+  {
+    "product_id": "405010",
+    "user_score": 87,
+    "update_count": 9,
+    "review_count": 575,
+    "score_rank": 65
+  },
+  {
+    "product_id": "405530",
+    "user_score": 100,
+    "update_count": 6,
+    "review_count": 32,
+    "score_rank": 86
+  },
+  {
+    "product_id": "405670",
+    "user_score": 78,
+    "update_count": 9,
+    "review_count": 45,
+    "score_rank": 47
+  },
+  {
+    "product_id": "405710",
+    "user_score": 74,
+    "update_count": 10,
+    "review_count": 815,
+    "score_rank": 41
+  },
+  {
+    "product_id": "406090",
+    "user_score": 66,
+    "update_count": 11,
+    "review_count": 505,
+    "score_rank": 17
+  },
+  {
+    "product_id": "407700",
+    "user_score": 23,
+    "update_count": 5,
+    "review_count": 34,
+    "score_rank": 1
+  },
+  {
+    "product_id": "408900",
+    "user_score": 79,
+    "update_count": 36,
+    "review_count": 113,
+    "score_rank": 51
+  },
+  {
+    "product_id": "409340",
+    "user_score": 51,
+    "update_count": 37,
+    "review_count": 104,
+    "score_rank": 24
+  },
+  {
+    "product_id": "409490",
+    "user_score": 53,
+    "update_count": 45,
+    "review_count": 61,
+    "score_rank": 20
+  },
+  {
+    "product_id": "409590",
+    "user_score": 64,
+    "update_count": 32,
+    "review_count": 1121,
+    "score_rank": 21
+  },
+  {
+    "product_id": "410340",
+    "user_score": 83,
+    "update_count": 100,
+    "review_count": 665,
+    "score_rank": 56
+  },
+  {
+    "product_id": "410830",
+    "user_score": 97,
+    "update_count": 32,
+    "review_count": 53,
+    "score_rank": 99
+  },
+  {
+    "product_id": "411600",
+    "user_score": 65,
+    "update_count": 50,
+    "review_count": 51,
+    "score_rank": 28
+  },
+  {
+    "product_id": "412130",
+    "user_score": 45,
+    "update_count": 9,
+    "review_count": 230,
+    "score_rank": 21
+  },
+  {
+    "product_id": "412250",
+    "user_score": 71,
+    "update_count": 9,
+    "review_count": 29,
+    "score_rank": 13
+  },
+  {
+    "product_id": "412310",
+    "user_score": 75,
+    "update_count": 91,
+    "review_count": 235,
+    "score_rank": 37
+  },
+  {
+    "product_id": "412450",
+    "user_score": 61,
+    "update_count": 116,
+    "review_count": 1527,
+    "score_rank": 16
+  },
+  {
+    "product_id": "412470",
+    "user_score": 56,
+    "update_count": 27,
+    "review_count": 690,
+    "score_rank": 13
+  },
+  {
+    "product_id": "412860",
+    "user_score": 100,
+    "update_count": 17,
+    "review_count": 24,
+    "score_rank": 47
+  },
+  {
+    "product_id": "413110",
+    "user_score": 55,
+    "update_count": 16,
+    "review_count": 190,
+    "score_rank": 18
+  },
+  {
+    "product_id": "413510",
+    "user_score": 100,
+    "update_count": 29,
+    "review_count": 35,
+    "score_rank": 20
+  },
+  {
+    "product_id": "413740",
+    "user_score": 72,
+    "update_count": 3,
+    "review_count": 34,
+    "score_rank": 14
+  },
+  {
+    "product_id": "414070",
+    "user_score": 51,
+    "update_count": 6,
+    "review_count": 358,
+    "score_rank": 17
+  },
+  {
+    "product_id": "414080",
+    "user_score": 69,
+    "update_count": 63,
+    "review_count": 431,
+    "score_rank": 35
+  },
+  {
+    "product_id": "414120",
+    "user_score": 92,
+    "update_count": 24,
+    "review_count": 128,
+    "score_rank": 82
+  },
+  {
+    "product_id": "415010",
+    "user_score": 45,
+    "update_count": 18,
+    "review_count": 89,
+    "score_rank": 8
+  },
+  {
+    "product_id": "415080",
+    "user_score": 20,
+    "update_count": 14,
+    "review_count": 76,
+    "score_rank": 6
+  },
+  {
+    "product_id": "415590",
+    "user_score": 76,
+    "update_count": 16,
+    "review_count": 183,
+    "score_rank": 43
+  },
+  {
+    "product_id": "415860",
+    "user_score": 49,
+    "update_count": 124,
+    "review_count": 1125,
+    "score_rank": 8
+  },
+  {
+    "product_id": "416000",
+    "user_score": 97,
+    "update_count": 21,
+    "review_count": 44,
+    "score_rank": 97
+  },
+  {
+    "product_id": "416020",
+    "user_score": 56,
+    "update_count": 32,
+    "review_count": 169,
+    "score_rank": 7
+  },
+  {
+    "product_id": "416240",
+    "user_score": 87,
+    "update_count": 48,
+    "review_count": 66,
+    "score_rank": 71
+  },
+  {
+    "product_id": "416260",
+    "user_score": 33,
+    "update_count": 22,
+    "review_count": 65,
+    "score_rank": 2
+  },
+  {
+    "product_id": "416670",
+    "user_score": 54,
+    "update_count": 4,
+    "review_count": 305,
+    "score_rank": 11
+  },
+  {
+    "product_id": "417290",
+    "user_score": 96,
+    "update_count": 34,
+    "review_count": 609,
+    "score_rank": 95
+  },
+  {
+    "product_id": "418030",
+    "user_score": 73,
+    "update_count": 49,
+    "review_count": 2491,
+    "score_rank": 35
+  },
+  {
+    "product_id": "418110",
+    "user_score": 83,
+    "update_count": 20,
+    "review_count": 163,
+    "score_rank": 32
+  },
+  {
+    "product_id": "418620",
+    "user_score": 90,
+    "update_count": 26,
+    "review_count": 128,
+    "score_rank": 78
+  },
+  {
+    "product_id": "418910",
+    "user_score": 56,
+    "update_count": 8,
+    "review_count": 152,
+    "score_rank": 15
+  },
+  {
+    "product_id": "420550",
+    "user_score": 82,
+    "update_count": 53,
+    "review_count": 99,
+    "score_rank": 56
+  },
+  {
+    "product_id": "420930",
+    "user_score": 82,
+    "update_count": 120,
+    "review_count": 382,
+    "score_rank": 56
+  },
+  {
+    "product_id": "422210",
+    "user_score": 47,
+    "update_count": 16,
+    "review_count": 27,
+    "score_rank": 23
+  },
+  {
+    "product_id": "422420",
+    "user_score": 17,
+    "update_count": 6,
+    "review_count": 501,
+    "score_rank": 0
+  },
+  {
+    "product_id": "422860",
+    "user_score": 90,
+    "update_count": 99,
+    "review_count": 142,
+    "score_rank": 74
+  },
+  {
+    "product_id": "422940",
+    "user_score": 60,
+    "update_count": 45,
+    "review_count": 123,
+    "score_rank": 17
+  },
+  {
+    "product_id": "423890",
+    "user_score": 69,
+    "update_count": 44,
+    "review_count": 540,
+    "score_rank": 27
+  },
+  {
+    "product_id": "424370",
+    "user_score": 77,
+    "update_count": 109,
+    "review_count": 2088,
+    "score_rank": 43
+  },
+  {
+    "product_id": "425230",
+    "user_score": 75,
+    "update_count": 31,
+    "review_count": 25,
+    "score_rank": 23
+  },
+  {
+    "product_id": "425450",
+    "user_score": 66,
+    "update_count": 9,
+    "review_count": 20,
+    "score_rank": 28
+  },
+  {
+    "product_id": "426210",
+    "user_score": 63,
+    "update_count": 3,
+    "review_count": 36,
+    "score_rank": 17
+  },
+  {
+    "product_id": "426590",
+    "user_score": 26,
+    "update_count": 77,
+    "review_count": 62,
+    "score_rank": 13
+  },
+  {
+    "product_id": "426930",
+    "user_score": 74,
+    "update_count": 15,
+    "review_count": 91,
+    "score_rank": 54
+  },
+  {
+    "product_id": "427520",
+    "user_score": 98,
+    "update_count": 229,
+    "review_count": 24741,
+    "score_rank": 99
+  },
+  {
+    "product_id": "427880",
+    "user_score": 72,
+    "update_count": 94,
+    "review_count": 370,
+    "score_rank": 32
+  },
+  {
+    "product_id": "427950",
+    "user_score": 68,
+    "update_count": 97,
+    "review_count": 264,
+    "score_rank": 27
+  },
+  {
+    "product_id": "428080",
+    "user_score": 99,
+    "update_count": 23,
+    "review_count": 282,
+    "score_rank": 99
+  },
+  {
+    "product_id": "428180",
+    "user_score": 79,
+    "update_count": 152,
+    "review_count": 343,
+    "score_rank": 45
+  },
+  {
+    "product_id": "428610",
+    "user_score": 80,
+    "update_count": 10,
+    "review_count": 51,
+    "score_rank": 47
+  },
+  {
+    "product_id": "429020",
+    "user_score": 48,
+    "update_count": 75,
+    "review_count": 70,
+    "score_rank": 5
+  },
+  {
+    "product_id": "429050",
+    "user_score": 72,
+    "update_count": 34,
+    "review_count": 1021,
+    "score_rank": 32
+  },
+  {
+    "product_id": "429430",
+    "user_score": 50,
+    "update_count": 23,
+    "review_count": 26,
+    "score_rank": 7
+  },
+  {
+    "product_id": "429790",
+    "user_score": 68,
+    "update_count": 62,
+    "review_count": 2983,
+    "score_rank": 26
+  },
+  {
+    "product_id": "430070",
+    "user_score": 89,
+    "update_count": 14,
+    "review_count": 58,
+    "score_rank": 56
+  },
+  {
+    "product_id": "431240",
+    "user_score": 90,
+    "update_count": 86,
+    "review_count": 10762,
+    "score_rank": 78
+  },
+  {
+    "product_id": "431450",
+    "user_score": 75,
+    "update_count": 33,
+    "review_count": 236,
+    "score_rank": 51
+  },
+  {
+    "product_id": "431770",
+    "user_score": 96,
+    "update_count": 68,
+    "review_count": 67,
+    "score_rank": 92
+  },
+  {
+    "product_id": "431960",
+    "user_score": 96,
+    "update_count": 27,
+    "review_count": 37288,
+    "score_rank": 95
+  },
+  {
+    "product_id": "432170",
+    "user_score": 65,
+    "update_count": 25,
+    "review_count": 52,
+    "score_rank": 16
+  },
+  {
+    "product_id": "432250",
+    "user_score": 69,
+    "update_count": 5,
+    "review_count": 95,
+    "score_rank": 28
+  },
+  {
+    "product_id": "432480",
+    "user_score": 50,
+    "update_count": 15,
+    "review_count": 22,
+    "score_rank": 78
+  },
+  {
+    "product_id": "432720",
+    "user_score": 67,
+    "update_count": 7,
+    "review_count": 67,
+    "score_rank": 39
+  },
+  {
+    "product_id": "433170",
+    "user_score": 82,
+    "update_count": 42,
+    "review_count": 355,
+    "score_rank": 54
+  },
+  {
+    "product_id": "433630",
+    "user_score": 74,
+    "update_count": 9,
+    "review_count": 40,
+    "score_rank": 37
+  },
+  {
+    "product_id": "433850",
+    "user_score": 62,
+    "update_count": 171,
+    "review_count": 126642,
+    "score_rank": 17
+  },
+  {
+    "product_id": "434530",
+    "user_score": 94,
+    "update_count": 10,
+    "review_count": 30,
+    "score_rank": 74
+  },
+  {
+    "product_id": "436480",
+    "user_score": 66,
+    "update_count": 4,
+    "review_count": 37,
+    "score_rank": 21
+  },
+  {
+    "product_id": "437550",
+    "user_score": 80,
+    "update_count": 50,
+    "review_count": 36,
+    "score_rank": 54
+  },
+  {
+    "product_id": "437610",
+    "user_score": 88,
+    "update_count": 32,
+    "review_count": 105,
+    "score_rank": 82
+  },
+  {
+    "product_id": "437890",
+    "user_score": 73,
+    "update_count": 8,
+    "review_count": 125,
+    "score_rank": 39
+  },
+  {
+    "product_id": "438000",
+    "user_score": 100,
+    "update_count": 13,
+    "review_count": 34,
+    "score_rank": 86
+  },
+  {
+    "product_id": "438100",
+    "user_score": 87,
+    "update_count": 25,
+    "review_count": 12503,
+    "score_rank": 65
+  },
+  {
+    "product_id": "439340",
+    "user_score": 73,
+    "update_count": 63,
+    "review_count": 296,
+    "score_rank": 33
+  },
+  {
+    "product_id": "439370",
+    "user_score": 73,
+    "update_count": 9,
+    "review_count": 125,
+    "score_rank": 45
+  },
+  {
+    "product_id": "439950",
+    "user_score": 47,
+    "update_count": 33,
+    "review_count": 63,
+    "score_rank": 7
+  },
+  {
+    "product_id": "440280",
+    "user_score": 77,
+    "update_count": 33,
+    "review_count": 49,
+    "score_rank": 49
+  },
+  {
+    "product_id": "440450",
+    "user_score": 66,
+    "update_count": 29,
+    "review_count": 45,
+    "score_rank": 26
+  },
+  {
+    "product_id": "440900",
+    "user_score": 63,
+    "update_count": 236,
+    "review_count": 15470,
+    "score_rank": 21
+  },
+  {
+    "product_id": "441230",
+    "user_score": 86,
+    "update_count": 9,
+    "review_count": 30,
+    "score_rank": 74
+  },
+  {
+    "product_id": "442210",
+    "user_score": 93,
+    "update_count": 18,
+    "review_count": 332,
+    "score_rank": 86
+  },
+  {
+    "product_id": "442660",
+    "user_score": 66,
+    "update_count": 20,
+    "review_count": 60,
+    "score_rank": 22
+  },
+  {
+    "product_id": "442710",
+    "user_score": 74,
+    "update_count": 18,
+    "review_count": 394,
+    "score_rank": 35
+  },
+  {
+    "product_id": "443890",
+    "user_score": 84,
+    "update_count": 13,
+    "review_count": 42,
+    "score_rank": 54
+  },
+  {
+    "product_id": "444090",
+    "user_score": 83,
+    "update_count": 256,
+    "review_count": 106744,
+    "score_rank": 54
+  },
+  {
+    "product_id": "444460",
+    "user_score": 18,
+    "update_count": 7,
+    "review_count": 99,
+    "score_rank": 2
+  },
+  {
+    "product_id": "444650",
+    "user_score": 45,
+    "update_count": 14,
+    "review_count": 62,
+    "score_rank": 8
+  },
+  {
+    "product_id": "444670",
+    "user_score": 85,
+    "update_count": 35,
+    "review_count": 71,
+    "score_rank": 56
+  },
+  {
+    "product_id": "444690",
+    "user_score": 58,
+    "update_count": 32,
+    "review_count": 91,
+    "score_rank": 20
+  },
+  {
+    "product_id": "445220",
+    "user_score": 89,
+    "update_count": 68,
+    "review_count": 2550,
+    "score_rank": 71
+  },
+  {
+    "product_id": "446020",
+    "user_score": 84,
+    "update_count": 42,
+    "review_count": 2790,
+    "score_rank": 59
+  },
+  {
+    "product_id": "446030",
+    "user_score": 90,
+    "update_count": 17,
+    "review_count": 74,
+    "score_rank": 86
+  },
+  {
+    "product_id": "446120",
+    "user_score": 89,
+    "update_count": 58,
+    "review_count": 183,
+    "score_rank": 78
+  },
+  {
+    "product_id": "447100",
+    "user_score": 29,
+    "update_count": 17,
+    "review_count": 20,
+    "score_rank": 4
+  },
+  {
+    "product_id": "447960",
+    "user_score": 64,
+    "update_count": 9,
+    "review_count": 45,
+    "score_rank": 26
+  },
+  {
+    "product_id": "448060",
+    "user_score": 23,
+    "update_count": 5,
+    "review_count": 26,
+    "score_rank": 3
+  },
+  {
+    "product_id": "448150",
+    "user_score": 65,
+    "update_count": 22,
+    "review_count": 41,
+    "score_rank": 26
+  },
+  {
+    "product_id": "448230",
+    "user_score": 50,
+    "update_count": 4,
+    "review_count": 23,
+    "score_rank": 5
+  },
+  {
+    "product_id": "448570",
+    "user_score": 72,
+    "update_count": 61,
+    "review_count": 112,
+    "score_rank": 32
+  },
+  {
+    "product_id": "448640",
+    "user_score": 65,
+    "update_count": 9,
+    "review_count": 87,
+    "score_rank": 21
+  },
+  {
+    "product_id": "448850",
+    "user_score": 96,
+    "update_count": 12,
+    "review_count": 267,
+    "score_rank": 97
+  },
+  {
+    "product_id": "449130",
+    "user_score": 82,
+    "update_count": 2,
+    "review_count": 28,
+    "score_rank": 51
+  },
+  {
+    "product_id": "449960",
+    "user_score": 95,
+    "update_count": 35,
+    "review_count": 1569,
+    "score_rank": 95
+  },
+  {
+    "product_id": "450020",
+    "user_score": 0,
+    "update_count": 6,
+    "review_count": 21,
+    "score_rank": ""
+  },
+  {
+    "product_id": "450540",
+    "user_score": 97,
+    "update_count": 86,
+    "review_count": 1565,
+    "score_rank": 97
+  },
+  {
+    "product_id": "450700",
+    "user_score": 83,
+    "update_count": 54,
+    "review_count": 94,
+    "score_rank": 56
+  },
+  {
+    "product_id": "450860",
+    "user_score": 55,
+    "update_count": 28,
+    "review_count": 147,
+    "score_rank": 13
+  },
+  {
+    "product_id": "451600",
+    "user_score": 84,
+    "update_count": 65,
+    "review_count": 122,
+    "score_rank": 68
+  },
+  {
+    "product_id": "451650",
+    "user_score": 77,
+    "update_count": 50,
+    "review_count": 266,
+    "score_rank": 41
+  },
+  {
+    "product_id": "453090",
+    "user_score": 88,
+    "update_count": 89,
+    "review_count": 1139,
+    "score_rank": 78
+  },
+  {
+    "product_id": "453690",
+    "user_score": 83,
+    "update_count": 50,
+    "review_count": 69,
+    "score_rank": 56
+  },
+  {
+    "product_id": "454140",
+    "user_score": 91,
+    "update_count": 25,
+    "review_count": 89,
+    "score_rank": 82
+  },
+  {
+    "product_id": "454150",
+    "user_score": 55,
+    "update_count": 31,
+    "review_count": 740,
+    "score_rank": 14
+  },
+  {
+    "product_id": "454350",
+    "user_score": 44,
+    "update_count": 33,
+    "review_count": 1230,
+    "score_rank": 7
+  },
+  {
+    "product_id": "454580",
+    "user_score": 63,
+    "update_count": 29,
+    "review_count": 72,
+    "score_rank": 1
+  },
+  {
+    "product_id": "454680",
+    "user_score": 53,
+    "update_count": 10,
+    "review_count": 89,
+    "score_rank": 13
+  },
+  {
+    "product_id": "455980",
+    "user_score": 86,
+    "update_count": 44,
+    "review_count": 695,
+    "score_rank": 65
+  },
+  {
+    "product_id": "457010",
+    "user_score": 72,
+    "update_count": 28,
+    "review_count": 348,
+    "score_rank": 33
+  },
+  {
+    "product_id": "457140",
+    "user_score": 91,
+    "update_count": 33,
+    "review_count": 9201,
+    "score_rank": 78
+  },
+  {
+    "product_id": "457330",
+    "user_score": 49,
+    "update_count": 13,
+    "review_count": 3101,
+    "score_rank": 8
+  },
+  {
+    "product_id": "458030",
+    "user_score": 54,
+    "update_count": 7,
+    "review_count": 33,
+    "score_rank": 11
+  },
+  {
+    "product_id": "458330",
+    "user_score": 92,
+    "update_count": 34,
+    "review_count": 34,
+    "score_rank": 89
+  },
+  {
+    "product_id": "458410",
+    "user_score": 73,
+    "update_count": 9,
+    "review_count": 31,
+    "score_rank": 33
+  },
+  {
+    "product_id": "458520",
+    "user_score": 55,
+    "update_count": 63,
+    "review_count": 207,
+    "score_rank": 6
+  },
+  {
+    "product_id": "458660",
+    "user_score": 88,
+    "update_count": 6,
+    "review_count": 36,
+    "score_rank": 68
+  },
+  {
+    "product_id": "458830",
+    "user_score": 59,
+    "update_count": 3,
+    "review_count": 158,
+    "score_rank": 16
+  },
+  {
+    "product_id": "461210",
+    "user_score": 55,
+    "update_count": 26,
+    "review_count": 101,
+    "score_rank": 20
+  },
+  {
+    "product_id": "461400",
+    "user_score": 42,
+    "update_count": 102,
+    "review_count": 104,
+    "score_rank": 33
+  },
+  {
+    "product_id": "461410",
+    "user_score": 85,
+    "update_count": 67,
+    "review_count": 55,
+    "score_rank": 71
+  },
+  {
+    "product_id": "461430",
+    "user_score": 74,
+    "update_count": 98,
+    "review_count": 960,
+    "score_rank": 39
+  },
+  {
+    "product_id": "462100",
+    "user_score": 88,
+    "update_count": 11,
+    "review_count": 174,
+    "score_rank": 71
+  },
+  {
+    "product_id": "462440",
+    "user_score": 49,
+    "update_count": 32,
+    "review_count": 344,
+    "score_rank": 9
+  },
+  {
+    "product_id": "462480",
+    "user_score": 88,
+    "update_count": 9,
+    "review_count": 44,
+    "score_rank": 68
+  },
+  {
+    "product_id": "462940",
+    "user_score": 74,
+    "update_count": 15,
+    "review_count": 35,
+    "score_rank": 35
+  },
+  {
+    "product_id": "463240",
+    "user_score": 85,
+    "update_count": 19,
+    "review_count": 34,
+    "score_rank": 51
+  },
+  {
+    "product_id": "463400",
+    "user_score": 73,
+    "update_count": 4,
+    "review_count": 22,
+    "score_rank": 41
+  },
+  {
+    "product_id": "463530",
+    "user_score": 93,
+    "update_count": 8,
+    "review_count": 736,
+    "score_rank": 89
+  },
+  {
+    "product_id": "463800",
+    "user_score": 83,
+    "update_count": 70,
+    "review_count": 42,
+    "score_rank": 68
+  },
+  {
+    "product_id": "463870",
+    "user_score": 50,
+    "update_count": 3,
+    "review_count": 28,
+    "score_rank": 7
+  },
+  {
+    "product_id": "463920",
+    "user_score": 0,
+    "update_count": 2,
+    "review_count": 85,
+    "score_rank": ""
+  },
+  {
+    "product_id": "464470",
+    "user_score": 62,
+    "update_count": 4,
+    "review_count": 305,
+    "score_rank": 17
+  },
+  {
+    "product_id": "464690",
+    "user_score": 20,
+    "update_count": 5,
+    "review_count": 39,
+    "score_rank": 1
+  },
+  {
+    "product_id": "465000",
+    "user_score": 76,
+    "update_count": 7,
+    "review_count": 56,
+    "score_rank": 39
+  },
+  {
+    "product_id": "465020",
+    "user_score": 100,
+    "update_count": 103,
+    "review_count": 41,
+    "score_rank": 92
+  },
+  {
+    "product_id": "465200",
+    "user_score": 88,
+    "update_count": 13,
+    "review_count": 189,
+    "score_rank": 71
+  },
+  {
+    "product_id": "465450",
+    "user_score": 78,
+    "update_count": 4,
+    "review_count": 33,
+    "score_rank": 49
+  },
+  {
+    "product_id": "465490",
+    "user_score": 85,
+    "update_count": 46,
+    "review_count": 326,
+    "score_rank": 59
+  },
+  {
+    "product_id": "466110",
+    "user_score": 93,
+    "update_count": 39,
+    "review_count": 428,
+    "score_rank": 86
+  },
+  {
+    "product_id": "466220",
+    "user_score": 69,
+    "update_count": 29,
+    "review_count": 313,
+    "score_rank": 27
+  },
+  {
+    "product_id": "466560",
+    "user_score": 89,
+    "update_count": 45,
+    "review_count": 8045,
+    "score_rank": 74
+  },
+  {
+    "product_id": "466860",
+    "user_score": 75,
+    "update_count": 118,
+    "review_count": 1149,
+    "score_rank": 37
+  },
+  {
+    "product_id": "466980",
+    "user_score": 73,
+    "update_count": 15,
+    "review_count": 196,
+    "score_rank": 49
+  },
+  {
+    "product_id": "467010",
+    "user_score": 40,
+    "update_count": 51,
+    "review_count": 77,
+    "score_rank": 6
+  },
+  {
+    "product_id": "467060",
+    "user_score": 75,
+    "update_count": 6,
+    "review_count": 35,
+    "score_rank": 16
+  },
+  {
+    "product_id": "467400",
+    "user_score": 81,
+    "update_count": 20,
+    "review_count": 23,
+    "score_rank": 51
+  },
+  {
+    "product_id": "467570",
+    "user_score": 46,
+    "update_count": 101,
+    "review_count": 253,
+    "score_rank": 10
+  },
+  {
+    "product_id": "467760",
+    "user_score": 90,
+    "update_count": 31,
+    "review_count": 77,
+    "score_rank": 78
+  },
+  {
+    "product_id": "467820",
+    "user_score": 94,
+    "update_count": 62,
+    "review_count": 657,
+    "score_rank": 82
+  },
+  {
+    "product_id": "467890",
+    "user_score": 66,
+    "update_count": 7,
+    "review_count": 37,
+    "score_rank": 18
+  },
+  {
+    "product_id": "467900",
+    "user_score": 74,
+    "update_count": 30,
+    "review_count": 75,
+    "score_rank": 43
+  },
+  {
+    "product_id": "468070",
+    "user_score": 88,
+    "update_count": 96,
+    "review_count": 126,
+    "score_rank": 37
+  },
+  {
+    "product_id": "468820",
+    "user_score": 92,
+    "update_count": 5,
+    "review_count": 125,
+    "score_rank": 82
+  },
+  {
+    "product_id": "468920",
+    "user_score": 69,
+    "update_count": 69,
+    "review_count": 270,
+    "score_rank": 27
+  },
+  {
+    "product_id": "469600",
+    "user_score": 75,
+    "update_count": 35,
+    "review_count": 1295,
+    "score_rank": 41
+  },
+  {
+    "product_id": "470280",
+    "user_score": 20,
+    "update_count": 5,
+    "review_count": 25,
+    "score_rank": 0
+  },
+  {
+    "product_id": "470310",
+    "user_score": 91,
+    "update_count": 52,
+    "review_count": 51,
+    "score_rank": 82
+  },
+  {
+    "product_id": "470600",
+    "user_score": 61,
+    "update_count": 8,
+    "review_count": 662,
+    "score_rank": 21
+  },
+  {
+    "product_id": "471710",
+    "user_score": 97,
+    "update_count": 120,
+    "review_count": 2304,
+    "score_rank": 97
+  },
+  {
+    "product_id": "473910",
+    "user_score": 67,
+    "update_count": 16,
+    "review_count": 170,
+    "score_rank": 26
+  },
+  {
+    "product_id": "474890",
+    "user_score": 80,
+    "update_count": 30,
+    "review_count": 27,
+    "score_rank": 49
+  },
+  {
+    "product_id": "476700",
+    "user_score": 80,
+    "update_count": 49,
+    "review_count": 287,
+    "score_rank": 49
+  },
+  {
+    "product_id": "477140",
+    "user_score": 40,
+    "update_count": 19,
+    "review_count": 49,
+    "score_rank": 8
+  },
+  {
+    "product_id": "477180",
+    "user_score": 35,
+    "update_count": 6,
+    "review_count": 77,
+    "score_rank": 3
+  },
+  {
+    "product_id": "479010",
+    "user_score": 79,
+    "update_count": 33,
+    "review_count": 81,
+    "score_rank": 45
+  },
+  {
+    "product_id": "479020",
+    "user_score": 81,
+    "update_count": 14,
+    "review_count": 43,
+    "score_rank": 59
+  },
+  {
+    "product_id": "481870",
+    "user_score": 80,
+    "update_count": 37,
+    "review_count": 247,
+    "score_rank": 47
+  },
+  {
+    "product_id": "482440",
+    "user_score": 70,
+    "update_count": 8,
+    "review_count": 31,
+    "score_rank": 24
+  },
+  {
+    "product_id": "485240",
+    "user_score": 62,
+    "update_count": 7,
+    "review_count": 41,
+    "score_rank": 37
+  },
+  {
+    "product_id": "485310",
+    "user_score": 45,
+    "update_count": 16,
+    "review_count": 1535,
+    "score_rank": 7
+  },
+  {
+    "product_id": "485440",
+    "user_score": 35,
+    "update_count": 2,
+    "review_count": 50,
+    "score_rank": 5
+  },
+  {
+    "product_id": "485900",
+    "user_score": 90,
+    "update_count": 75,
+    "review_count": 175,
+    "score_rank": 74
+  },
+  {
+    "product_id": "486690",
+    "user_score": 80,
+    "update_count": 22,
+    "review_count": 516,
+    "score_rank": 49
+  },
+  {
+    "product_id": "487000",
+    "user_score": 81,
+    "update_count": 13,
+    "review_count": 147,
+    "score_rank": 49
+  },
+  {
+    "product_id": "487120",
+    "user_score": 65,
+    "update_count": 92,
+    "review_count": 2964,
+    "score_rank": 22
+  },
+  {
+    "product_id": "487250",
+    "user_score": 70,
+    "update_count": 24,
+    "review_count": 96,
+    "score_rank": 5
+  },
+  {
+    "product_id": "488150",
+    "user_score": 70,
+    "update_count": 9,
+    "review_count": 31,
+    "score_rank": 35
+  },
+  {
+    "product_id": "488440",
+    "user_score": 60,
+    "update_count": 27,
+    "review_count": 1168,
+    "score_rank": 16
+  },
+  {
+    "product_id": "488550",
+    "user_score": 93,
+    "update_count": 34,
+    "review_count": 284,
+    "score_rank": 89
+  },
+  {
+    "product_id": "488590",
+    "user_score": 88,
+    "update_count": 7,
+    "review_count": 37,
+    "score_rank": 62
+  },
+  {
+    "product_id": "489380",
+    "user_score": 93,
+    "update_count": 259,
+    "review_count": 373,
+    "score_rank": 86
+  },
+  {
+    "product_id": "489400",
+    "user_score": 56,
+    "update_count": 12,
+    "review_count": 20,
+    "score_rank": 22
+  },
+  {
+    "product_id": "489460",
+    "user_score": 77,
+    "update_count": 39,
+    "review_count": 405,
+    "score_rank": 45
+  },
+  {
+    "product_id": "489520",
+    "user_score": 81,
+    "update_count": 62,
+    "review_count": 4869,
+    "score_rank": 54
+  },
+  {
+    "product_id": "489940",
+    "user_score": 57,
+    "update_count": 19,
+    "review_count": 5981,
+    "score_rank": 14
+  },
+  {
+    "product_id": "490280",
+    "user_score": 94,
+    "update_count": 13,
+    "review_count": 61,
+    "score_rank": 92
+  },
+  {
+    "product_id": "490990",
+    "user_score": 58,
+    "update_count": 4,
+    "review_count": 102,
+    "score_rank": 16
+  },
+  {
+    "product_id": "491470",
+    "user_score": 77,
+    "update_count": 7,
+    "review_count": 142,
+    "score_rank": 43
+  },
+  {
+    "product_id": "492150",
+    "user_score": 76,
+    "update_count": 54,
+    "review_count": 264,
+    "score_rank": 51
+  },
+  {
+    "product_id": "492340",
+    "user_score": 93,
+    "update_count": 2,
+    "review_count": 201,
+    "score_rank": 82
+  },
+  {
+    "product_id": "492410",
+    "user_score": 75,
+    "update_count": 74,
+    "review_count": 25,
+    "score_rank": 68
+  },
+  {
+    "product_id": "493280",
+    "user_score": 78,
+    "update_count": 2,
+    "review_count": 73,
+    "score_rank": 51
+  },
+  {
+    "product_id": "493400",
+    "user_score": 74,
+    "update_count": 2,
+    "review_count": 27,
+    "score_rank": 35
+  },
+  {
+    "product_id": "494150",
+    "user_score": 93,
+    "update_count": 59,
+    "review_count": 541,
+    "score_rank": 86
+  },
+  {
+    "product_id": "494310",
+    "user_score": 100,
+    "update_count": 31,
+    "review_count": 45,
+    "score_rank": 100
+  },
+  {
+    "product_id": "495740",
+    "user_score": 30,
+    "update_count": 3,
+    "review_count": 73,
+    "score_rank": 7
+  },
+  {
+    "product_id": "496240",
+    "user_score": 90,
+    "update_count": 51,
+    "review_count": 2366,
+    "score_rank": 74
+  },
+  {
+    "product_id": "496250",
+    "user_score": 89,
+    "update_count": 4,
+    "review_count": 222,
+    "score_rank": 71
+  },
+  {
+    "product_id": "496290",
+    "user_score": 82,
+    "update_count": 6,
+    "review_count": 28,
+    "score_rank": 51
+  },
+  {
+    "product_id": "496440",
+    "user_score": 66,
+    "update_count": 34,
+    "review_count": 25,
+    "score_rank": 26
+  },
+  {
+    "product_id": "496500",
+    "user_score": 29,
+    "update_count": 6,
+    "review_count": 324,
+    "score_rank": 5
+  },
+  {
+    "product_id": "497270",
+    "user_score": 65,
+    "update_count": 3,
+    "review_count": 43,
+    "score_rank": 14
+  },
+  {
+    "product_id": "498340",
+    "user_score": 68,
+    "update_count": 11,
+    "review_count": 68,
+    "score_rank": 27
+  },
+  {
+    "product_id": "498630",
+    "user_score": 30,
+    "update_count": 2,
+    "review_count": 26,
+    "score_rank": 3
+  },
+  {
+    "product_id": "499230",
+    "user_score": 74,
+    "update_count": 8,
+    "review_count": 80,
+    "score_rank": 26
+  },
+  {
+    "product_id": "499660",
+    "user_score": 78,
+    "update_count": 39,
+    "review_count": 629,
+    "score_rank": 45
+  },
+  {
+    "product_id": "500420",
+    "user_score": 83,
+    "update_count": 16,
+    "review_count": 57,
+    "score_rank": 47
+  },
+  {
+    "product_id": "500470",
+    "user_score": 84,
+    "update_count": 3,
+    "review_count": 29,
+    "score_rank": 62
+  },
+  {
+    "product_id": "500480",
+    "user_score": 76,
+    "update_count": 6,
+    "review_count": 33,
+    "score_rank": 37
+  },
+  {
+    "product_id": "501220",
+    "user_score": 45,
+    "update_count": 21,
+    "review_count": 47,
+    "score_rank": 12
+  },
+  {
+    "product_id": "501740",
+    "user_score": 38,
+    "update_count": 5,
+    "review_count": 37,
+    "score_rank": 13
+  },
+  {
+    "product_id": "503010",
+    "user_score": 70,
+    "update_count": 20,
+    "review_count": 80,
+    "score_rank": 26
+  },
+  {
+    "product_id": "503180",
+    "user_score": 89,
+    "update_count": 33,
+    "review_count": 53,
+    "score_rank": 74
+  },
+  {
+    "product_id": "503240",
+    "user_score": 70,
+    "update_count": 4,
+    "review_count": 70,
+    "score_rank": 24
+  },
+  {
+    "product_id": "503370",
+    "user_score": 70,
+    "update_count": 57,
+    "review_count": 92,
+    "score_rank": 30
+  },
+  {
+    "product_id": "503390",
+    "user_score": 47,
+    "update_count": 13,
+    "review_count": 25,
+    "score_rank": 16
+  },
+  {
+    "product_id": "503770",
+    "user_score": 90,
+    "update_count": 29,
+    "review_count": 200,
+    "score_rank": 78
+  },
+  {
+    "product_id": "504010",
+    "user_score": 55,
+    "update_count": 4,
+    "review_count": 34,
+    "score_rank": 17
+  },
+  {
+    "product_id": "504050",
+    "user_score": 71,
+    "update_count": 59,
+    "review_count": 689,
+    "score_rank": 30
+  },
+  {
+    "product_id": "504300",
+    "user_score": 75,
+    "update_count": 20,
+    "review_count": 336,
+    "score_rank": 37
+  },
+  {
+    "product_id": "504460",
+    "user_score": 92,
+    "update_count": 21,
+    "review_count": 77,
+    "score_rank": 39
+  },
+  {
+    "product_id": "505060",
+    "user_score": 94,
+    "update_count": 57,
+    "review_count": 245,
+    "score_rank": 92
+  },
+  {
+    "product_id": "505460",
+    "user_score": 82,
+    "update_count": 61,
+    "review_count": 4351,
+    "score_rank": 54
+  },
+  {
+    "product_id": "508550",
+    "user_score": 70,
+    "update_count": 32,
+    "review_count": 297,
+    "score_rank": 30
+  },
+  {
+    "product_id": "508710",
+    "user_score": 85,
+    "update_count": 23,
+    "review_count": 29,
+    "score_rank": 51
+  },
+  {
+    "product_id": "508790",
+    "user_score": 100,
+    "update_count": 17,
+    "review_count": 235,
+    "score_rank": 71
+  },
+  {
+    "product_id": "509190",
+    "user_score": 52,
+    "update_count": 62,
+    "review_count": 63,
+    "score_rank": 10
+  },
+  {
+    "product_id": "509260",
+    "user_score": 38,
+    "update_count": 28,
+    "review_count": 29,
+    "score_rank": 5
+  },
+  {
+    "product_id": "509980",
+    "user_score": 70,
+    "update_count": 19,
+    "review_count": 1815,
+    "score_rank": 27
+  },
+  {
+    "product_id": "510930",
+    "user_score": 87,
+    "update_count": 7,
+    "review_count": 84,
+    "score_rank": 59
+  },
+  {
+    "product_id": "511090",
+    "user_score": 88,
+    "update_count": 7,
+    "review_count": 201,
+    "score_rank": 65
+  },
+  {
+    "product_id": "511430",
+    "user_score": 69,
+    "update_count": 43,
+    "review_count": 53,
+    "score_rank": 21
+  },
+  {
+    "product_id": "512170",
+    "user_score": 61,
+    "update_count": 3,
+    "review_count": 69,
+    "score_rank": 22
+  },
+  {
+    "product_id": "512220",
+    "user_score": 94,
+    "update_count": 27,
+    "review_count": 274,
+    "score_rank": 86
+  },
+  {
+    "product_id": "512420",
+    "user_score": 81,
+    "update_count": 16,
+    "review_count": 22,
+    "score_rank": 41
+  },
+  {
+    "product_id": "512560",
+    "user_score": 53,
+    "update_count": 65,
+    "review_count": 75,
+    "score_rank": 11
+  },
+  {
+    "product_id": "512900",
+    "user_score": 95,
+    "update_count": 44,
+    "review_count": 3883,
+    "score_rank": 89
+  },
+  {
+    "product_id": "513250",
+    "user_score": 100,
+    "update_count": 3,
+    "review_count": 30,
+    "score_rank": 100
+  },
+  {
+    "product_id": "513330",
+    "user_score": 52,
+    "update_count": 15,
+    "review_count": 127,
+    "score_rank": 17
+  },
+  {
+    "product_id": "513460",
+    "user_score": 41,
+    "update_count": 9,
+    "review_count": 44,
+    "score_rank": 5
+  },
+  {
+    "product_id": "513590",
+    "user_score": 33,
+    "update_count": 4,
+    "review_count": 93,
+    "score_rank": 2
+  },
+  {
+    "product_id": "513760",
+    "user_score": 100,
+    "update_count": 21,
+    "review_count": 23,
+    "score_rank": 100
+  },
+  {
+    "product_id": "513880",
+    "user_score": 67,
+    "update_count": 6,
+    "review_count": 54,
+    "score_rank": 28
+  },
+  {
+    "product_id": "514410",
+    "user_score": 40,
+    "update_count": 37,
+    "review_count": 82,
+    "score_rank": 7
+  },
+  {
+    "product_id": "516590",
+    "user_score": 81,
+    "update_count": 20,
+    "review_count": 87,
+    "score_rank": 47
+  },
+  {
+    "product_id": "516750",
+    "user_score": 90,
+    "update_count": 18,
+    "review_count": 8041,
+    "score_rank": 74
+  },
+  {
+    "product_id": "517020",
+    "user_score": 62,
+    "update_count": 41,
+    "review_count": 61,
+    "score_rank": 26
+  },
+  {
+    "product_id": "517170",
+    "user_score": 85,
+    "update_count": 8,
+    "review_count": 22,
+    "score_rank": 62
+  },
+  {
+    "product_id": "517670",
+    "user_score": 87,
+    "update_count": 17,
+    "review_count": 87,
+    "score_rank": 65
+  },
+  {
+    "product_id": "517720",
+    "user_score": 73,
+    "update_count": 11,
+    "review_count": 120,
+    "score_rank": 45
+  },
+  {
+    "product_id": "518030",
+    "user_score": 88,
+    "update_count": 11,
+    "review_count": 1640,
+    "score_rank": 68
+  },
+  {
+    "product_id": "518040",
+    "user_score": 86,
+    "update_count": 7,
+    "review_count": 44,
+    "score_rank": 62
+  },
+  {
+    "product_id": "518110",
+    "user_score": 61,
+    "update_count": 10,
+    "review_count": 25,
+    "score_rank": 26
+  },
+  {
+    "product_id": "519080",
+    "user_score": 91,
+    "update_count": 31,
+    "review_count": 188,
+    "score_rank": 82
+  },
+  {
+    "product_id": "519190",
+    "user_score": 68,
+    "update_count": 27,
+    "review_count": 5735,
+    "score_rank": 27
+  },
+  {
+    "product_id": "519860",
+    "user_score": 98,
+    "update_count": 12,
+    "review_count": 877,
+    "score_rank": 99
+  },
+  {
+    "product_id": "520010",
+    "user_score": 95,
+    "update_count": 80,
+    "review_count": 486,
+    "score_rank": 92
+  },
+  {
+    "product_id": "520530",
+    "user_score": 71,
+    "update_count": 7,
+    "review_count": 999,
+    "score_rank": 30
+  },
+  {
+    "product_id": "520860",
+    "user_score": 67,
+    "update_count": 13,
+    "review_count": 388,
+    "score_rank": 24
+  },
+  {
+    "product_id": "520960",
+    "user_score": 54,
+    "update_count": 2,
+    "review_count": 46,
+    "score_rank": 28
+  },
+  {
+    "product_id": "521150",
+    "user_score": 83,
+    "update_count": 22,
+    "review_count": 750,
+    "score_rank": 54
+  },
+  {
+    "product_id": "521330",
+    "user_score": 75,
+    "update_count": 90,
+    "review_count": 48,
+    "score_rank": 37
+  },
+  {
+    "product_id": "522130",
+    "user_score": 80,
+    "update_count": 6,
+    "review_count": 22,
+    "score_rank": 62
+  },
+  {
+    "product_id": "522730",
+    "user_score": 92,
+    "update_count": 3,
+    "review_count": 35,
+    "score_rank": 59
+  },
+  {
+    "product_id": "523080",
+    "user_score": 67,
+    "update_count": 2,
+    "review_count": 29,
+    "score_rank": 26
+  },
+  {
+    "product_id": "523960",
+    "user_score": 80,
+    "update_count": 16,
+    "review_count": 31,
+    "score_rank": 47
+  },
+  {
+    "product_id": "524250",
+    "user_score": 92,
+    "update_count": 16,
+    "review_count": 43,
+    "score_rank": 86
+  },
+  {
+    "product_id": "524380",
+    "user_score": 62,
+    "update_count": 23,
+    "review_count": 118,
+    "score_rank": 20
+  },
+  {
+    "product_id": "525210",
+    "user_score": 90,
+    "update_count": 12,
+    "review_count": 28,
+    "score_rank": 82
+  },
+  {
+    "product_id": "525350",
+    "user_score": 45,
+    "update_count": 11,
+    "review_count": 23,
+    "score_rank": 10
+  },
+  {
+    "product_id": "525610",
+    "user_score": 56,
+    "update_count": 8,
+    "review_count": 140,
+    "score_rank": 13
+  },
+  {
+    "product_id": "525640",
+    "user_score": 92,
+    "update_count": 79,
+    "review_count": 389,
+    "score_rank": 82
+  },
+  {
+    "product_id": "525680",
+    "user_score": 90,
+    "update_count": 24,
+    "review_count": 108,
+    "score_rank": 74
+  },
+  {
+    "product_id": "526130",
+    "user_score": 100,
+    "update_count": 9,
+    "review_count": 21,
+    "score_rank": 100
+  },
+  {
+    "product_id": "526160",
+    "user_score": 75,
+    "update_count": 59,
+    "review_count": 2843,
+    "score_rank": 37
+  },
+  {
+    "product_id": "526290",
+    "user_score": 65,
+    "update_count": 6,
+    "review_count": 47,
+    "score_rank": 32
+  },
+  {
+    "product_id": "527230",
+    "user_score": 85,
+    "update_count": 38,
+    "review_count": 2413,
+    "score_rank": 59
+  },
+  {
+    "product_id": "527430",
+    "user_score": 75,
+    "update_count": 21,
+    "review_count": 943,
+    "score_rank": 45
+  },
+  {
+    "product_id": "527790",
+    "user_score": 100,
+    "update_count": 5,
+    "review_count": 25,
+    "score_rank": 82
+  },
+  {
+    "product_id": "528460",
+    "user_score": 73,
+    "update_count": 60,
+    "review_count": 261,
+    "score_rank": 35
+  },
+  {
+    "product_id": "528550",
+    "user_score": 82,
+    "update_count": 26,
+    "review_count": 227,
+    "score_rank": 54
+  },
+  {
+    "product_id": "529020",
+    "user_score": 89,
+    "update_count": 42,
+    "review_count": 30,
+    "score_rank": 74
+  },
+  {
+    "product_id": "529180",
+    "user_score": 54,
+    "update_count": 109,
+    "review_count": 6689,
+    "score_rank": 11
+  },
+  {
+    "product_id": "529240",
+    "user_score": 51,
+    "update_count": 19,
+    "review_count": 236,
+    "score_rank": 8
+  },
+  {
+    "product_id": "530560",
+    "user_score": 50,
+    "update_count": 27,
+    "review_count": 465,
+    "score_rank": 10
+  },
+  {
+    "product_id": "531530",
+    "user_score": 87,
+    "update_count": 34,
+    "review_count": 97,
+    "score_rank": 74
+  },
+  {
+    "product_id": "531640",
+    "user_score": 80,
+    "update_count": 32,
+    "review_count": 2791,
+    "score_rank": 47
+  },
+  {
+    "product_id": "531660",
+    "user_score": 81,
+    "update_count": 16,
+    "review_count": 146,
+    "score_rank": 43
+  },
+  {
+    "product_id": "532800",
+    "user_score": 65,
+    "update_count": 30,
+    "review_count": 63,
+    "score_rank": 22
+  },
+  {
+    "product_id": "533120",
+    "user_score": 78,
+    "update_count": 14,
+    "review_count": 1177,
+    "score_rank": 45
+  },
+  {
+    "product_id": "534000",
+    "user_score": 85,
+    "update_count": 7,
+    "review_count": 89,
+    "score_rank": 62
+  },
+  {
+    "product_id": "534780",
+    "user_score": 87,
+    "update_count": 20,
+    "review_count": 122,
+    "score_rank": 82
+  },
+  {
+    "product_id": "535160",
+    "user_score": 80,
+    "update_count": 5,
+    "review_count": 39,
+    "score_rank": 92
+  },
+  {
+    "product_id": "535630",
+    "user_score": 72,
+    "update_count": 17,
+    "review_count": 33,
+    "score_rank": 49
+  },
+  {
+    "product_id": "536660",
+    "user_score": 48,
+    "update_count": 8,
+    "review_count": 67,
+    "score_rank": 13
+  },
+  {
+    "product_id": "537000",
+    "user_score": 70,
+    "update_count": 17,
+    "review_count": 30,
+    "score_rank": 39
+  },
+  {
+    "product_id": "537340",
+    "user_score": 83,
+    "update_count": 26,
+    "review_count": 832,
+    "score_rank": 51
+  },
+  {
+    "product_id": "538100",
+    "user_score": 88,
+    "update_count": 31,
+    "review_count": 1223,
+    "score_rank": 68
+  },
+  {
+    "product_id": "538990",
+    "user_score": 66,
+    "update_count": 44,
+    "review_count": 40,
+    "score_rank": 24
+  },
+  {
+    "product_id": "539050",
+    "user_score": 75,
+    "update_count": 10,
+    "review_count": 48,
+    "score_rank": 41
+  },
+  {
+    "product_id": "539400",
+    "user_score": 90,
+    "update_count": 70,
+    "review_count": 56,
+    "score_rank": 82
+  },
+  {
+    "product_id": "541200",
+    "user_score": 81,
+    "update_count": 13,
+    "review_count": 34,
+    "score_rank": 59
+  },
+  {
+    "product_id": "541300",
+    "user_score": 50,
+    "update_count": 10,
+    "review_count": 1064,
+    "score_rank": 9
+  },
+  {
+    "product_id": "542700",
+    "user_score": 49,
+    "update_count": 7,
+    "review_count": 93,
+    "score_rank": 10
+  },
+  {
+    "product_id": "542770",
+    "user_score": 97,
+    "update_count": 10,
+    "review_count": 184,
+    "score_rank": 97
+  },
+  {
+    "product_id": "543650",
+    "user_score": 51,
+    "update_count": 12,
+    "review_count": 35,
+    "score_rank": 9
+  },
+  {
+    "product_id": "544550",
+    "user_score": 85,
+    "update_count": 22,
+    "review_count": 873,
+    "score_rank": 62
+  },
+  {
+    "product_id": "545050",
+    "user_score": 65,
+    "update_count": 28,
+    "review_count": 205,
+    "score_rank": 21
+  },
+  {
+    "product_id": "545600",
+    "user_score": 92,
+    "update_count": 29,
+    "review_count": 31,
+    "score_rank": 86
+  },
+  {
+    "product_id": "546150",
+    "user_score": 78,
+    "update_count": 4,
+    "review_count": 58,
+    "score_rank": 49
+  },
+  {
+    "product_id": "546210",
+    "user_score": 67,
+    "update_count": 13,
+    "review_count": 33,
+    "score_rank": 23
+  },
+  {
+    "product_id": "546980",
+    "user_score": 22,
+    "update_count": 4,
+    "review_count": 146,
+    "score_rank": 1
+  },
+  {
+    "product_id": "547680",
+    "user_score": 72,
+    "update_count": 40,
+    "review_count": 1294,
+    "score_rank": 32
+  },
+  {
+    "product_id": "548560",
+    "user_score": 78,
+    "update_count": 5,
+    "review_count": 60,
+    "score_rank": 43
+  },
+  {
+    "product_id": "548650",
+    "user_score": 78,
+    "update_count": 27,
+    "review_count": 31,
+    "score_rank": 47
+  },
+  {
+    "product_id": "550650",
+    "user_score": 73,
+    "update_count": 165,
+    "review_count": 20047,
+    "score_rank": 33
+  },
+  {
+    "product_id": "550840",
+    "user_score": 88,
+    "update_count": 47,
+    "review_count": 889,
+    "score_rank": 68
+  },
+  {
+    "product_id": "551170",
+    "user_score": 69,
+    "update_count": 5,
+    "review_count": 110,
+    "score_rank": 28
+  },
+  {
+    "product_id": "551700",
+    "user_score": 81,
+    "update_count": 35,
+    "review_count": 154,
+    "score_rank": 54
+  },
+  {
+    "product_id": "551860",
+    "user_score": 73,
+    "update_count": 12,
+    "review_count": 43,
+    "score_rank": 39
+  },
+  {
+    "product_id": "552080",
+    "user_score": 98,
+    "update_count": 28,
+    "review_count": 297,
+    "score_rank": 99
+  },
+  {
+    "product_id": "552100",
+    "user_score": 81,
+    "update_count": 37,
+    "review_count": 1836,
+    "score_rank": 51
+  },
+  {
+    "product_id": "552110",
+    "user_score": 78,
+    "update_count": 8,
+    "review_count": 315,
+    "score_rank": 43
+  },
+  {
+    "product_id": "552620",
+    "user_score": 80,
+    "update_count": 15,
+    "review_count": 240,
+    "score_rank": 51
+  },
+  {
+    "product_id": "552880",
+    "user_score": 86,
+    "update_count": 34,
+    "review_count": 57,
+    "score_rank": 71
+  },
+  {
+    "product_id": "552920",
+    "user_score": 83,
+    "update_count": 84,
+    "review_count": 250,
+    "score_rank": 54
+  },
+  {
+    "product_id": "553660",
+    "user_score": 77,
+    "update_count": 21,
+    "review_count": 241,
+    "score_rank": 47
+  },
+  {
+    "product_id": "554570",
+    "user_score": 71,
+    "update_count": 11,
+    "review_count": 49,
+    "score_rank": 33
+  },
+  {
+    "product_id": "555160",
+    "user_score": 87,
+    "update_count": 22,
+    "review_count": 1171,
+    "score_rank": 68
+  },
+  {
+    "product_id": "555400",
+    "user_score": 82,
+    "update_count": 27,
+    "review_count": 124,
+    "score_rank": 54
+  },
+  {
+    "product_id": "555970",
+    "user_score": 95,
+    "update_count": 10,
+    "review_count": 26,
+    "score_rank": 82
+  },
+  {
+    "product_id": "556070",
+    "user_score": 54,
+    "update_count": 2,
+    "review_count": 36,
+    "score_rank": 10
+  },
+  {
+    "product_id": "556640",
+    "user_score": 77,
+    "update_count": 28,
+    "review_count": 93,
+    "score_rank": 45
+  },
+  {
+    "product_id": "557580",
+    "user_score": 77,
+    "update_count": 37,
+    "review_count": 65,
+    "score_rank": 43
+  },
+  {
+    "product_id": "558100",
+    "user_score": 82,
+    "update_count": 59,
+    "review_count": 5406,
+    "score_rank": 51
+  },
+  {
+    "product_id": "559650",
+    "user_score": 90,
+    "update_count": 39,
+    "review_count": 1294,
+    "score_rank": 78
+  },
+  {
+    "product_id": "562230",
+    "user_score": 91,
+    "update_count": 27,
+    "review_count": 108,
+    "score_rank": 82
+  },
+  {
+    "product_id": "562270",
+    "user_score": 50,
+    "update_count": 2,
+    "review_count": 411,
+    "score_rank": 4
+  },
+  {
+    "product_id": "562430",
+    "user_score": 50,
+    "update_count": 8,
+    "review_count": 75,
+    "score_rank": 23
+  },
+  {
+    "product_id": "562500",
+    "user_score": 94,
+    "update_count": 88,
+    "review_count": 706,
+    "score_rank": 89
+  },
+  {
+    "product_id": "563360",
+    "user_score": 68,
+    "update_count": 35,
+    "review_count": 67,
+    "score_rank": 30
+  },
+  {
+    "product_id": "563490",
+    "user_score": 50,
+    "update_count": 4,
+    "review_count": 32,
+    "score_rank": 30
+  },
+  {
+    "product_id": "564050",
+    "user_score": 96,
+    "update_count": 4,
+    "review_count": 319,
+    "score_rank": 97
+  },
+  {
+    "product_id": "565030",
+    "user_score": 84,
+    "update_count": 4,
+    "review_count": 138,
+    "score_rank": 56
+  },
+  {
+    "product_id": "566240",
+    "user_score": 43,
+    "update_count": 20,
+    "review_count": 90,
+    "score_rank": 13
+  },
+  {
+    "product_id": "566430",
+    "user_score": 72,
+    "update_count": 14,
+    "review_count": 23,
+    "score_rank": 43
+  },
+  {
+    "product_id": "566860",
+    "user_score": 91,
+    "update_count": 16,
+    "review_count": 325,
+    "score_rank": 78
+  },
+  {
+    "product_id": "567270",
+    "user_score": 73,
+    "update_count": 9,
+    "review_count": 68,
+    "score_rank": 35
+  },
+  {
+    "product_id": "567320",
+    "user_score": 49,
+    "update_count": 15,
+    "review_count": 74,
+    "score_rank": 16
+  },
+  {
+    "product_id": "568220",
+    "user_score": 88,
+    "update_count": 117,
+    "review_count": 1584,
+    "score_rank": 68
+  },
+  {
+    "product_id": "568400",
+    "user_score": 75,
+    "update_count": 4,
+    "review_count": 31,
+    "score_rank": 65
+  },
+  {
+    "product_id": "568580",
+    "user_score": 53,
+    "update_count": 6,
+    "review_count": 185,
+    "score_rank": 16
+  },
+  {
+    "product_id": "569720",
+    "user_score": 96,
+    "update_count": 16,
+    "review_count": 54,
+    "score_rank": 95
+  },
+  {
+    "product_id": "569770",
+    "user_score": 78,
+    "update_count": 18,
+    "review_count": 163,
+    "score_rank": 45
+  },
+  {
+    "product_id": "570460",
+    "user_score": 92,
+    "update_count": 40,
+    "review_count": 438,
+    "score_rank": 82
+  },
+  {
+    "product_id": "570500",
+    "user_score": 64,
+    "update_count": 2,
+    "review_count": 52,
+    "score_rank": 39
+  },
+  {
+    "product_id": "570980",
+    "user_score": 92,
+    "update_count": 21,
+    "review_count": 370,
+    "score_rank": 86
+  },
+  {
+    "product_id": "571740",
+    "user_score": 78,
+    "update_count": 39,
+    "review_count": 1906,
+    "score_rank": 45
+  },
+  {
+    "product_id": "572010",
+    "user_score": 50,
+    "update_count": 5,
+    "review_count": 47,
+    "score_rank": 12
+  },
+  {
+    "product_id": "572220",
+    "user_score": 89,
+    "update_count": 11,
+    "review_count": 21,
+    "score_rank": 74
+  },
+  {
+    "product_id": "572230",
+    "user_score": 30,
+    "update_count": 3,
+    "review_count": 21,
+    "score_rank": 7
+  },
+  {
+    "product_id": "572520",
+    "user_score": 72,
+    "update_count": 61,
+    "review_count": 700,
+    "score_rank": 32
+  },
+  {
+    "product_id": "573490",
+    "user_score": 87,
+    "update_count": 26,
+    "review_count": 142,
+    "score_rank": 68
+  },
+  {
+    "product_id": "574070",
+    "user_score": 62,
+    "update_count": 21,
+    "review_count": 137,
+    "score_rank": 18
+  },
+  {
+    "product_id": "574080",
+    "user_score": 55,
+    "update_count": 30,
+    "review_count": 626,
+    "score_rank": 13
+  },
+  {
+    "product_id": "574760",
+    "user_score": 54,
+    "update_count": 11,
+    "review_count": 624,
+    "score_rank": 11
+  },
+  {
+    "product_id": "574980",
+    "user_score": 93,
+    "update_count": 2,
+    "review_count": 99,
+    "score_rank": 82
+  },
+  {
+    "product_id": "575430",
+    "user_score": 73,
+    "update_count": 10,
+    "review_count": 21,
+    "score_rank": 39
+  },
+  {
+    "product_id": "575850",
+    "user_score": 57,
+    "update_count": 8,
+    "review_count": 23,
+    "score_rank": 16
+  },
+  {
+    "product_id": "575970",
+    "user_score": 85,
+    "update_count": 8,
+    "review_count": 25,
+    "score_rank": 68
+  },
+  {
+    "product_id": "576470",
+    "user_score": 85,
+    "update_count": 2,
+    "review_count": 449,
+    "score_rank": 41
+  },
+  {
+    "product_id": "576650",
+    "user_score": 90,
+    "update_count": 4,
+    "review_count": 42,
+    "score_rank": 74
+  },
+  {
+    "product_id": "576770",
+    "user_score": 93,
+    "update_count": 60,
+    "review_count": 722,
+    "score_rank": 86
+  },
+  {
+    "product_id": "576940",
+    "user_score": 67,
+    "update_count": 44,
+    "review_count": 67,
+    "score_rank": 24
+  },
+  {
+    "product_id": "576950",
+    "user_score": 75,
+    "update_count": 15,
+    "review_count": 25,
+    "score_rank": 39
+  },
+  {
+    "product_id": "577230",
+    "user_score": 79,
+    "update_count": 67,
+    "review_count": 841,
+    "score_rank": 43
+  },
+  {
+    "product_id": "577970",
+    "user_score": 100,
+    "update_count": 24,
+    "review_count": 34,
+    "score_rank": 100
+  },
+  {
+    "product_id": "578210",
+    "user_score": 96,
+    "update_count": 56,
+    "review_count": 121,
+    "score_rank": 92
+  },
+  {
+    "product_id": "578620",
+    "user_score": 96,
+    "update_count": 3,
+    "review_count": 1597,
+    "score_rank": 97
+  },
+  {
+    "product_id": "579840",
+    "user_score": 63,
+    "update_count": 6,
+    "review_count": 59,
+    "score_rank": 24
+  },
+  {
+    "product_id": "580820",
+    "user_score": 76,
+    "update_count": 10,
+    "review_count": 31,
+    "score_rank": 41
+  },
+  {
+    "product_id": "581220",
+    "user_score": 48,
+    "update_count": 2,
+    "review_count": 78,
+    "score_rank": 9
+  },
+  {
+    "product_id": "581630",
+    "user_score": 91,
+    "update_count": 13,
+    "review_count": 3426,
+    "score_rank": 78
+  },
+  {
+    "product_id": "582330",
+    "user_score": 88,
+    "update_count": 9,
+    "review_count": 116,
+    "score_rank": 65
+  },
+  {
+    "product_id": "582890",
+    "user_score": 75,
+    "update_count": 35,
+    "review_count": 297,
+    "score_rank": 37
+  },
+  {
+    "product_id": "584890",
+    "user_score": 78,
+    "update_count": 52,
+    "review_count": 163,
+    "score_rank": 54
+  },
+  {
+    "product_id": "585190",
+    "user_score": 88,
+    "update_count": 7,
+    "review_count": 30,
+    "score_rank": 62
+  },
+  {
+    "product_id": "585420",
+    "user_score": 82,
+    "update_count": 24,
+    "review_count": 162,
+    "score_rank": 54
+  },
+  {
+    "product_id": "585710",
+    "user_score": 88,
+    "update_count": 13,
+    "review_count": 40,
+    "score_rank": 82
+  },
+  {
+    "product_id": "586030",
+    "user_score": 76,
+    "update_count": 43,
+    "review_count": 912,
+    "score_rank": 39
+  },
+  {
+    "product_id": "586950",
+    "user_score": 89,
+    "update_count": 13,
+    "review_count": 88,
+    "score_rank": 74
+  },
+  {
+    "product_id": "587450",
+    "user_score": 73,
+    "update_count": 17,
+    "review_count": 644,
+    "score_rank": 37
+  },
+  {
+    "product_id": "587920",
+    "user_score": 74,
+    "update_count": 24,
+    "review_count": 32,
+    "score_rank": 37
+  },
+  {
+    "product_id": "588120",
+    "user_score": 67,
+    "update_count": 60,
+    "review_count": 64,
+    "score_rank": 26
+  },
+  {
+    "product_id": "588210",
+    "user_score": 66,
+    "update_count": 76,
+    "review_count": 1724,
+    "score_rank": 24
+  },
+  {
+    "product_id": "588560",
+    "user_score": 77,
+    "update_count": 41,
+    "review_count": 37,
+    "score_rank": 54
+  },
+  {
+    "product_id": "588630",
+    "user_score": 80,
+    "update_count": 19,
+    "review_count": 26,
+    "score_rank": 39
+  },
+  {
+    "product_id": "588650",
+    "user_score": 95,
+    "update_count": 36,
+    "review_count": 11566,
+    "score_rank": 92
+  },
+  {
+    "product_id": "589250",
+    "user_score": 87,
+    "update_count": 29,
+    "review_count": 28,
+    "score_rank": 71
+  },
+  {
+    "product_id": "589290",
+    "user_score": 88,
+    "update_count": 45,
+    "review_count": 2817,
+    "score_rank": 68
+  },
+  {
+    "product_id": "591370",
+    "user_score": 80,
+    "update_count": 27,
+    "review_count": 449,
+    "score_rank": 59
+  },
+  {
+    "product_id": "591680",
+    "user_score": 94,
+    "update_count": 10,
+    "review_count": 38,
+    "score_rank": 89
+  },
+  {
+    "product_id": "591790",
+    "user_score": 70,
+    "update_count": 15,
+    "review_count": 96,
+    "score_rank": 26
+  },
+  {
+    "product_id": "591930",
+    "user_score": 80,
+    "update_count": 5,
+    "review_count": 53,
+    "score_rank": 56
+  },
+  {
+    "product_id": "592260",
+    "user_score": 83,
+    "update_count": 12,
+    "review_count": 281,
+    "score_rank": 54
+  },
+  {
+    "product_id": "592490",
+    "user_score": 84,
+    "update_count": 34,
+    "review_count": 41,
+    "score_rank": 59
+  },
+  {
+    "product_id": "594650",
+    "user_score": 67,
+    "update_count": 39,
+    "review_count": 338,
+    "score_rank": 26
+  },
+  {
+    "product_id": "595430",
+    "user_score": 96,
+    "update_count": 23,
+    "review_count": 154,
+    "score_rank": 95
+  },
+  {
+    "product_id": "595770",
+    "user_score": 86,
+    "update_count": 8,
+    "review_count": 62,
+    "score_rank": 68
+  },
+  {
+    "product_id": "596280",
+    "user_score": 25,
+    "update_count": 6,
+    "review_count": 24,
+    "score_rank": 2
+  },
+  {
+    "product_id": "596970",
+    "user_score": 80,
+    "update_count": 37,
+    "review_count": 81,
+    "score_rank": 62
+  },
+  {
+    "product_id": "597170",
+    "user_score": 96,
+    "update_count": 21,
+    "review_count": 1067,
+    "score_rank": 97
+  },
+  {
+    "product_id": "597770",
+    "user_score": 75,
+    "update_count": 13,
+    "review_count": 61,
+    "score_rank": 59
+  },
+  {
+    "product_id": "597920",
+    "user_score": 33,
+    "update_count": 9,
+    "review_count": 28,
+    "score_rank": 3
+  },
+  {
+    "product_id": "598060",
+    "user_score": 92,
+    "update_count": 14,
+    "review_count": 74,
+    "score_rank": 82
+  },
+  {
+    "product_id": "598170",
+    "user_score": 65,
+    "update_count": 14,
+    "review_count": 23,
+    "score_rank": 22
+  },
+  {
+    "product_id": "598180",
+    "user_score": 70,
+    "update_count": 22,
+    "review_count": 29,
+    "score_rank": 26
+  },
+  {
+    "product_id": "598330",
+    "user_score": 76,
+    "update_count": 33,
+    "review_count": 1295,
+    "score_rank": 39
+  },
+  {
+    "product_id": "598690",
+    "user_score": 74,
+    "update_count": 12,
+    "review_count": 106,
+    "score_rank": 35
+  },
+  {
+    "product_id": "598700",
+    "user_score": 89,
+    "update_count": 8,
+    "review_count": 574,
+    "score_rank": 74
+  },
+  {
+    "product_id": "598720",
+    "user_score": 61,
+    "update_count": 13,
+    "review_count": 20,
+    "score_rank": 16
+  },
+  {
+    "product_id": "598960",
+    "user_score": 86,
+    "update_count": 17,
+    "review_count": 842,
+    "score_rank": 65
+  },
+  {
+    "product_id": "599040",
+    "user_score": 76,
+    "update_count": 9,
+    "review_count": 28,
+    "score_rank": 51
+  },
+  {
+    "product_id": "600120",
+    "user_score": 73,
+    "update_count": 44,
+    "review_count": 280,
+    "score_rank": 33
+  },
+  {
+    "product_id": "600460",
+    "user_score": 85,
+    "update_count": 7,
+    "review_count": 86,
+    "score_rank": 56
+  },
+  {
+    "product_id": "601380",
+    "user_score": 31,
+    "update_count": 10,
+    "review_count": 80,
+    "score_rank": 4
+  },
+  {
+    "product_id": "601540",
+    "user_score": 72,
+    "update_count": 69,
+    "review_count": 270,
+    "score_rank": 32
+  },
+  {
+    "product_id": "602480",
+    "user_score": 92,
+    "update_count": 8,
+    "review_count": 31,
+    "score_rank": 86
+  },
+  {
+    "product_id": "603040",
+    "user_score": 67,
+    "update_count": 6,
+    "review_count": 46,
+    "score_rank": 24
+  },
+  {
+    "product_id": "604240",
+    "user_score": 86,
+    "update_count": 10,
+    "review_count": 352,
+    "score_rank": 68
+  },
+  {
+    "product_id": "604490",
+    "user_score": 67,
+    "update_count": 4,
+    "review_count": 983,
+    "score_rank": 24
+  },
+  {
+    "product_id": "605230",
+    "user_score": 83,
+    "update_count": 21,
+    "review_count": 39,
+    "score_rank": 56
+  },
+  {
+    "product_id": "605450",
+    "user_score": 96,
+    "update_count": 11,
+    "review_count": 165,
+    "score_rank": 97
+  },
+  {
+    "product_id": "606800",
+    "user_score": 76,
+    "update_count": 28,
+    "review_count": 1194,
+    "score_rank": 41
+  },
+  {
+    "product_id": "606920",
+    "user_score": 95,
+    "update_count": 18,
+    "review_count": 22,
+    "score_rank": 92
+  },
+  {
+    "product_id": "607200",
+    "user_score": 69,
+    "update_count": 147,
+    "review_count": 1272,
+    "score_rank": 27
+  },
+  {
+    "product_id": "608110",
+    "user_score": 97,
+    "update_count": 7,
+    "review_count": 198,
+    "score_rank": 97
+  },
+  {
+    "product_id": "608990",
+    "user_score": 57,
+    "update_count": 40,
+    "review_count": 239,
+    "score_rank": 13
+  },
+  {
+    "product_id": "609170",
+    "user_score": 70,
+    "update_count": 8,
+    "review_count": 35,
+    "score_rank": 26
+  },
+  {
+    "product_id": "609410",
+    "user_score": 96,
+    "update_count": 10,
+    "review_count": 47,
+    "score_rank": 92
+  },
+  {
+    "product_id": "611060",
+    "user_score": 80,
+    "update_count": 12,
+    "review_count": 33,
+    "score_rank": 56
+  },
+  {
+    "product_id": "611160",
+    "user_score": 90,
+    "update_count": 44,
+    "review_count": 138,
+    "score_rank": 82
+  },
+  {
+    "product_id": "611500",
+    "user_score": 70,
+    "update_count": 18,
+    "review_count": 3927,
+    "score_rank": 16
+  },
+  {
+    "product_id": "611770",
+    "user_score": 80,
+    "update_count": 2,
+    "review_count": 29,
+    "score_rank": 62
+  },
+  {
+    "product_id": "611790",
+    "user_score": 81,
+    "update_count": 14,
+    "review_count": 1399,
+    "score_rank": 51
+  },
+  {
+    "product_id": "611800",
+    "user_score": 63,
+    "update_count": 15,
+    "review_count": 251,
+    "score_rank": 21
+  },
+  {
+    "product_id": "612470",
+    "user_score": 93,
+    "update_count": 11,
+    "review_count": 438,
+    "score_rank": 89
+  },
+  {
+    "product_id": "612720",
+    "user_score": 76,
+    "update_count": 34,
+    "review_count": 218,
+    "score_rank": 41
+  },
+  {
+    "product_id": "612930",
+    "user_score": 85,
+    "update_count": 13,
+    "review_count": 614,
+    "score_rank": 59
+  },
+  {
+    "product_id": "614630",
+    "user_score": 84,
+    "update_count": 12,
+    "review_count": 159,
+    "score_rank": 59
+  },
+  {
+    "product_id": "614860",
+    "user_score": 73,
+    "update_count": 26,
+    "review_count": 141,
+    "score_rank": 35
+  },
+  {
+    "product_id": "615020",
+    "user_score": 94,
+    "update_count": 26,
+    "review_count": 23,
+    "score_rank": 92
+  },
+  {
+    "product_id": "615910",
+    "user_score": 83,
+    "update_count": 7,
+    "review_count": 57,
+    "score_rank": 71
+  },
+  {
+    "product_id": "616250",
+    "user_score": 97,
+    "update_count": 5,
+    "review_count": 192,
+    "score_rank": 97
+  },
+  {
+    "product_id": "616330",
+    "user_score": 78,
+    "update_count": 6,
+    "review_count": 30,
+    "score_rank": 54
+  },
+  {
+    "product_id": "616720",
+    "user_score": 91,
+    "update_count": 44,
+    "review_count": 357,
+    "score_rank": 78
+  },
+  {
+    "product_id": "617030",
+    "user_score": 62,
+    "update_count": 58,
+    "review_count": 131,
+    "score_rank": 22
+  },
+  {
+    "product_id": "617480",
+    "user_score": 96,
+    "update_count": 30,
+    "review_count": 139,
+    "score_rank": 97
+  },
+  {
+    "product_id": "619080",
+    "user_score": 74,
+    "update_count": 14,
+    "review_count": 713,
+    "score_rank": 37
+  },
+  {
+    "product_id": "619340",
+    "user_score": 65,
+    "update_count": 15,
+    "review_count": 34,
+    "score_rank": 28
+  },
+  {
+    "product_id": "621070",
+    "user_score": 78,
+    "update_count": 35,
+    "review_count": 220,
+    "score_rank": 47
+  },
+  {
+    "product_id": "621880",
+    "user_score": 48,
+    "update_count": 14,
+    "review_count": 148,
+    "score_rank": 8
+  },
+  {
+    "product_id": "622040",
+    "user_score": 65,
+    "update_count": 6,
+    "review_count": 208,
+    "score_rank": 37
+  },
+  {
+    "product_id": "622470",
+    "user_score": 52,
+    "update_count": 12,
+    "review_count": 89,
+    "score_rank": 10
+  },
+  {
+    "product_id": "622870",
+    "user_score": 95,
+    "update_count": 9,
+    "review_count": 65,
+    "score_rank": 92
+  },
+  {
+    "product_id": "623380",
+    "user_score": 88,
+    "update_count": 14,
+    "review_count": 22,
+    "score_rank": 74
+  },
+  {
+    "product_id": "623540",
+    "user_score": 100,
+    "update_count": 16,
+    "review_count": 22,
+    "score_rank": 100
+  },
+  {
+    "product_id": "623880",
+    "user_score": 70,
+    "update_count": 3,
+    "review_count": 499,
+    "score_rank": 28
+  },
+  {
+    "product_id": "624830",
+    "user_score": 91,
+    "update_count": 10,
+    "review_count": 24,
+    "score_rank": 78
+  },
+  {
+    "product_id": "624890",
+    "user_score": 83,
+    "update_count": 11,
+    "review_count": 44,
+    "score_rank": 68
+  },
+  {
+    "product_id": "626250",
+    "user_score": 0,
+    "update_count": 8,
+    "review_count": 22,
+    "score_rank": ""
+  },
+  {
+    "product_id": "626550",
+    "user_score": 76,
+    "update_count": 20,
+    "review_count": 53,
+    "score_rank": 30
+  },
+  {
+    "product_id": "627070",
+    "user_score": 92,
+    "update_count": 13,
+    "review_count": 39,
+    "score_rank": 82
+  },
+  {
+    "product_id": "627690",
+    "user_score": 81,
+    "update_count": 18,
+    "review_count": 1507,
+    "score_rank": 49
+  },
+  {
+    "product_id": "628190",
+    "user_score": 58,
+    "update_count": 12,
+    "review_count": 60,
+    "score_rank": 14
+  },
+  {
+    "product_id": "628710",
+    "user_score": 77,
+    "update_count": 29,
+    "review_count": 62,
+    "score_rank": 47
+  },
+  {
+    "product_id": "629220",
+    "user_score": 84,
+    "update_count": 11,
+    "review_count": 101,
+    "score_rank": 62
+  },
+  {
+    "product_id": "630030",
+    "user_score": 84,
+    "update_count": 22,
+    "review_count": 80,
+    "score_rank": 65
+  },
+  {
+    "product_id": "630900",
+    "user_score": 89,
+    "update_count": 16,
+    "review_count": 48,
+    "score_rank": 71
+  },
+  {
+    "product_id": "632300",
+    "user_score": 68,
+    "update_count": 10,
+    "review_count": 450,
+    "score_rank": 27
+  },
+  {
+    "product_id": "635000",
+    "user_score": 0,
+    "update_count": 6,
+    "review_count": 40,
+    "score_rank": ""
+  },
+  {
+    "product_id": "636480",
+    "user_score": 93,
+    "update_count": 10,
+    "review_count": 5191,
+    "score_rank": 86
+  },
+  {
+    "product_id": "636690",
+    "user_score": 76,
+    "update_count": 12,
+    "review_count": 109,
+    "score_rank": 41
+  },
+  {
+    "product_id": "636970",
+    "user_score": 90,
+    "update_count": 63,
+    "review_count": 92,
+    "score_rank": 78
+  },
+  {
+    "product_id": "638000",
+    "user_score": 92,
+    "update_count": 12,
+    "review_count": 119,
+    "score_rank": 89
+  },
+  {
+    "product_id": "638850",
+    "user_score": 75,
+    "update_count": 40,
+    "review_count": 251,
+    "score_rank": 35
+  },
+  {
+    "product_id": "639220",
+    "user_score": 88,
+    "update_count": 6,
+    "review_count": 29,
+    "score_rank": 71
+  },
+  {
+    "product_id": "639230",
+    "user_score": 77,
+    "update_count": 9,
+    "review_count": 40,
+    "score_rank": 41
+  },
+  {
+    "product_id": "640150",
+    "user_score": 74,
+    "update_count": 24,
+    "review_count": 105,
+    "score_rank": 35
+  },
+  {
+    "product_id": "640210",
+    "user_score": 82,
+    "update_count": 31,
+    "review_count": 53,
+    "score_rank": 68
+  },
+  {
+    "product_id": "640300",
+    "user_score": 83,
+    "update_count": 22,
+    "review_count": 27,
+    "score_rank": 68
+  },
+  {
+    "product_id": "640310",
+    "user_score": 27,
+    "update_count": 4,
+    "review_count": 81,
+    "score_rank": 2
+  },
+  {
+    "product_id": "640800",
+    "user_score": 84,
+    "update_count": 17,
+    "review_count": 44,
+    "score_rank": 68
+  },
+  {
+    "product_id": "641960",
+    "user_score": 96,
+    "update_count": 21,
+    "review_count": 168,
+    "score_rank": 95
+  },
+  {
+    "product_id": "642390",
+    "user_score": 54,
+    "update_count": 5,
+    "review_count": 239,
+    "score_rank": 11
+  },
+  {
+    "product_id": "642770",
+    "user_score": 97,
+    "update_count": 8,
+    "review_count": 51,
+    "score_rank": 99
+  },
+  {
+    "product_id": "643810",
+    "user_score": 86,
+    "update_count": 19,
+    "review_count": 135,
+    "score_rank": 68
+  },
+  {
+    "product_id": "644420",
+    "user_score": 77,
+    "update_count": 7,
+    "review_count": 23,
+    "score_rank": 43
+  },
+  {
+    "product_id": "644560",
+    "user_score": 96,
+    "update_count": 6,
+    "review_count": 5652,
+    "score_rank": 95
+  },
+  {
+    "product_id": "644670",
+    "user_score": 77,
+    "update_count": 8,
+    "review_count": 81,
+    "score_rank": 41
+  },
+  {
+    "product_id": "644930",
+    "user_score": 87,
+    "update_count": 14,
+    "review_count": 7636,
+    "score_rank": 65
+  },
+  {
+    "product_id": "646570",
+    "user_score": 95,
+    "update_count": 20,
+    "review_count": 6233,
+    "score_rank": 95
+  },
+  {
+    "product_id": "647410",
+    "user_score": 78,
+    "update_count": 3,
+    "review_count": 65,
+    "score_rank": 39
+  },
+  {
+    "product_id": "647530",
+    "user_score": 60,
+    "update_count": 17,
+    "review_count": 79,
+    "score_rank": 20
+  },
+  {
+    "product_id": "649900",
+    "user_score": 56,
+    "update_count": 6,
+    "review_count": 267,
+    "score_rank": 13
+  },
+  {
+    "product_id": "650350",
+    "user_score": 61,
+    "update_count": 25,
+    "review_count": 107,
+    "score_rank": 18
+  },
+  {
+    "product_id": "650940",
+    "user_score": 82,
+    "update_count": 18,
+    "review_count": 36,
+    "score_rank": 62
+  },
+  {
+    "product_id": "651280",
+    "user_score": 93,
+    "update_count": 16,
+    "review_count": 60,
+    "score_rank": 86
+  },
+  {
+    "product_id": "654690",
+    "user_score": 85,
+    "update_count": 15,
+    "review_count": 140,
+    "score_rank": 59
+  },
+  {
+    "product_id": "655780",
+    "user_score": 85,
+    "update_count": 2,
+    "review_count": 108,
+    "score_rank": 59
+  },
+  {
+    "product_id": "656200",
+    "user_score": 53,
+    "update_count": 29,
+    "review_count": 963,
+    "score_rank": 12
+  },
+  {
+    "product_id": "656530",
+    "user_score": 20,
+    "update_count": 18,
+    "review_count": 141,
+    "score_rank": 1
+  },
+  {
+    "product_id": "657240",
+    "user_score": 92,
+    "update_count": 15,
+    "review_count": 220,
+    "score_rank": 86
+  },
+  {
+    "product_id": "657280",
+    "user_score": 100,
+    "update_count": 13,
+    "review_count": 30,
+    "score_rank": 100
+  },
+  {
+    "product_id": "657990",
+    "user_score": 59,
+    "update_count": 11,
+    "review_count": 76,
+    "score_rank": 21
+  },
+  {
+    "product_id": "658630",
+    "user_score": 76,
+    "update_count": 11,
+    "review_count": 184,
+    "score_rank": 41
+  },
+  {
+    "product_id": "658980",
+    "user_score": 65,
+    "update_count": 39,
+    "review_count": 505,
+    "score_rank": 23
+  },
+  {
+    "product_id": "659540",
+    "user_score": 97,
+    "update_count": 20,
+    "review_count": 47,
+    "score_rank": 97
+  },
+  {
+    "product_id": "659920",
+    "user_score": 63,
+    "update_count": 5,
+    "review_count": 42,
+    "score_rank": 26
+  },
+  {
+    "product_id": "661920",
+    "user_score": 64,
+    "update_count": 5,
+    "review_count": 105,
+    "score_rank": 35
+  },
+  {
+    "product_id": "663300",
+    "user_score": 81,
+    "update_count": 11,
+    "review_count": 250,
+    "score_rank": 56
+  },
+  {
+    "product_id": "663350",
+    "user_score": 95,
+    "update_count": 17,
+    "review_count": 28,
+    "score_rank": 71
+  },
+  {
+    "product_id": "664000",
+    "user_score": 89,
+    "update_count": 97,
+    "review_count": 43,
+    "score_rank": 74
+  },
+  {
+    "product_id": "664750",
+    "user_score": 97,
+    "update_count": 10,
+    "review_count": 45,
+    "score_rank": 97
+  },
+  {
+    "product_id": "665040",
+    "user_score": 66,
+    "update_count": 2,
+    "review_count": 36,
+    "score_rank": 23
+  },
+  {
+    "product_id": "666020",
+    "user_score": 93,
+    "update_count": 9,
+    "review_count": 500,
+    "score_rank": 82
+  },
+  {
+    "product_id": "666140",
+    "user_score": 92,
+    "update_count": 48,
+    "review_count": 2806,
+    "score_rank": 82
+  },
+  {
+    "product_id": "666310",
+    "user_score": 0,
+    "update_count": 29,
+    "review_count": 27,
+    "score_rank": ""
+  },
+  {
+    "product_id": "666730",
+    "user_score": 75,
+    "update_count": 17,
+    "review_count": 22,
+    "score_rank": 41
+  },
+  {
+    "product_id": "666820",
+    "user_score": 85,
+    "update_count": 18,
+    "review_count": 22,
+    "score_rank": 62
+  },
+  {
+    "product_id": "667810",
+    "user_score": 69,
+    "update_count": 8,
+    "review_count": 64,
+    "score_rank": 37
+  },
+  {
+    "product_id": "667970",
+    "user_score": 96,
+    "update_count": 16,
+    "review_count": 330,
+    "score_rank": 95
+  },
+  {
+    "product_id": "669320",
+    "user_score": 83,
+    "update_count": 44,
+    "review_count": 168,
+    "score_rank": 56
+  },
+  {
+    "product_id": "670160",
+    "user_score": 95,
+    "update_count": 11,
+    "review_count": 321,
+    "score_rank": 89
+  },
+  {
+    "product_id": "670260",
+    "user_score": 83,
+    "update_count": 65,
+    "review_count": 27,
+    "score_rank": 47
+  },
+  {
+    "product_id": "670490",
+    "user_score": 60,
+    "update_count": 24,
+    "review_count": 66,
+    "score_rank": 15
+  },
+  {
+    "product_id": "671440",
+    "user_score": 74,
+    "update_count": 8,
+    "review_count": 262,
+    "score_rank": 39
+  },
+  {
+    "product_id": "671510",
+    "user_score": 74,
+    "update_count": 16,
+    "review_count": 1302,
+    "score_rank": 37
+  },
+  {
+    "product_id": "672630",
+    "user_score": 79,
+    "update_count": 21,
+    "review_count": 243,
+    "score_rank": 47
+  },
+  {
+    "product_id": "672790",
+    "user_score": 80,
+    "update_count": 9,
+    "review_count": 20,
+    "score_rank": 74
+  },
+  {
+    "product_id": "673610",
+    "user_score": 82,
+    "update_count": 53,
+    "review_count": 1165,
+    "score_rank": 54
+  },
+  {
+    "product_id": "673750",
+    "user_score": 90,
+    "update_count": 4,
+    "review_count": 35,
+    "score_rank": 59
+  },
+  {
+    "product_id": "676760",
+    "user_score": 65,
+    "update_count": 4,
+    "review_count": 42,
+    "score_rank": 30
+  },
+  {
+    "product_id": "679260",
+    "user_score": 69,
+    "update_count": 10,
+    "review_count": 165,
+    "score_rank": 27
+  },
+  {
+    "product_id": "679270",
+    "user_score": 72,
+    "update_count": 34,
+    "review_count": 86,
+    "score_rank": 32
+  },
+  {
+    "product_id": "679400",
+    "user_score": 89,
+    "update_count": 14,
+    "review_count": 122,
+    "score_rank": 71
+  },
+  {
+    "product_id": "680440",
+    "user_score": 28,
+    "update_count": 2,
+    "review_count": 49,
+    "score_rank": 1
+  },
+  {
+    "product_id": "680860",
+    "user_score": 73,
+    "update_count": 21,
+    "review_count": 45,
+    "score_rank": 56
+  },
+  {
+    "product_id": "681060",
+    "user_score": 92,
+    "update_count": 10,
+    "review_count": 30,
+    "score_rank": 62
+  },
+  {
+    "product_id": "681280",
+    "user_score": 91,
+    "update_count": 14,
+    "review_count": 282,
+    "score_rank": 82
+  },
+  {
+    "product_id": "681330",
+    "user_score": 97,
+    "update_count": 13,
+    "review_count": 54,
+    "score_rank": 99
+  },
+  {
+    "product_id": "681390",
+    "user_score": 91,
+    "update_count": 22,
+    "review_count": 273,
+    "score_rank": 82
+  },
+  {
+    "product_id": "682140",
+    "user_score": 93,
+    "update_count": 3,
+    "review_count": 65,
+    "score_rank": 86
+  },
+  {
+    "product_id": "682530",
+    "user_score": 85,
+    "update_count": 5,
+    "review_count": 31,
+    "score_rank": 65
+  },
+  {
+    "product_id": "683690",
+    "user_score": 62,
+    "update_count": 6,
+    "review_count": 20,
+    "score_rank": 12
+  },
+  {
+    "product_id": "683770",
+    "user_score": 72,
+    "update_count": 6,
+    "review_count": 29,
+    "score_rank": 37
+  },
+  {
+    "product_id": "684040",
+    "user_score": 64,
+    "update_count": 12,
+    "review_count": 22,
+    "score_rank": 26
+  },
+  {
+    "product_id": "685420",
+    "user_score": 69,
+    "update_count": 8,
+    "review_count": 142,
+    "score_rank": 27
+  },
+  {
+    "product_id": "685690",
+    "user_score": 96,
+    "update_count": 11,
+    "review_count": 215,
+    "score_rank": 97
+  },
+  {
+    "product_id": "686200",
+    "user_score": 91,
+    "update_count": 7,
+    "review_count": 218,
+    "score_rank": 78
+  },
+  {
+    "product_id": "686260",
+    "user_score": 83,
+    "update_count": 11,
+    "review_count": 336,
+    "score_rank": 56
+  },
+  {
+    "product_id": "686680",
+    "user_score": 80,
+    "update_count": 38,
+    "review_count": 215,
+    "score_rank": 56
+  },
+  {
+    "product_id": "687630",
+    "user_score": 63,
+    "update_count": 4,
+    "review_count": 66,
+    "score_rank": 20
+  },
+  {
+    "product_id": "688360",
+    "user_score": 68,
+    "update_count": 10,
+    "review_count": 55,
+    "score_rank": 32
+  },
+  {
+    "product_id": "688880",
+    "user_score": 47,
+    "update_count": 4,
+    "review_count": 30,
+    "score_rank": 13
+  },
+  {
+    "product_id": "689520",
+    "user_score": 50,
+    "update_count": 10,
+    "review_count": 31,
+    "score_rank": 11
+  },
+  {
+    "product_id": "689570",
+    "user_score": 84,
+    "update_count": 7,
+    "review_count": 34,
+    "score_rank": 59
+  },
+  {
+    "product_id": "689620",
+    "user_score": 73,
+    "update_count": 31,
+    "review_count": 60,
+    "score_rank": 43
+  },
+  {
+    "product_id": "689700",
+    "user_score": 84,
+    "update_count": 2,
+    "review_count": 96,
+    "score_rank": 62
+  },
+  {
+    "product_id": "690040",
+    "user_score": 93,
+    "update_count": 12,
+    "review_count": 103,
+    "score_rank": 74
+  },
+  {
+    "product_id": "690510",
+    "user_score": 85,
+    "update_count": 38,
+    "review_count": 599,
+    "score_rank": 59
+  },
+  {
+    "product_id": "690610",
+    "user_score": 71,
+    "update_count": 8,
+    "review_count": 42,
+    "score_rank": 30
+  },
+  {
+    "product_id": "691320",
+    "user_score": 77,
+    "update_count": 3,
+    "review_count": 46,
+    "score_rank": 43
+  },
+  {
+    "product_id": "691390",
+    "user_score": 84,
+    "update_count": 8,
+    "review_count": 106,
+    "score_rank": 59
+  },
+  {
+    "product_id": "693580",
+    "user_score": 77,
+    "update_count": 6,
+    "review_count": 33,
+    "score_rank": 43
+  },
+  {
+    "product_id": "693750",
+    "user_score": 75,
+    "update_count": 27,
+    "review_count": 43,
+    "score_rank": 39
+  },
+  {
+    "product_id": "693790",
+    "user_score": 60,
+    "update_count": 4,
+    "review_count": 20,
+    "score_rank": 16
+  },
+  {
+    "product_id": "695690",
+    "user_score": 68,
+    "update_count": 33,
+    "review_count": 260,
+    "score_rank": 23
+  },
+  {
+    "product_id": "696370",
+    "user_score": 66,
+    "update_count": 8,
+    "review_count": 317,
+    "score_rank": 27
+  },
+  {
+    "product_id": "696650",
+    "user_score": 93,
+    "update_count": 39,
+    "review_count": 33,
+    "score_rank": 74
+  },
+  {
+    "product_id": "698260",
+    "user_score": 97,
+    "update_count": 18,
+    "review_count": 85,
+    "score_rank": 97
+  },
+  {
+    "product_id": "698640",
+    "user_score": 83,
+    "update_count": 13,
+    "review_count": 166,
+    "score_rank": 56
+  },
+  {
+    "product_id": "699390",
+    "user_score": 93,
+    "update_count": 9,
+    "review_count": 40,
+    "score_rank": 92
+  },
+  {
+    "product_id": "700030",
+    "user_score": 43,
+    "update_count": 18,
+    "review_count": 1686,
+    "score_rank": 5
+  },
+  {
+    "product_id": "700570",
+    "user_score": 72,
+    "update_count": 22,
+    "review_count": 69,
+    "score_rank": 32
+  },
+  {
+    "product_id": "700770",
+    "user_score": 82,
+    "update_count": 10,
+    "review_count": 41,
+    "score_rank": 51
+  },
+  {
+    "product_id": "701380",
+    "user_score": 100,
+    "update_count": 21,
+    "review_count": 28,
+    "score_rank": 100
+  },
+  {
+    "product_id": "703840",
+    "user_score": 92,
+    "update_count": 6,
+    "review_count": 139,
+    "score_rank": 82
+  },
+  {
+    "product_id": "704030",
+    "user_score": 77,
+    "update_count": 6,
+    "review_count": 155,
+    "score_rank": 51
+  },
+  {
+    "product_id": "704470",
+    "user_score": 93,
+    "update_count": 12,
+    "review_count": 25,
+    "score_rank": 95
+  },
+  {
+    "product_id": "704510",
+    "user_score": 88,
+    "update_count": 18,
+    "review_count": 36,
+    "score_rank": 62
+  },
+  {
+    "product_id": "704830",
+    "user_score": 55,
+    "update_count": 8,
+    "review_count": 108,
+    "score_rank": 15
+  },
+  {
+    "product_id": "705100",
+    "user_score": 93,
+    "update_count": 6,
+    "review_count": 64,
+    "score_rank": 86
+  },
+  {
+    "product_id": "706020",
+    "user_score": 68,
+    "update_count": 32,
+    "review_count": 267,
+    "score_rank": 27
+  },
+  {
+    "product_id": "706840",
+    "user_score": 65,
+    "update_count": 3,
+    "review_count": 26,
+    "score_rank": 22
+  },
+  {
+    "product_id": "707590",
+    "user_score": 83,
+    "update_count": 78,
+    "review_count": 41,
+    "score_rank": 59
+  },
+  {
+    "product_id": "708890",
+    "user_score": 94,
+    "update_count": 13,
+    "review_count": 20,
+    "score_rank": 92
+  },
+  {
+    "product_id": "710610",
+    "user_score": 97,
+    "update_count": 20,
+    "review_count": 54,
+    "score_rank": 95
+  },
+  {
+    "product_id": "711440",
+    "user_score": 91,
+    "update_count": 5,
+    "review_count": 54,
+    "score_rank": 82
+  },
+  {
+    "product_id": "713460",
+    "user_score": 83,
+    "update_count": 4,
+    "review_count": 27,
+    "score_rank": 59
+  },
+  {
+    "product_id": "714010",
+    "user_score": 51,
+    "update_count": 22,
+    "review_count": 78,
+    "score_rank": 24
+  },
+  {
+    "product_id": "714640",
+    "user_score": 74,
+    "update_count": 2,
+    "review_count": 34,
+    "score_rank": 21
+  },
+  {
+    "product_id": "715410",
+    "user_score": 0,
+    "update_count": 13,
+    "review_count": 26,
+    "score_rank": ""
+  },
+  {
+    "product_id": "716380",
+    "user_score": 96,
+    "update_count": 11,
+    "review_count": 30,
+    "score_rank": 95
+  },
+  {
+    "product_id": "717790",
+    "user_score": 74,
+    "update_count": 40,
+    "review_count": 131,
+    "score_rank": 37
+  },
+  {
+    "product_id": "718010",
+    "user_score": 92,
+    "update_count": 2,
+    "review_count": 33,
+    "score_rank": 74
+  },
+  {
+    "product_id": "718090",
+    "user_score": 100,
+    "update_count": 9,
+    "review_count": 56,
+    "score_rank": 95
+  },
+  {
+    "product_id": "718650",
+    "user_score": 84,
+    "update_count": 6,
+    "review_count": 167,
+    "score_rank": 59
+  },
+  {
+    "product_id": "719590",
+    "user_score": 60,
+    "update_count": 12,
+    "review_count": 253,
+    "score_rank": 16
+  },
+  {
+    "product_id": "722670",
+    "user_score": 77,
+    "update_count": 22,
+    "review_count": 69,
+    "score_rank": 43
+  },
+  {
+    "product_id": "722730",
+    "user_score": 96,
+    "update_count": 22,
+    "review_count": 305,
+    "score_rank": 97
+  },
+  {
+    "product_id": "724470",
+    "user_score": 92,
+    "update_count": 23,
+    "review_count": 31,
+    "score_rank": 86
+  },
+  {
+    "product_id": "725960",
+    "user_score": 46,
+    "update_count": 8,
+    "review_count": 41,
+    "score_rank": 8
+  },
+  {
+    "product_id": "726250",
+    "user_score": 92,
+    "update_count": 7,
+    "review_count": 59,
+    "score_rank": 86
+  },
+  {
+    "product_id": "727460",
+    "user_score": 72,
+    "update_count": 7,
+    "review_count": 30,
+    "score_rank": 39
+  },
+  {
+    "product_id": "728730",
+    "user_score": 88,
+    "update_count": 7,
+    "review_count": 296,
+    "score_rank": 68
+  },
+  {
+    "product_id": "734580",
+    "user_score": 68,
+    "update_count": 43,
+    "review_count": 1020,
+    "score_rank": 25
+  },
+  {
+    "product_id": "735850",
+    "user_score": 51,
+    "update_count": 5,
+    "review_count": 92,
+    "score_rank": 9
+  },
+  {
+    "product_id": "738500",
+    "user_score": 43,
+    "update_count": 22,
+    "review_count": 164,
+    "score_rank": 5
+  },
+  {
+    "product_id": "738610",
+    "user_score": 81,
+    "update_count": 39,
+    "review_count": 72,
+    "score_rank": 49
+  },
+  {
+    "product_id": "740290",
+    "user_score": 72,
+    "update_count": 7,
+    "review_count": 114,
+    "score_rank": 37
+  },
+  {
+    "product_id": "741430",
+    "user_score": 82,
+    "update_count": 5,
+    "review_count": 41,
+    "score_rank": 51
+  },
+  {
+    "product_id": "742460",
+    "user_score": 88,
+    "update_count": 17,
+    "review_count": 42,
+    "score_rank": 82
+  },
+  {
+    "product_id": "746930",
+    "user_score": 86,
+    "update_count": 17,
+    "review_count": 499,
+    "score_rank": 71
+  },
+  {
+    "product_id": "747100",
+    "user_score": 58,
+    "update_count": 3,
+    "review_count": 34,
+    "score_rank": 10
+  },
+  {
+    "product_id": "748370",
+    "user_score": 80,
+    "update_count": 23,
+    "review_count": 548,
+    "score_rank": 54
+  },
+  {
+    "product_id": "749540",
+    "user_score": 79,
+    "update_count": 8,
+    "review_count": 59,
+    "score_rank": 54
+  },
+  {
+    "product_id": "752910",
+    "user_score": 100,
+    "update_count": 5,
+    "review_count": 55,
+    "score_rank": 89
+  },
+  {
+    "product_id": "755770",
+    "user_score": 58,
+    "update_count": 2,
+    "review_count": 90,
+    "score_rank": 14
+  },
+  {
+    "product_id": "756360",
+    "user_score": 68,
+    "update_count": 4,
+    "review_count": 97,
+    "score_rank": 35
+  },
+  {
+    "product_id": "756600",
+    "user_score": 94,
+    "update_count": 5,
+    "review_count": 29,
+    "score_rank": 86
+  },
+  {
+    "product_id": "757240",
+    "user_score": 98,
+    "update_count": 11,
+    "review_count": 176,
+    "score_rank": 99
+  },
+  {
+    "product_id": "758190",
+    "user_score": 89,
+    "update_count": 20,
+    "review_count": 94,
+    "score_rank": 74
+  },
+  {
+    "product_id": "758990",
+    "user_score": 90,
+    "update_count": 3,
+    "review_count": 42,
+    "score_rank": 82
+  },
+  {
+    "product_id": "763430",
+    "user_score": 72,
+    "update_count": 5,
+    "review_count": 35,
+    "score_rank": 26
+  },
+  {
+    "product_id": "765180",
+    "user_score": 52,
+    "update_count": 2,
+    "review_count": 24,
+    "score_rank": 18
+  },
+  {
+    "product_id": "765250",
+    "user_score": 95,
+    "update_count": 9,
+    "review_count": 27,
+    "score_rank": 95
+  },
+  {
+    "product_id": "773951",
+    "user_score": 91,
+    "update_count": 25,
+    "review_count": 1939,
+    "score_rank": 78
+  },
+  {
+    "product_id": "775940",
+    "user_score": 94,
+    "update_count": 5,
+    "review_count": 75,
+    "score_rank": 89
+  },
+  {
+    "product_id": "786410",
+    "user_score": 83,
+    "update_count": 4,
+    "review_count": 38,
+    "score_rank": 54
+  }
+]
