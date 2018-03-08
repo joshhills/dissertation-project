@@ -1,0 +1,20 @@
+version: '3'
+services:
+  analysis-local:
+    hostname: analysis-local
+    build:
+      context: ..
+      dockerfile: ./docker/local
+    image: analysis-local
+    volumes:
+      - ../work:/home/jovyan/work
+    ports:
+      - 8888:8888
+  analysis-remote:
+    hostname: analysis-remote
+    build:
+      context: ..
+      dockerfile: ./docker/remote
+    image: analysis-remote
+    ports:
+      - 8888:8888
