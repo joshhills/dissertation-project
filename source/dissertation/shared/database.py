@@ -156,6 +156,7 @@ class Couchbase(Database):
 
     def run_query(self, query, name):
         self.last_active_bucket = self.cluster.open_bucket(name)
+        self.last_active_bucket.n1ql_timeout = 900.0
         q = N1QLQuery(query)
         results = self.last_active_bucket.n1ql_query(q)
         return results
