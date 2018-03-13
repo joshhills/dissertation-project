@@ -2,76 +2,37 @@
 
 import shared.database
 
-db = shared.database.Couchbase(host="couchbase://128.199.62.177")
+db = shared.database.Couchbase(host="couchbase://127.0.0.1")
 
 product_ids_results = db.run_query('select product_id from job', 'job')
 
-free_review_counts = []
+playtime_and_upvotes = []
 
 for row1 in product_ids_results:
     product_id = row1['product_id']
 
     print "Working on " + product_id
 
-    total_reviews = -1
-    total_positive = -1
-    total_free_reviews = -1
-    total_free_positive = -1
+    error = True
+    results = []
+    while error:
+        try:
+            results = db.run_query('select raw max([t.distinct_average_votes_up, {t.distinct_average_votes_up, t.author_total_playtime}])[1] from (select author_total_playtime, avg(distinct votes_up) as distinct_average_votes_up from review where product_id = "' + str(product_id) + '" group by author_total_playtime) t', 'job')
 
-    total_free_reviews_results = db.run_query(
-        'select count(*) as cnt from review where product_id = "{0}" and received_for_free = true'.format(product_id),
-        'job'
-    )
+            for row in results:
+                results_object = {
+                    'author_total_playtime': row['author_total_playtime'],
+                    'distinct_average_votes_up': row['distinct_average_votes_up']
+                }
 
-    for row2 in total_free_reviews_results:
-        total_free_reviews = int(row2['cnt'])
+            print results_object
+            print '=-=-=-=-=-=-=-=-=-=-=-='
 
-    if total_free_reviews < 1:
-        print "Product " + product_id + " has no free reviews"
-        continue
+            playtime_and_upvotes.append(results_object)
 
-    total_reviews_results = db.run_query(
-        'select count(*) as cnt from review where product_id = "{0}"'.format(product_id),
-        'job'
-    )
-
-    for row2 in total_reviews_results:
-        total_reviews = row2['cnt']
-
-    total_positive_reviews_results = db.run_query(
-        'select count(*) as cnt from review where product_id = "{0}" and voted_up = true'.format(product_id),
-        'job'
-    )
-
-    for row2 in total_positive_reviews_results:
-        total_positive = row2['cnt']
-
-    total_free_positive_results = db.run_query(
-        'select count(*) as cnt from review where product_id = "{0}" and voted_up = true and received_for_free = true'.format(product_id),
-        'job'
-    )
-
-    for row2 in total_free_positive_results:
-        total_free_positive = row2['cnt']
-
-    # Finally, build object...
-    results_object = {
-        "product_id": product_id,
-        "total_reviews": total_reviews,
-        "total_reviews_positive": total_positive,
-        "total_reviews_negative": total_reviews - total_positive,
-        "total_reviews_purchased": total_reviews - total_free_reviews,
-        "total_reviews_purchased_positive": total_positive - total_free_positive,
-        "total_reviews_purchased_negative": (total_reviews - total_free_reviews) - (total_positive - total_free_positive),
-        "total_reviews_free": total_free_reviews,
-        "total_reviews_free_positive": total_free_positive,
-        "total_reviews_free_negative": total_free_reviews - total_free_positive
-    }
-
-    print results_object
-    print '=-=-=-=-=-=-=-=-=-=-=-='
-
-    free_review_counts.append(results_object)
+            error = False
+        except Exception, e:
+            print "Timed out on {0}, trying again.".format(product_id)
 
 print "Finally"
-print free_review_counts
+print playtime_and_upvotes
