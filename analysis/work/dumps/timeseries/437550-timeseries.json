@@ -1,0 +1,4376 @@
+[
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 0,
+    "day_start_time": 1477958400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 0,
+    "day_start_time": 1478044800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 0,
+    "day_start_time": 1478131200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478217600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478304000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478390400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 2,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478476800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478563200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478649600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478736000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478822400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478908800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1478995200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479081600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479168000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479254400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479340800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479427200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479513600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479600000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479686400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479772800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479859200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1479945600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480032000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480118400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480204800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480291200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480377600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480464000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480550400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480636800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480723200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480809600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480896000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1480982400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1481068800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1481155200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1481241600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 100,
+    "day_start_time": 1481328000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1481414400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1481500800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1481587200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 100,
+    "day_start_time": 1481673600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 100,
+    "day_start_time": 1481760000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 86,
+    "day_start_time": 1481846400,
+    "total_reviews_voted_down": 1,
+    "total_reviews": 2,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1481932800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1482019200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1482105600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1482192000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 88,
+    "day_start_time": 1482278400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1482364800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1482451200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1482537600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1482624000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1482710400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1482796800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1482883200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1482969600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483056000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483142400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483228800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483315200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483401600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483488000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483574400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483660800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483747200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483833600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1483920000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1484006400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1484092800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484179200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484265600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484352000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484438400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484524800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484611200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484697600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484784000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484870400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1484956800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485043200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485129600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485216000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485302400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485388800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485475200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485561600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485648000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485734400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485820800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485907200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1485993600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1486080000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1486166400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1486252800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1486339200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1486425600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1486512000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1486598400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1486684800,
+    "total_reviews_voted_down": 1,
+    "total_reviews": 1,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1486771200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1486857600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1486944000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487030400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487116800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487203200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487289600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487376000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487462400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487548800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487635200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487721600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487808000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487894400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1487980800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488067200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488153600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488240000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488326400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488412800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488499200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488585600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488672000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488758400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488844800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1488931200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1489017600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1489104000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 82,
+    "day_start_time": 1489190400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1489276800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1489363200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 75,
+    "day_start_time": 1489449600,
+    "total_reviews_voted_down": 1,
+    "total_reviews": 1,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 75,
+    "day_start_time": 1489536000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 75,
+    "day_start_time": 1489622400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 75,
+    "day_start_time": 1489708800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 75,
+    "day_start_time": 1489795200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 77,
+    "day_start_time": 1489881600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1489968000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490054400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490140800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490227200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490313600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490400000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490486400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490572800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490659200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490745600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490832000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1490918400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1491004800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1491091200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1491177600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1491264000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 77,
+    "day_start_time": 1491350400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 79,
+    "day_start_time": 1491436800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 79,
+    "day_start_time": 1491523200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 79,
+    "day_start_time": 1491609600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 79,
+    "day_start_time": 1491696000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 79,
+    "day_start_time": 1491782400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 79,
+    "day_start_time": 1491868800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 79,
+    "day_start_time": 1491955200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 79,
+    "day_start_time": 1492041600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 79,
+    "day_start_time": 1492128000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 79,
+    "day_start_time": 1492214400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 80,
+    "day_start_time": 1492300800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1492387200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1492473600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1492560000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1492646400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1492732800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 80,
+    "day_start_time": 1492819200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 81,
+    "day_start_time": 1492905600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 81,
+    "day_start_time": 1492992000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 81,
+    "day_start_time": 1493078400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 81,
+    "day_start_time": 1493164800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 81,
+    "day_start_time": 1493251200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 81,
+    "day_start_time": 1493337600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 81,
+    "day_start_time": 1493424000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 82,
+    "day_start_time": 1493510400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1493596800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1493683200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1493769600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1493856000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1493942400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1494028800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1494115200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1494201600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1494288000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1494374400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 82,
+    "day_start_time": 1494460800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 83,
+    "day_start_time": 1494547200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1494633600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1494720000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1494806400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1494892800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1494979200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495065600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495152000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495238400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495324800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495411200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495497600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495584000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495670400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495756800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495843200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1495929600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496016000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496102400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496188800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496275200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496361600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496448000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496534400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496620800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496707200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496793600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496880000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1496966400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1497052800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497139200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497225600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497312000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497398400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497484800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 8,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497571200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497657600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497744000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497830400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1497916800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498003200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498089600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498176000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498262400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498348800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498435200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498521600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498608000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498694400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498780800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498867200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1498953600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1499040000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1499126400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1499212800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1499299200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1499385600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1499472000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1499558400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 85,
+    "day_start_time": 1499644800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1499731200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1499817600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1499904000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1499990400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500076800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500163200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500249600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500336000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500422400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500508800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500595200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500681600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500768000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500854400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1500940800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1501027200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1501113600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501200000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501286400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501372800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501459200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501545600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501632000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501718400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501804800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501891200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1501977600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502064000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502150400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502236800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502323200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 2,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502409600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502496000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502582400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502668800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502755200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502841600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1502928000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503014400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503100800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503187200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503273600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503360000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503446400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503532800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503619200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503705600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503792000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503878400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1503964800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504051200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504137600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504224000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504310400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 6
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504396800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504483200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504569600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504656000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504742400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504828800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1504915200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505001600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505088000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505174400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505260800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505347200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505433600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505520000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505606400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505692800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505779200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505865600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1505952000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1506038400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 87,
+    "day_start_time": 1506124800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1506211200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1506297600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1506384000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1506470400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 88,
+    "day_start_time": 1506556800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1506643200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1506729600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1506816000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1506902400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1506988800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507075200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507161600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507248000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 3,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507334400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507420800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507507200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507593600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507680000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507766400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507852800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1507939200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508025600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508112000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508198400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508284800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508371200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508457600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508544000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508630400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508716800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508803200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508889600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1508976000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509062400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509148800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509235200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509321600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509408000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509494400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509580800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509667200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509753600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509840000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1509926400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1510012800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 88,
+    "day_start_time": 1510099200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 89,
+    "day_start_time": 1510185600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 89,
+    "day_start_time": 1510272000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1510358400,
+    "total_reviews_voted_down": 1,
+    "total_reviews": 1,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 86,
+    "day_start_time": 1510444800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1510531200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1510617600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1510704000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1510790400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1510876800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1510963200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511049600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511136000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511222400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511308800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511395200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511481600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511568000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511654400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511740800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511827200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1511913600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512000000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512086400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512172800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512259200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512345600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512432000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512518400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512604800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512691200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512777600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512864000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1512950400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1513036800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1513123200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1513209600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 86,
+    "day_start_time": 1513296000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 87,
+    "day_start_time": 1513382400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1513468800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1513555200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1513641600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1513728000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1513814400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 87,
+    "day_start_time": 1513900800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1513987200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 87,
+    "day_start_time": 1514073600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1514160000,
+    "total_reviews_voted_down": 1,
+    "total_reviews": 1,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1514246400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1514332800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1514419200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1514505600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1514592000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 84,
+    "day_start_time": 1514678400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 85,
+    "day_start_time": 1514764800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1514851200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1514937600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515024000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515110400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515196800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515283200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 5
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515369600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515456000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515542400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515628800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515715200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515801600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 7
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 85,
+    "day_start_time": 1515888000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1515974400,
+    "total_reviews_voted_down": 1,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516060800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516147200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516233600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516320000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516406400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516492800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516579200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516665600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 1,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516752000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 1,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516838400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1516924800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517011200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 6
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517097600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517184000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517270400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517356800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517443200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517529600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517616000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517702400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517788800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517875200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1517961600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518048000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518134400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518220800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518307200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518393600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518480000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518566400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518652800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518739200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 1
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518825600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518912000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1518998400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 2
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519084800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519171200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519257600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519344000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 3
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519430400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 4
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519516800,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 0
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519603200,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 0
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519689600,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 0
+  },
+  {
+    "total_updates": 0,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519776000,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 0
+  },
+  {
+    "total_updates": 1,
+    "total_reviews_voted_up": 0,
+    "user_score_snapshot": 83,
+    "day_start_time": 1519862400,
+    "total_reviews_voted_down": 0,
+    "total_reviews": 0,
+    "peak_ccu": 0
+  }
+]
